@@ -1,0 +1,50 @@
+{"query": "我的社保卡丢了怎么办？", "category": "B2", "cost_label": 1, "style": "疑问，焦虑"}
+{"query": "医保报销流程太复杂了，谁能教教我？", "category": "B2", "cost_label": 1, "style": "疑问，抱怨"}
+{"query": "公积金能不能用来买保险啊？", "category": "B2", "cost_label": 1, "style": "疑问，好奇"}
+{"query": "社保断缴了会影响退休金吗？", "category": "B2", "cost_label": 1, "style": "疑问，担心"}
+{"query": "驾照快到期了，咋办？", "category": "B2", "cost_label": 1, "style": "疑问，急迫"}
+{"query": "听说新出的养老保险政策挺好的，是真的吗？", "category": "B2", "cost_label": 1, "style": "疑问，期待"}
+{"query": "我刚来这个城市工作，社保得怎么弄？", "category": "B2", "cost_label": 1, "style": "疑问，迷茫"}
+{"query": "医保账户的钱可以取出来用吗？", "category": "B2", "cost_label": 1, "style": "疑问，探索"}
+{"query": "社保和医保到底有啥区别？", "category": "B2", "cost_label": 1, "style": "疑问，困惑"}
+{"query": "驾照考试预约怎么这么难，有没有什么技巧？", "category": "B2", "cost_label": 1, "style": "疑问，沮丧"}
+{"query": "我的社保卡丢了怎么办啊？", "category": "B2", "cost_label": 1, "style": "疑问，焦虑"}
+{"query": "能不能帮我查一下医保的余额？", "category": "B2", "cost_label": 1, "style": "陈述，平静"}
+{"query": "我这月的公积金还没到账呢！", "category": "B2", "cost_label": 1, "style": "陈述，焦虑"}
+{"query": "我想问下社保转到外地需要啥手续？", "category": "B2", "cost_label": 1, "style": "疑问，平静"}
+{"query": "为啥我交了这么多年社保还没享受到啥好处！", "category": "B2", "cost_label": 1, "style": "疑问，愤怒"}
+{"query": "医保报销的流程是咋样的？", "category": "B2", "cost_label": 1, "style": "疑问，平静"}
+{"query": "社保卡忘带了，看病还能报吗？", "category": "B2", "cost_label": 1, "style": "疑问，焦虑"}
+{"query": "个税的事儿，你能给我解释清楚吗？", "category": "B2", "cost_label": 1, "style": "疑问，平静"}
+{"query": "驾照过期了，要咋办？", "category": "B2", "cost_label": 1, "style": "疑问，平静"}
+{"query": "最近老是扣工资，啥情况？", "category": "B2", "cost_label": 1, "style": "疑问，焦虑"}
+{"query": "医保卡忘记密码了咋办？", "category": "B2", "cost_label": 1, "style": "疑问, 焦虑, 口语化"}
+{"query": "社保断缴了会不会影响退休金？", "category": "B2", "cost_label": 1, "style": "疑问, 平静, 自然"}
+{"query": "公积金跟医保能不能一起转移？", "category": "B2", "cost_label": 1, "style": "疑问, 犹豫, 自然"}
+{"query": "急！驾照到期了怎么换证啊？", "category": "B2", "cost_label": 1, "style": "疑问, 紧迫, 口语化"}
+{"query": "社保卡丢了，补办需要多久？", "category": "B2", "cost_label": 1, "style": "疑问, 焦虑, 自然"}
+{"query": "医保报销是不是只能在本地医院？", "category": "B2", "cost_label": 1, "style": "疑问, 疑惑, 口语化"}
+{"query": "我这社保缴费基数怎么算的？", "category": "B2", "cost_label": 1, "style": "疑问, 求助, 口语化"}
+{"query": "听说失业保险金领取条件变严了？", "category": "B2", "cost_label": 1, "style": "陈述, 焦虑, 自然"}
+{"query": "公积金账户余额怎么查？", "category": "B2", "cost_label": 1, "style": "疑问, 平静, 自然"}
+{"query": "医保异地就医怎么备案？", "category": "B2", "cost_label": 1, "style": "疑问, 紧迫, 自然"}
+{"query": "我社保卡丢了咋办？", "category": "B2", "cost_label": 1, "style": "疑问，焦虑"}
+{"query": "医保能用来买保健品吗？", "category": "B2", "cost_label": 1, "style": "疑问，平静"}
+{"query": "公积金和社保可以一起转吗？", "category": "B2", "cost_label": 1, "style": "疑问，平静"}
+{"query": "急！社保卡忘记密码了怎么办？", "category": "B2", "cost_label": 1, "style": "疑问，焦急"}
+{"query": "社保断缴影响啥？", "category": "B2", "cost_label": 1, "style": "疑问，焦虑"}
+{"query": "为啥我的医保报销不了？", "category": "B2", "cost_label": 1, "style": "疑问，愤怒"}
+{"query": "驾照过期了还能用社保卡办事吗？", "category": "B2", "cost_label": 1, "style": "疑问，疑惑"}
+{"query": "社保卡和医保卡是一回事儿吗？", "category": "B2", "cost_label": 1, "style": "疑问，好奇"}
+{"query": "公积金提取需要啥手续？", "category": "B2", "cost_label": 1, "style": "疑问，平静"}
+{"query": "医保卡里钱咋没啦？", "category": "B2", "cost_label": 1, "style": "疑问，困惑"}
+{"query": "我医保卡掉了，怎么办？", "category": "B2", "cost_label": 1, "style": "疑问, 平静"}
+{"query": "社保卡到期了咋办？", "category": "B2", "cost_label": 1, "style": "疑问, 焦虑"}
+{"query": "公积金能不能直接用来买房啊？", "category": "B2", "cost_label": 1, "style": "疑问, 好奇"}
+{"query": "个税申报是不是每年都得做？", "category": "B2", "cost_label": 1, "style": "疑问, 求确认"}
+{"query": "驾照丢了，急！能帮我快点解决吗？", "category": "B2", "cost_label": 1, "style": "陈述, 紧迫"}
+{"query": "医保报销流程是不是很复杂？", "category": "B2", "cost_label": 1, "style": "疑问, 疑惑"}
+{"query": "社保断缴了会有什么影响？", "category": "B2", "cost_label": 1, "style": "疑问, 焦虑"}
+{"query": "公积金贷款利率比商业贷款低吧？", "category": "B2", "cost_label": 1, "style": "疑问, 期待"}
+{"query": "个税怎么少交一点？", "category": "B2", "cost_label": 1, "style": "陈述, 务实"}
+{"query": "驾照年审忘记办了，会不会被罚？", "category": "B2", "cost_label": 1, "style": "疑问, 紧张"}

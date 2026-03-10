@@ -1,0 +1,1788 @@
+question,type,intent
+行业ic怎么看,train,Knowledge Base
+消息榜是什么追问“有什么功能优势追问“可以提供什么信息,train,Knowledge Base
+证券印花税各营业部是不是一致的？,train,Knowledge Base
+虚拟货币能参与吗？,train,Knowledge Base
+K线图上在哪里设置小绿锁,train,Knowledge Base
+炒股靠什么,train,Knowledge Base
+三步战法的含义是什么追问“有什么优势”,train,Knowledge Base
+估值有什么用，追问“怎么用来查看股票风险,train,Knowledge Base
+股价站上无穷成本均线但主力资金未流入，是否值得关注？,train,Knowledge Base
+供求资金是什么？智能阿尔法有什么用,train,Knowledge Base
+成交量是否在股价上涨时放大，下跌时萎缩？,train,Knowledge Base
+长期开通三步战法需要多少费用？,train,Knowledge Base
+资金龙虎榜数据更新频率？,train,Knowledge Base
+震荡市和牛市出现小绿锁怎么办？小绿锁是否可以和其它指标结合,train,Knowledge Base
+B股股票能用三步战法么,train,Knowledge Base
+什么是国债逆回购？,train,Knowledge Base
+为什么债券型基金不显示主力资金指标？,train,Knowledge Base
+什么是估值,train,Knowledge Base
+波段决策提示“开仓是否意味着整个波段都会上涨？,train,Knowledge Base
+历史回测数据与实际操作差异大的原因？,train,Knowledge Base
+0z指数是什么？,train,Knowledge Base
+波段决策是什么，追问“如何开启或关闭,train,Knowledge Base
+CYS13指标与主力资金流入的关系应如何结合分析？,train,Knowledge Base
+调整后的三步战法设置为什么无法保存？,train,Knowledge Base
+如何评估一份研报的质量和可信度？有没有一些关键指标或方法可以参考？,train,Knowledge Base
+多空资金由红转绿是否立即卖出？,train,Knowledge Base
+并购重组的股票如何选？,train,Knowledge Base
+三步战法与股票走势矛盾,train,Knowledge Base
+在下跌趋势中，主力资金逆势流入是否值得关注？,train,Knowledge Base
+当个股天气预测与波段决策矛盾时如何选择？,train,Knowledge Base
+短线操作应关注1日还是3日主力资金数据？,train,Knowledge Base
+为何三步战法提示买入但其他策略（如波段决策）提示持有？,train,Knowledge Base
+消息榜的有什么优势,train,Knowledge Base
+量价关系都有哪些？,train,Knowledge Base
+资金龙虎榜提示关注但主力资金显示流出，如何决策？,train,Knowledge Base
+为何切换账号后三步战法功能消失？,train,Knowledge Base
+手机版软件是否支持查看13日累计主力资金数据？,train,Knowledge Base
+趋势活金怎么调用,train,Knowledge Base
+软件不显示小绿锁如何解决？,train,Knowledge Base
+为何点击波段决策后会跳转到四川长虹等特定股票？,train,Knowledge Base
+融资融券数据是否会导致多空资金变化？,train,Knowledge Base
+波段决策“清仓必须立即卖出么,train,Knowledge Base
+敢死队资金功能优势是什么？估值空间又是什么意思？,train,Knowledge Base
+如何在电脑版查看趋势活金三步战法的教学视频？,train,Knowledge Base
+自选股如何排序,train,Knowledge Base
+筹码分布的功能是什么，追问“有什么优势”,train,Knowledge Base
+绿锁出现后资金统计显示流入，是否信号错误？,train,Knowledge Base
+主力资金持续流入但股价横盘震荡，可能是什么原因？,train,Knowledge Base
+"""趋势活金三步战法""如何应用？",train,Knowledge Base
+小绿锁的教学案例是否充足？,train,Knowledge Base
+当股价突破布林线上轨但波段决策提示开仓，如何操作？,train,Knowledge Base
+仓位控制怎么做？,train,Knowledge Base
+软件提示"当前版本不支持盘中查看主力资金"，如何解决？,train,Knowledge Base
+股价突破均线但多空资金不足时的操作策略？,train,Knowledge Base
+盘后显示主力资金流入但当日分时图显示持续流出，如何解释？,train,Knowledge Base
+大数据主力雷达是什么,train,Knowledge Base
+如何修改三步战法的默认参数（如主力1日、敢死队3日、多空5日）？,train,Knowledge Base
+轮动指标与多空资金的参数协调问题？,train,Knowledge Base
+主力资金持续流入但融资余额下降，如何解读？,train,Knowledge Base
+机构扫盘有什么用？牛马熊含义是什么,train,Knowledge Base
+波段决策中的$代表什么,train,Knowledge Base
+如何添加自选股,train,Knowledge Base
+波段决策在MACD/KDJ等传统指标背离时的可靠性,train,Knowledge Base
+小绿锁一般在什么时候出现,train,Knowledge Base
+主力资金布局周期与敢死队资金快进快出的矛盾如何协调？,train,Knowledge Base
+绿锁出现后股价继续大涨，如何分析矛盾现象？,train,Knowledge Base
+为何股票涨停后三步战法仍显示空仓状态？,train,Knowledge Base
+波段决策在次新股中的适用性如何？如何通过波段决策判断突破有效性（如压力位）,train,Knowledge Base
+小绿锁的提示信息是否足够清晰？,train,Knowledge Base
+手机端购买的三步战法功能为何在电脑版无法同步使用？,train,Knowledge Base
+如何解决三步战法界面显示异常（如顶部菜单无法下拉）？,train,Knowledge Base
+为何开通三步战法后仍只能查看5只股票？,train,Knowledge Base
+多空资金选股是否需要考虑流通市值？,train,Knowledge Base
+股票涨停但主力资金显示流出，这种现象是否合理？,train,Knowledge Base
+小绿锁和波段决策有冲突怎么办,train,Knowledge Base
+为何部分股票（如300123）在三步战法中无信号但实际股价上涨？,train,Knowledge Base
+北交所股票为何没有多空资金数据？,train,Knowledge Base
+多空资金流入但股价下跌如何解释？,train,Knowledge Base
+三步战法的成功率如何？是否有数据支持？,train,Knowledge Base
+活跃度指标高位但主力资金流出，如何判断风险？,train,Knowledge Base
+个股成交量放大但主力资金显示流出，这种现象是否正常？,train,Knowledge Base
+股价活跃度、成本均线的优势各是什么,train,Knowledge Base
+为什么北交所股票不显示敢死队资金数据？,train,Knowledge Base
+同一股票在指南针显示主力资金流入，而Level-2数据却显示流出，如何解释？,train,Knowledge Base
+部分股票（如688开头）不显示波段决策信号的原因？,train,Knowledge Base
+切换股票时三步战法界面内容不更新怎么办？,train,Knowledge Base
+为什么盘中无法实时查看主力资金动态？,train,Knowledge Base
+点击三步战法后其他指标（如布林线）消失，如何恢复？,train,Knowledge Base
+分时图中主力资金指标不更新，如何解决？,train,Knowledge Base
+多空资金比例怎么算的,train,Knowledge Base
+私募英雄榜怎么用？,train,Knowledge Base
+电脑版软件无法显示波段决策信号，如何解决？,train,Knowledge Base
+为什么主力资金显示流入但股价下跌？,train,Knowledge Base
+小绿锁的算法是否开源或可解释？,train,Knowledge Base
+电脑版波段决策信号与手机版不同步的原因？,train,Knowledge Base
+为什么多空资金选出的股票次日表现不佳？,train,Knowledge Base
+为什么部分股票波段决策信号与股价走势明显背离？,train,Knowledge Base
+擒龙版有哪些主要功能？,train,Knowledge Base
+为什么新股上市初期没有主力资金数据？,train,Knowledge Base
+小绿锁在早盘和尾盘出现的操作差异？,train,Knowledge Base
+主力资金和敢死队资金哪个对股价影响更大？,train,Knowledge Base
+小绿锁是否应增加二次确认机制？,train,Knowledge Base
+当财务指标（如现金流）与波段决策矛盾时如何选择？,train,Knowledge Base
+为什么盘后多空资金数据与盘中显示不同？,train,Knowledge Base
+个股连续多日小单净流入能否视为散户资金主导行情？,train,Knowledge Base
+出现绿锁代表什么？是否必须卖出？,train,Knowledge Base
+三步战法的信号是否滞后？如何避免马后炮问题？,train,Knowledge Base
+小绿锁出现后一定要卖出吗,train,Knowledge Base
+手机版波段决策信号与电脑版显示不一致怎么办？,train,Knowledge Base
+主力资金流入百分比的计算基准是什么（流通市值/总市值）？,train,Knowledge Base
+为何三步战法界面不显示K线图中的红绿柱或均线？,train,Knowledge Base
+指南针与其他平台的主力资金统计差异较大的原因是什么？,train,Knowledge Base
+升级软件后波段决策功能消失，如何恢复？,train,Knowledge Base
+敢死队资金短期大幅波动对股价的影响如何分析？,train,Knowledge Base
+私享家的主要功能有哪些？,train,Knowledge Base
+筹码分布是什么？,train,Knowledge Base
+什么是波段决策,train,Knowledge Base
+小绿锁导致频繁卖飞牛股如何解决？,train,Knowledge Base
+波段决策功能突然无法使用（如显示“继续学习），如何解决？,train,Knowledge Base
+大宗交易平台显示机构买入但主力资金未体现，如何解释？,train,Knowledge Base
+软件升级后主力资金历史数据丢失，如何恢复？,train,Knowledge Base
+出现绿锁时是否需要结合主力资金流出情况判断？,train,Knowledge Base
+小绿锁的误报率降低方案？,train,Knowledge Base
+活跃度指标高位与主力资金流出同时出现时的风险评估？,train,Knowledge Base
+主力大单显示流出但主力资金整体净流入，如何解释？,train,Knowledge Base
+怎么用三步战法判断股票潜力,train,Knowledge Base
+多空资金统计是否存在未来函数？,train,Knowledge Base
+在弱势行情中，主力资金小幅流入是否具有参考价值？,train,Knowledge Base
+波段决策在震荡市频繁发出错误信号，如何优化？,train,Knowledge Base
+不同周期（1日/3日/13日）主力资金数据出现矛盾时的处理方法？,train,Knowledge Base
+小绿锁与期权对冲策略的结合？,train,Knowledge Base
+为何股票符合三步战法但实际走势不符合预期？,train,Knowledge Base
+小绿锁与主力对倒行为的识别问题？,train,Knowledge Base
+为什么ST股票不显示主力资金数据？,train,Knowledge Base
+小绿锁与其它软件卖出信号的优劣对比？,train,Knowledge Base
+如何取消三步战法界面下的自选股显示？,train,Knowledge Base
+能否自定义小绿锁的触发条件？,train,Knowledge Base
+主力资金、敢死队资金、多空资金的时间周期应设置为几日？,train,Knowledge Base
+波段决策K线图中红绿柱状图的实心与空心有何区别？,train,Knowledge Base
+波段决策在程序化交易中的接口支持情况？,train,Knowledge Base
+大宗交易数据如何影响多空资金统计？,train,Knowledge Base
+多空资金显示流入但其他软件显示流出是什么原因？,train,Knowledge Base
+波段决策的准确性如何？是否会出现延迟或撤回信号？,train,Knowledge Base
+如何结合季度财报发布时间窗口优化主力资金跟踪策略？,train,Knowledge Base
+为什么股票涨停但多空资金显示流出？,train,Knowledge Base
+如何恢复被误删的主力资金指标？,train,Knowledge Base
+软件中的模拟炒股功能如何操作？,train,Knowledge Base
+三步战法是否存在“虚假信号问题？如何验证？,train,Knowledge Base
+融资融券交易是否计入多空资金？,train,Knowledge Base
+当筹码集中度与波段决策信号矛盾时如何选择？,train,Knowledge Base
+如何理解小绿锁的'回落止盈'机制？,train,Knowledge Base
+为什么多空资金显示红色但实际资金流出？,train,Knowledge Base
+敢死队资金设置为13日累计的决策依据是什么？,train,Knowledge Base
+为什么多空资金参数设置后无法保存？,train,Knowledge Base
+波段决策中的“减号是否必须配合绿锁使用？,train,Knowledge Base
+小绿锁的功能设计是否符合用户需求？,train,Knowledge Base
+如何设置主力资金流入的语音提醒功能？,train,Knowledge Base
+如何避免过度依赖小绿锁信号？,train,Knowledge Base
+多空资金是否包含大宗交易数据？,train,Knowledge Base
+为什么电脑和手机端显示的多空资金数据不一致？,train,Knowledge Base
+主力资金流入但股价下跌，如何解释这种现象？,train,Knowledge Base
+为什么大宗交易频繁的股票主力资金显示却不明显？,train,Knowledge Base
+小绿锁的提示精度能否按个股调整？,train,Knowledge Base
+集合竞价的红绿柱子代表什么意思？,train,Knowledge Base
+小绿锁能否增加分时图级别的提示？,train,Knowledge Base
+小绿锁在T+1制度下的实际应用难点？,train,Knowledge Base
+小绿锁是否基于技术面或资金面分析？在股价低位和高位有什么差异？,train,Knowledge Base
+总资金仓位指标如何解读？,train,Knowledge Base
+主力资金流入但换手率极低，这种现象说明什么？,train,Knowledge Base
+多空资金是否等于主力资金与敢死队资金之和？,train,Knowledge Base
+如何将敢死队资金的柱状图调整为与主力资金相同的面积图？,train,Knowledge Base
+当波段决策与价值决策（如估值空间）冲突时如何选择？,train,Knowledge Base
+私享家版有哪些主要功能？,train,Knowledge Base
+在涨停板股票中，如何判断主力资金是否真正介入？,train,Knowledge Base
+小绿锁的视觉提示是否足够醒目？,train,Knowledge Base
+波段决策中的“橙色持仓提示如何理解？,train,Knowledge Base
+小绿锁的卖出建议是否应动态调整？,train,Knowledge Base
+单把黄锁代表什么信号？,train,Knowledge Base
+手机版与电脑版小绿锁显示不一致的原因？,train,Knowledge Base
+敢死队资金分析应该使用几日周期？,train,Knowledge Base
+波段决策信号在复盘时消失或变化，是否正常？,train,Knowledge Base
+小绿锁提示后是否应结合仓位管理？,train,Knowledge Base
+主力资金、波段决策的含义是什么？,train,Knowledge Base
+小绿锁出现后如何避免卖飞强势股？,train,Knowledge Base
+多空资金显示突然消失如何解决？,train,Knowledge Base
+分时图多空资金与日线数据矛盾时如何判断？,train,Knowledge Base
+为什么同一股票在不同软件中主力资金流向显示相反？,train,Knowledge Base
+小绿锁是否考虑市场整体趋势？,train,Knowledge Base
+小绿锁是否会因数据延迟出现误差？,train,Knowledge Base
+分时图多空资金显示异常如何处理？,train,Knowledge Base
+什么是波段决策？,train,Knowledge Base
+手机版多空资金界面布局调整方法？,train,Knowledge Base
+如何在电脑版安装或找到三步战法？,train,Knowledge Base
+小绿锁出现但均线趋势向上是否有效？,train,Knowledge Base
+当主力资金流出但波段决策提示持仓时如何操作？,train,Knowledge Base
+三步战法界面如何显示成本均线？,train,Knowledge Base
+主力资金的统计是否包含大宗交易和暗盘资金？,train,Knowledge Base
+波段决策是否支持设置止损/止盈条件？,train,Knowledge Base
+为什么大宗交易数据与多空资金统计存在差异？,train,Knowledge Base
+波段决策中的“资金翻红轮动翻蓝如何应对？,train,Knowledge Base
+波段决策中的“问号标识代表什么？,train,Knowledge Base
+黄金坑指标参数设置建议？,train,Knowledge Base
+软件升级后主力资金指标显示异常（如跳回默认值），如何解决？,train,Knowledge Base
+波段决策+-代表什么？,train,Knowledge Base
+波段决策信号在盘口异动（如大单压盘）时的可靠性？,train,Knowledge Base
+波段决策中的“绿色柱线是否代表风险？,train,Knowledge Base
+波段决策是否适用于ETF基金或北交所股票？,train,Knowledge Base
+波段决策能否设置自动弹出盘中信号提醒？,train,Knowledge Base
+三步战法是否支持行业轮动或战区轮动分析？,train,Knowledge Base
+波段决策是否考虑市场情绪或消息面因素？,train,Knowledge Base
+多空资金选股的最佳时间窗口是多久？,train,Knowledge Base
+波段决策的加减号在部分股票中不显示，如何解决？,train,Knowledge Base
+三步战法的“资金战法默认参数是否需要调整？,train,Knowledge Base
+主力资金和敢死队资金同时翻红是否必须满足才能买入？,train,Knowledge Base
+机构仓位指标与主力资金指标的关系是什么？,train,Knowledge Base
+如何对比不同时间段主力资金流入的持续性？,train,Knowledge Base
+筹码分布和估值空间的含义是什么,train,Knowledge Base
+波段决策是否包含未来函数？,train,Knowledge Base
+小绿锁信号是否分长线和短线？,train,Knowledge Base
+波段决策在集合竞价阶段是否有效？,train,Knowledge Base
+波段决策是否支持多周期（如60分钟）同步分析？,train,Knowledge Base
+波段决策在顶部区域持续提示持仓，如何解释？,train,Knowledge Base
+三步战法中“股价活跃度指标的具体含义和使用方法？,train,Knowledge Base
+如何在电脑版软件中设置多窗口同时监控多只股票的主力资金？,train,Knowledge Base
+波段决策信号在K线缩放后变形，如何调整？,train,Knowledge Base
+小绿锁的进阶使用技巧有哪些？,train,Knowledge Base
+小绿锁与人工分析的决策权重如何分配？,train,Knowledge Base
+小绿锁提示后无法及时卖出的解决方案？,train,Knowledge Base
+电脑版软件中主力资金和敢死队资金指标突然消失，如何恢复？,train,Knowledge Base
+主力资金单日大幅流出但周线仍显示净流入，如何判断？,train,Knowledge Base
+三步战法是否支持模拟炒股功能？,train,Knowledge Base
+多空资金百分比达到多少才算有效信号？,train,Knowledge Base
+手机版如何调出三步战法功能？,train,Knowledge Base
+多空资金数据延迟如何处理？,train,Knowledge Base
+如何验证波段决策的历史回测准确率？,train,Knowledge Base
+敢死队资金是否属于主力资金的一部分？,train,Knowledge Base
+波段决策K线颜色异常（如上涨显示绿色），如何解决？,train,Knowledge Base
+敢死队资金的操作特点是什么？,train,Knowledge Base
+主力资金指标中'异动'的具体判断标准是什么？,train,Knowledge Base
+融资融券数据与主力资金流向出现背离时的解读方法？,train,Knowledge Base
+三步战法中如何设置均线（如五日均线）？,train,Knowledge Base
+波段决策中的“红空心柱与“红实心柱区别？,train,Knowledge Base
+多空资金设置为22日的依据是什么？,train,Knowledge Base
+小绿锁在不同板块中的表现差异？,train,Knowledge Base
+绿锁和小绿锁的区别是什么？,train,Knowledge Base
+波段决策信号在除权除息后是否自动复权？,train,Knowledge Base
+如何批量导出多只股票的主力资金流入数据？,train,Knowledge Base
+多空资金连续流入但股价不涨意味着什么？,train,Knowledge Base
+小绿锁与财务造假提示同时出现如何操作？,train,Knowledge Base
+多空资金选股需要结合哪些其他指标？,train,Knowledge Base
+电脑版多空资金指标丢失如何解决？,train,Knowledge Base
+如何在三步战法界面增加附图数量（如成交量、活跃度等）？,train,Knowledge Base
+小绿锁的推送通知功能如何开启？,train,Knowledge Base
+如何将多空资金、主力资金、敢死队资金设置为默认显示？,train,Knowledge Base
+多空资金是否包括散户资金？,train,Knowledge Base
+如何在K线图中同时显示主力资金、敢死队资金和多空资金的面积图？,train,Knowledge Base
+区间多空资金统计功能如何调出？,train,Knowledge Base
+如何设置不同颜色区分主力资金的流入强度？,train,Knowledge Base
+小绿锁提示卖出后股价横盘如何处理？,train,Knowledge Base
+多空资金是统计主力资金和敢死队资金之和吗？,train,Knowledge Base
+为什么不同软件的多空资金数据差异巨大？,train,Knowledge Base
+多空资金不同周期设置对分析结果的影响？,train,Knowledge Base
+波段决策是基于哪些数据计算的？,train,Knowledge Base
+三步战法的三步分别是什么？,train,Knowledge Base
+波段决策在ST股中的使用限制？,train,Knowledge Base
+三步战法的多空资金参数需要调整为几日累计？,train,Knowledge Base
+如何优化多空资金的灵敏度设置？,train,Knowledge Base
+三步战法和资金战法的区别是什么？,train,Knowledge Base
+不同时间周期的多空资金指标如何配合使用？,train,Knowledge Base
+波段决策中的“成本均线参数设置建议？,train,Knowledge Base
+三步战法具体如何使用？,train,Knowledge Base
+小绿锁在量化高频交易中的潜在价值？,train,Knowledge Base
+波段决策是否支持自定义参数修改？,train,Knowledge Base
+小绿锁能否增加止损价联动功能？,train,Knowledge Base
+当黄金坑指标与波段决策开仓信号矛盾时如何选择？,train,Knowledge Base
+小绿锁提示功能突然消失如何恢复？,train,Knowledge Base
+如何通过选股器筛选出连续5日主力资金净流入的股票？,train,Knowledge Base
+主力资金3日累计和13日累计在决策中有何区别？,train,Knowledge Base
+小绿锁在牛市和熊市中的胜率对比？,train,Knowledge Base
+波段决策中的“风火轮和“抄底标志如何识别？,train,Knowledge Base
+主力资金、敢死队资金、多空资金具体指哪些资金？,train,Knowledge Base
+绿锁出现时成交量萎缩代表什么？,train,Knowledge Base
+如何导出某只股票的历史主力资金流入数据？,train,Knowledge Base
+如何将多空资金显示方式从柱状图改为面积图？,train,Knowledge Base
+波段决策如何开启或关闭？,train,Knowledge Base
+波段决策在流动性低的股票中是否失效？,train,Knowledge Base
+三步战法如何结合财务指标（如分红派息率）进行价值投资？,train,Knowledge Base
+多空资金的计算方法是什么？,train,Knowledge Base
+小绿锁是否基于技术面或资金面分析？,train,Knowledge Base
+如何在三步战法界面恢复被误删的均线或附图？,train,Knowledge Base
+主力资金参数设置为几日最有效？,train,Knowledge Base
+如何恢复多空资金默认设置？,train,Knowledge Base
+武进不锈,train,Stock Diagnosis
+华电国际的基本面好不好,train,Stock Diagnosis
+回天新材连续6天都评级为3A，还不能入选近期最有潜力股票吗,train,Stock Diagnosis
+分析一下002602,train,Stock Diagnosis
+银河电子,train,Stock Diagnosis
+东方明珠,train,Stock Diagnosis
+分析一下易明医药,train,Stock Diagnosis
+603248有上涨空间吗,train,Stock Diagnosis
+帮我分析一下世纪华通,train,Stock Diagnosis
+帮我分析一下002602,train,Stock Diagnosis
+帮我分析一下中州新材,train,Stock Diagnosis
+帮我分析一下300963,train,Stock Diagnosis
+华胜天成表现怎样,train,Stock Diagnosis
+中孚实业今天是洗盘吗,train,Stock Diagnosis
+帮我分析一下招商南油,train,Stock Diagnosis
+先锋电子,train,Stock Diagnosis
+北斗星通可以持有吗,train,Stock Diagnosis
+继续分析回天新材啊,train,Stock Diagnosis
+帮我分析一下安泰集团,train,Stock Diagnosis
+胜利精密,train,Stock Diagnosis
+江顺科技,train,Stock Diagnosis
+请问高德红外趋势,train,Stock Diagnosis
+回力新材,train,Stock Diagnosis
+回天新材,train,Stock Diagnosis
+分析一下汉嘉设计,train,Stock Diagnosis
+请问天挢起重趋势,train,Stock Diagnosis
+帮我分析金岭矿业,train,Stock Diagnosis
+帮我分析一下均胜电子,train,Stock Diagnosis
+帮我分析常山北明,train,Stock Diagnosis
+华映科技分析走势,train,Stock Diagnosis
+帮我分析一下中际旭创？,train,Stock Diagnosis
+帮我分析一下哈焊华通,train,Stock Diagnosis
+请分析一下岩山科技,train,Stock Diagnosis
+帮我分析一下天秦装备,train,Stock Diagnosis
+分析吉比特,train,Stock Diagnosis
+天下秀,train,Stock Diagnosis
+京泉华,train,Stock Diagnosis
+襄阳轴承,train,Stock Diagnosis
+帮我分析一下克莱特个股,train,Stock Diagnosis
+请帮我分析一下江苏索普,train,Stock Diagnosis
+帮我分析一下国机重装,train,Stock Diagnosis
+帮我分析一下天海防务,train,Stock Diagnosis
+帮我分析中天科技,train,Stock Diagnosis
+003039股票怎么样？,train,Stock Diagnosis
+帮我分析紫金矿业,train,Stock Diagnosis
+你好帮我分析一下荣联科技,train,Stock Diagnosis
+高能股份怎么样,train,Stock Diagnosis
+立讯精密能持有吗,train,Stock Diagnosis
+帮我分析一下南京证券,train,Stock Diagnosis
+帮我分析一下港通医疗,train,Stock Diagnosis
+长信科技,train,Stock Diagnosis
+光迅科技能持有吗,train,Stock Diagnosis
+金凤科技,train,Stock Diagnosis
+剑桥科技,train,Stock Diagnosis
+高澜股份,train,Stock Diagnosis
+江南新材怎么样？,train,Stock Diagnosis
+分析一下金风科技,train,Stock Diagnosis
+分析一下立讯精密,train,Stock Diagnosis
+江南新才怎么样,train,Stock Diagnosis
+分析一下紫金矿业。,train,Stock Diagnosis
+工业富联怎么样，能持有吗,train,Stock Diagnosis
+强力新材的经营与未来展望,train,Stock Diagnosis
+太辰光,train,Stock Diagnosis
+赛微电子怎么走,train,Stock Diagnosis
+航天电子股怎么样,train,Stock Diagnosis
+华工科技能持有吗,train,Stock Diagnosis
+上海新阳,train,Stock Diagnosis
+浙江东方分析一下,train,Stock Diagnosis
+卧龙电驱,train,Stock Diagnosis
+分析海泰发展,train,Stock Diagnosis
+OAM∨怎么样了？,train,Stock Diagnosis
+帮我分析一下翠微股份,train,Stock Diagnosis
+天海防务的经营情况和公司展望,train,Stock Diagnosis
+科创新源,train,Stock Diagnosis
+帮我分析一下天利科技这只股票,train,Stock Diagnosis
+分析深科技000021，并分析参股长鑫科技,train,Stock Diagnosis
+分析一下江淮汽车,train,Stock Diagnosis
+我想了解一下方正科技这只标的,train,Stock Diagnosis
+宝信软件,train,Stock Diagnosis
+分析朗迪股份,train,Stock Diagnosis
+伊戈尔今天为什么下跌,train,Stock Diagnosis
+300206怎么样,train,Stock Diagnosis
+帮我分析一下聚灿光电这个股票,train,Stock Diagnosis
+分析000021,train,Stock Diagnosis
+分析深科技，并分析参股长鑫科技,train,Stock Diagnosis
+分析朗迪集团,train,Stock Diagnosis
+小爱给我分析一下东土科技，明天我是 23 的建仓 500 股，明天的话我该如何走，他们说他的 PE 偏高，我是不是有盈利就立马走呢,train,Stock Diagnosis
+云天化,train,Stock Diagnosis
+川恒股份,train,Stock Diagnosis
+正业科技,train,Stock Diagnosis
+300518怎么样,train,Stock Diagnosis
+帮分析一下TCL科技的走势,train,Stock Diagnosis
+601566值得入手吗,train,Stock Diagnosis
+分析一下保信软件。,train,Stock Diagnosis
+伊戈尔002922分析下,train,Stock Diagnosis
+000880值得入手吗,train,Stock Diagnosis
+该股是中国卫星互联网组件通信设备领域的龙头企业，构建了低轨星载，卫星组网激光通讯终端空天地一体化核心配套，技术卡位推动卫星通信业务大爆发,train,Stock Diagnosis
+超频三产品竞争力分析,train,Stock Diagnosis
+帮我分析一下科力远,train,Stock Diagnosis
+高盟新材怎样？,train,Stock Diagnosis
+603416值得入手吗,train,Stock Diagnosis
+300223怎么样？,train,Stock Diagnosis
+帮我分析一下中芯国际。,train,Stock Diagnosis
+北方导航怎么样？,train,Stock Diagnosis
+碳酸锂这几天期货价格有没有上涨,train,Stock Diagnosis
+分析下大有能源,train,Stock Diagnosis
+分析下东方电气,train,Stock Diagnosis
+巨星科技帮我看看,train,Stock Diagnosis
+通宇通讯今天触异动了吗,train,Stock Diagnosis
+帮我分析一下北方华创。,train,Stock Diagnosis
+分析一下国际复材,train,Stock Diagnosis
+康辰药业值得入手吗,train,Stock Diagnosis
+分析下神州信息,train,Stock Diagnosis
+方正科技如何,train,Stock Diagnosis
+帮我分析一下天奇股份。,train,Stock Diagnosis
+中国中国船舶可不可以购买？,train,Stock Diagnosis
+中科星图 中航机载 航天电器看好谁,train,Stock Diagnosis
+帮我分析一下软通动力价格走势,train,Stock Diagnosis
+赛腾股份如何？,train,Stock Diagnosis
+帮我分析下持股,train,Stock Diagnosis
+分析持仓股票行情走势,train,Stock Diagnosis
+600221股票如何？,train,Stock Diagnosis
+分析下华光环,train,Stock Diagnosis
+分析下华光环能,train,Stock Diagnosis
+帮我分析一下中际旭创,train,Stock Diagnosis
+雅化集团今天早上开盘到收盘主力资金流出八仟万是出货还是震仓呢,train,Stock Diagnosis
+超频三,train,Stock Diagnosis
+帮我分析一下银轮股份。,train,Stock Diagnosis
+分析持仓股票行情,train,Stock Diagnosis
+海兰信可否持有,train,Stock Diagnosis
+航天电子属于商业航天板块吗？,train,Stock Diagnosis
+韩建河山,train,Stock Diagnosis
+北磁,train,Stock Diagnosis
+西部黄金,train,Stock Diagnosis
+铎龙股份,train,Stock Diagnosis
+胜利精密的发展和趋势,train,Stock Diagnosis
+巨力索具算是商业航天概念吗？,train,Stock Diagnosis
+分析下万向钱潮,train,Stock Diagnosis
+帮我分析一下紫金矿业,train,Stock Diagnosis
+锋龙股份为什么大涨？,train,Stock Diagnosis
+袁喜保入手的票,train,Stock Diagnosis
+帮我分析一下安泰科技。,train,Stock Diagnosis
+中国卫星,train,Stock Diagnosis
+神龙种业,train,Stock Diagnosis
+帮我分析一下中航重机,train,Stock Diagnosis
+众业达,train,Stock Diagnosis
+300433走势风险和盈利,train,Stock Diagnosis
+深科技,train,Stock Diagnosis
+金凤科技基本情况,train,Stock Diagnosis
+帮我分析一下金凤科技走势,train,Stock Diagnosis
+渐富控股,train,Stock Diagnosis
+分析一下乐山电力,train,Stock Diagnosis
+阳谷华泰分析,train,Stock Diagnosis
+600845涨停原因,train,Stock Diagnosis
+格林美,train,Stock Diagnosis
+航天科技今天涨停原因？,train,Stock Diagnosis
+帮我分析汇隆新材,train,Stock Diagnosis
+帮我分析侨源股份,train,Stock Diagnosis
+硅宝科技,train,Stock Diagnosis
+保变电气,train,Stock Diagnosis
+硅宝科科技,train,Stock Diagnosis
+指南针成交量,train,Stock Diagnosis
+中天科技,train,Stock Diagnosis
+值得买走势分析,train,Stock Diagnosis
+帮我分析一下浦发银行,train,Stock Diagnosis
+贵州茅台股票怎么样,train,Stock Diagnosis
+同花顺如何,train,Stock Diagnosis
+指南针如何,train,Stock Diagnosis
+帮我分析一下三峡水利,train,Stock Diagnosis
+比较一下指南针、同花顺和东方财富,train,Stock Diagnosis
+帮分析一下300803,train,Stock Diagnosis
+百货零售板块还有没有机会,train,Stock Diagnosis
+比较一下指南针和同花顺,train,Stock Diagnosis
+五一之后指南针会如何,train,Stock Diagnosis
+岩山科技怎么样？,train,Stock Diagnosis
+百花医药是否适合卖出？,train,Stock Diagnosis
+扬电科技怎么样？,train,Stock Diagnosis
+指南针股票最近走势如何,train,Stock Diagnosis
+600800怎么样,train,Stock Diagnosis
+得润电子怎么样？,train,Stock Diagnosis
+指南针怎么样,train,Stock Diagnosis
+300803怎么样,train,Stock Diagnosis
+指南针最近一次财报显示的毛利率和净利率是否达标？追问“环比 / 同比变化趋势如何？,train,Stock Diagnosis
+行业政策是否支持指南针公司所在领域？是否存在政策风险？,train,Stock Diagnosis
+指南针股息率是否稳定？,train,Stock Diagnosis
+公司负债水平是否健康？资产负债率和流动比率分别是多少？,train,Stock Diagnosis
+行业竞争格局如何？指南针公司的市场份额是否有提升空间？,train,Stock Diagnosis
+指南针公司近三年净利润增长率如何？是否有持续增长潜力？,train,Stock Diagnosis
+指南针股票的市盈率（PE）是否合理？当前处于历史什么位置？,train,Stock Diagnosis
+给我中国黄金基本面和资金面数据,train,Stock Diagnosis
+美年健康是否有并购重组计划？标的资产质量如何？是否构成利好？,train,Stock Diagnosis
+海德股份管理层是否有增持或减持行为？是否存在内部人交易信号？,train,Stock Diagnosis
+汉邦科技公司最近是否发布业绩预告？预告内容是否超出市场预期？,train,Stock Diagnosis
+九号公司是否有新产品或新技术发布？市场反响如何？,train,Stock Diagnosis
+是否有知名基金经理公开推荐指南针股票？是否有权威机构发布买入评级,train,Stock Diagnosis
+指南针最近三个月的成交量是否明显放大？追问“是否有资金吸筹迹象？,train,Stock Diagnosis
+指南针股价是否突破了关键阻力位（如前期高点）？成交量是否配合？,train,Stock Diagnosis
+东方日升RSI 指标是否处于超买或超卖区域？是否有背离信号？,train,Stock Diagnosis
+长华化学短期（5 日、10 日）和长期（60 日、120 日）均线是否形成多头排列？,train,Stock Diagnosis
+国航远洋MACD 指标是否出现金叉或死叉？红柱 / 绿柱长度变化趋势如何？,train,Stock Diagnosis
+分析一下荣百股份。,train,Stock Diagnosis
+请问一下金宏气源,train,Stock Diagnosis
+帮我分析一下歌尔股份,train,Stock Diagnosis
+思源电气走势,train,Stock Diagnosis
+利欧股份,train,Stock Diagnosis
+请问一下贝肯能源,train,Stock Diagnosis
+容百科技分析支撑点,train,Stock Diagnosis
+帮我分析一下美联新材,train,Stock Diagnosis
+华能水电怎么样,train,Stock Diagnosis
+冰轮环境深度分析走势,train,Stock Diagnosis
+冰轮环境和征和工业走势深度分析,train,Stock Diagnosis
+久盛电气,train,Stock Diagnosis
+云图控股怎么样,train,Stock Diagnosis
+迈赫股份,train,Stock Diagnosis
+看看凯盛科技,train,Stock Diagnosis
+帮我分析下胜宏科技,train,Stock Diagnosis
+帮我分析下航天动力,train,Stock Diagnosis
+准油股份,train,Stock Diagnosis
+潍柴重机是壳资源吗？,train,Stock Diagnosis
+帮我看一下先导智能的走势,train,Stock Diagnosis
+机器人应用方面有哪些股票,train,Stock Screening
+1月7日 沪深主板跌停的的股票,train,Stock Screening
+机器人相关的股票有哪些,train,Stock Screening
+股票分几种,train,Stock Screening
+AI人工智能概念股A股有哪些,train,Stock Screening
+选出三年主营业务净利润连续上涨的白马股,train,Stock Screening
+沪深主板，脑机接口概念成分股中，超过12个月份低位横盘震盪，最近拐头向上，放量突破压力位的个股,train,Stock Screening
+|资金|敢死队增仓前10/多空净流入≥5000万|锁定主力/游资主攻|\n|量价|成交额≥3亿/换手率≥5%|过滤流动性差的弱票|\n|价格|涨幅≥8%（预警）/涨停价（下单）|聚焦涨停前兆|\n|封单|封单≥流通盘1%/主板≥1亿|确保封单强度|\n|风险|非ST/非新股/非一字板|避开规则与流动性风险|\n\u200b,train,Stock Screening
+是那2只股票,train,Stock Screening
+选出主营业务净利润连续三年上涨的,train,Stock Screening
+AI人工智能概念股有哪些,train,Stock Screening
+机器人应用龙头股,train,Stock Screening
+AI硬件股,train,Stock Screening
+主力资金连续流入，股票横盘震荡没有大涨的股票,train,Stock Screening
+AI人工智能概念股科创板有哪些,train,Stock Screening
+主力资金连续多日留日,train,Stock Screening
+选出三个成长指数连续上涨且分红三个季度持续上涨的白马股,train,Stock Screening
+昨日跌停的股票？,train,Stock Screening
+火箭发射场概念,train,Stock Screening
+出现三把锁信号的个股,train,Stock Screening
+最近有哪些热门板块？,train,Stock Screening
+连续出现三把锁信号的个股,train,Stock Screening
+出现黄金坑的个股,train,Stock Screening
+火箭发射领域股票,train,Stock Screening
+A工+应用端，主板,train,Stock Screening
+以上股票下周强势轮动的有哪些,train,Stock Screening
+火箭发射有哪些标的,train,Stock Screening
+热度值排行前20名主板,train,Stock Screening
+具身智能包括哪些股票,train,Stock Screening
+出现三把锁和加仓信号的个股,train,Stock Screening
+那个股票今日主力资金净流入2.06亿,train,Stock Screening
+成交量放大，均线粘合的股票有那些？,train,Stock Screening
+帮我选几只三把琐和波段都是开仓的股票,train,Stock Screening
+找出涨幅5%以上的股票,train,Stock Screening
+华为升腾概念,train,Stock Screening
+主力资金净流入2.06亿,train,Stock Screening
+卫星互联网+商业航天+算力有什么股票,train,Stock Screening
+今天三把锁股票,train,Stock Screening
+筛选出今日涨幅3%到5%，20日内有涨停板量比大于1，市值小于200亿，换手率大于5小于10的股票,train,Stock Screening
+当前板块资金流入多，和涨幅最小的几个板块，把当中资金流入多和涨幅最小排名靠前的 15 支个股推荐一下,train,Stock Screening
+月线下2到3年的股票,train,Stock Screening
+日线下跌一到三个月的股票,train,Stock Screening
+筛选出今日涨幅3%到5%，20日内有涨停板量比大于1，市值小于200亿，换手率大于5小于10的股票,train,Stock Screening
+当前板块资金流入多，和涨幅最小的几个板块,train,Stock Screening
+找出5日均线上穿10日、20日均线3天的板块,train,Stock Screening
+今天流入3、6亿元的股票,train,Stock Screening
+擒龙平台的低位股票,train,Stock Screening
+热门低位的股票。,train,Stock Screening
+找出5日均线上穿10日、20日均线3天的概念,train,Stock Screening
+603893在什么走势,train,Stock Screening
+找出5日均线上穿10日、20日均线5天的板块,train,Stock Screening
+卫星通讯概念股,train,Stock Screening
+找出5日均线上穿10日、20日均线的板块,train,Stock Screening
+低位的股票。,train,Stock Screening
+七一二趋势,train,Stock Screening
+AI存储芯片有哪些股票？,train,Stock Screening
+找出5日均线上穿10日均线3天的板块,train,Stock Screening
+哪些股票和商业航天的回收相关？,train,Stock Screening
+同时包含机器人，l4无人驾驶，aI眼镜的股票,train,Stock Screening
+为可控核聚变加央企概念为主管通稳压器堆芯,train,Stock Screening
+商业航天叠加可控核聚变,train,Stock Screening
+⭕商业航天（300***）\n✔细分概念：商业航天+海上回收项目+深海装备\n看涨逻辑：海上回收基地项目核心系统供应商:负责为火箭海上回收提供智能通讯导航、远程控制等关键技术支持。这个系统被形容为回收任务的"神经中枢"，核心任务是在火箭返回海上平台过程中，确保"看得见、控得准"，实现高精度着陆。\n根据以上信息，搜索相关股票,train,Stock Screening
+商业航天龙头股有哪些？,train,Stock Screening
+哪些股票和商业航天，海上回收，深海装备相关？,train,Stock Screening
+股价相较于低位的商业航天股,train,Stock Screening
+5块51的股票市值397亿，今天暗盘流入3、6亿元的股票是哪只,train,Stock Screening
+帮我找一下最近几周均线多头向上的000和600开头的股票,train,Stock Screening
+造船行业的股票有哪些？,train,Stock Screening
+近五日资金持续流入，股价相较于低位的商业航天概念股,train,Stock Screening
+华为 商业航天 13.80 市值90亿左右股票,train,Stock Screening
+商业航天概念股,train,Stock Screening
+造成行业的股票有哪些？,train,Stock Screening
+最近周线多头向上的股票有哪些,train,Stock Screening
+商业航天概念板块里的龙头股都是什么？从高重要往不重要排序，用表格方式表达现在的价格是多少？,train,Stock Screening
+脑机接口里面核心股票有那些,train,Stock Screening
+商业航天加核电加固态,train,Stock Screening
+培育钻石股票有哪些,train,Stock Screening
+首板涨停，集合竟价9：20前出现涨停，9：25成交涨幅高于3%到6%.符合当前的热点主线，非科创板，非创业板，非sT板,train,Stock Screening
+华为 商业航天 芯片概念 13.83 左右股票,train,Stock Screening
+三倍量,train,Stock Screening
+今天热门股,train,Stock Screening
+我是问的人工智能和制造的股票,train,Stock Screening
+今日A股涨停板股票,train,Stock Screening
+可控核聚变核心相关的股票,train,Stock Screening
+机器人概念 工业互联网 华为概念 充电桩 6-7元股票,train,Stock Screening
+近二天主力大幅资金流入核聚变的股票,train,Stock Screening
+机器人概念 工业互联网 华为概念 充电桩,train,Stock Screening
+公司参与火箭发射场建设，获得海南发射订单，公司为多型火箭 卫星配套设备级产品，今天主力资金买入超1亿近5天主力资金净买入超4亿，国资控股55%以上，北向资金去年二季度也大幅加仓，这个票是谁呢,train,Stock Screening
+今天主力资金流入最多的股票,train,Stock Screening
+脑机接口核心股票,train,Stock Screening
+A|板块股票,train,Stock Screening
+今日A股首板涨停的股票,train,Stock Screening
+6900点是哪个指数。,train,Stock Screening
+破成本线上涨3%.到4%.左右的股票,train,Stock Screening
+今月收盘价为15.77个股,train,Stock Screening
+破成本线上涨5%.到6%.左右的股票,train,Stock Screening
+我想问一下人工智能加制造的龙头股头股票是哪几支,train,Stock Screening
+破成本线上涨1%.到2%.左右的商业航天股票,train,Stock Screening
+破成本线上涨2%.到3%.左右的商业航天股票,train,Stock Screening
+破成本线上涨7%.到9%.左右的股票,train,Stock Screening
+破成本线上涨8%.到9%.左右的股票,train,Stock Screening
+破成本线上涨6%.到7%.左右的股票,train,Stock Screening
+谁家公司价格在3.58,train,Stock Screening
+破成本线上涨0.1%.到2%.左右的股票,train,Stock Screening
+破成本线上涨1%.到2%.左右的股票,train,Stock Screening
+破成本线上涨4%.到5%.左右的股票,train,Stock Screening
+破成本线下跌4%.到5%.左右的股票,train,Stock Screening
+今曰收盘价为15.77个股,train,Stock Screening
+现在价位在3.31是那家公司,train,Stock Screening
+红利股票池,train,Stock Screening
+破成本线负4%.到5%.左右的股票,train,Stock Screening
+毛利率30-100的股票,train,Stock Screening
+核聚变的主要概念股,train,Stock Screening
+破成本线上涨150%.到155%.左右的股票,train,Stock Screening
+商业航天概念,train,Stock Screening
+破成本线上涨100%.到125%.左右的A股票,train,Stock Screening
+2026年1月7号和1月8号两天都收光头阳线的票有哪些？,train,Stock Screening
+破成本线上涨100%.到125%.左右的A股股票,train,Stock Screening
+和而泰涉及商业航天,train,Stock Screening
+破增持成本线上涨100%.到125%.左右的A股股票,train,Stock Screening
+脑机接口有发展趋势的股票,train,Stock Screening
+列出今天收盘价在90-95之间的股票,train,Stock Screening
+跨年妖股,train,Stock Screening
+增发股票：2026年以后后解禁的是那些股？,train,Stock Screening
+底部主力吸筹完开始上涨的股票,train,Stock Screening
+今天突破股票,train,Stock Screening
+破成本线上涨120%.到130%.左右的股票,train,Stock Screening
+AI应用加算力租赁加国产软件的股票,train,Stock Screening
+月线主力吸筹完毕开始上涨的股票,train,Stock Screening
+破成本线上涨100%.到115%.左右的A股票,train,Stock Screening
+破成本线上涨100%.到125%.左右的股票,train,Stock Screening
+定向增发股票：2026年内解禁的是那些股？,train,Stock Screening
+低于本线下跌50%.到55%.左右的股票,train,Stock Screening
+增发股票：2026年2月后解禁的是那些股？,train,Stock Screening
+月线主力吹筹完毕开始上涨的股票,train,Stock Screening
+机器人，芯片，底空经济，都有那面股票吗,train,Stock Screening
+低于本线负50%.到55%.左右的股票,train,Stock Screening
+低于本线负10%.到15%.左右的股票,train,Stock Screening
+多日小阳的股票,train,Stock Screening
+列出收盘价在90-93之间的票,train,Stock Screening
+"ETF,T+0，日振幅〉=1.5%，近20日日均成交额大于5000万，溢价率小于等于0.8%,规模大于5亿，成立1年以上",train,Stock Screening
+破成本线上涨30%.到50%.左右的股票,train,Stock Screening
+低于成本线负10%.到15%.左右的股票,train,Stock Screening
+月线主力正在吸筹的股票,train,Stock Screening
+破成本线上涨50%.到55%.左右的股票,train,Stock Screening
+Al眼镜有关的股票,train,Stock Screening
+破成本线上涨90%.到95%.左右的股票,train,Stock Screening
+破成本线上涨125%.到130%.左右的股票,train,Stock Screening
+破成本线上涨50%.到60%.左右的股票,train,Stock Screening
+选出最优质股票连续增长的股票,train,Stock Screening
+2026年1月6日5日均线上穿10日均线的股票,train,Stock Screening
+定向增发破成本线上涨20个点左右的股票,train,Stock Screening
+破成本线上涨200%.到210%.左右的股票,train,Stock Screening
+10日内5日均线上穿10日均线的股票,train,Stock Screening
+定向成本线上涨40个点左右的股票,train,Stock Screening
+股价低于40元，业绩好，横盘震荡时间长，机构频繁调研，获买入评级的科技股,train,Stock Screening
+破成本线上涨20%.到25%.左右的股票,train,Stock Screening
+商业航天+卫星导航+并购概念的上市公司股票。,train,Stock Screening
+人脑工程加商业航天的股票,train,Stock Screening
+破成本线上涨20%.左右的股票,train,Stock Screening
+可控核聚变概念股+QFIF,train,Stock Screening
+一月8日多空资金流入33亿左右的个股,train,Stock Screening
+定向增发破成本线上涨40个点左右的股票,train,Stock Screening
+选两支低价能翻翻的股票,train,Stock Screening
+破成本线上涨150%.到155%.左右的股票,train,Stock Screening
+破成本线上涨100%.到125%.左右的股票,train,Stock Screening
+请问一下？二月份以前有哪些定向增发的股票要到期。,train,Stock Screening
+定向破发成本线上涨40个点左右的股票,train,Stock Screening
+六个月来哪些定向增发的股票。你长的幅度不大。,train,Stock Screening
+多头排列的股票,train,Stock Screening
+海上回收火箭的上市股票名字,train,Stock Screening
+三个月累哪些定向增发的股票要解禁。,train,Stock Screening
+明天大股东减持的股票,train,Stock Screening
+AI设备检测的股票,train,Stock Screening
+昨天5日均线上穿10日均线的股票,train,Stock Screening
+定向增发破成本线20个点左右的股票,train,Stock Screening
+今日5日均线上穿10日均线的股票,train,Stock Screening
+今日尾盘出现三把锁的股票,train,Stock Screening
+一月8日主力资金流入33亿左右的个股,train,Stock Screening
+通过股权监控，想要了解定增股票近期要解禁的上市企业,train,Stock Screening
+A股，二至三天涨停的股票有那些,train,Stock Screening
+今日尾盘出现红十字的股票,train,Stock Screening
+可控核聚变龙头股,train,Stock Screening
+2至天3涨停的股票,train,Stock Screening
+具有航天军工太阳能电池板的股票。,train,Stock Screening
+最近10天机杓调研的热门股有哪些,train,Stock Screening
+定向增发成本线附近的商业航天股票。,train,Stock Screening
+2026年2月30日前，上市企业定增股票需解禁的企业有那些,train,Stock Screening
+2026年2月28日前，定增股票解禁上市企业,train,Stock Screening
+做航天军工的股票,train,Stock Screening
+2025年5-6月份增发的股票,train,Stock Screening
+2025年5-6月份定向增发的股票有哪些,train,Stock Screening
+你好，给我找一下，还有一个月就定向增发到期的锁定到期的六个月的,train,Stock Screening
+这几支票的那个一家绿能不能给我龟龟做个表？,train,Stock Screening
+就是刚才你提供的，就是还有一个月以内到期的那十一只票,train,Stock Screening
+突破平台的首板涨停,train,Stock Screening
+做航天军工和计算机的股票,train,Stock Screening
+定向增发成本线附近的股票,train,Stock Screening
+近10日有涨停；近9日处于调整的股票,train,Stock Screening
+航天军工及新材料，计算机，股票,train,Stock Screening
+做商业应航天和军工的股票,train,Stock Screening
+凯美特气明天应该怎么操作,train,Prediction
+帮我分折一下航天智装明天走,train,Prediction
+帮我分析一下多氟多未来走势,train,Prediction
+分析明天走势,train,Prediction
+帮我分析一下城建发展明天走势,train,Prediction
+创新医疗后期走势,train,Prediction
+分析一下城建股份明天走势,train,Prediction
+三花智控后市怎样,train,Prediction
+看看后期怎么走下去，,train,Prediction
+模塑科技后期走势,train,Prediction
+蓝色光标后市走势如何,train,Prediction
+白酒板块未来怎么看？,train,Prediction
+白酒板块未来怎么看？,train,Prediction
+中航机载后期走势,train,Prediction
+华兰股份未来发展,train,Prediction
+帮分析一下和胜股份接下来一个月的走势,train,Prediction
+哎 同学 我在问你 我明天该怎么操作,train,Prediction
+华兰疫苗未来发展,train,Prediction
+帮分析一下中航重机接下来的走势,train,Prediction
+三花智控后市怎样,train,Prediction
+帮分析一下中航重机接下来一个月的走势,train,Prediction
+国风新材后续走势如何,train,Prediction
+白酒板块未来怎么看？,train,Prediction
+华能水电未来走势情况分析,train,Prediction
+帮我分析下601020后续的走势,train,Prediction
+华电国际未来走势情况分析,train,Prediction
+白酒板块未来怎么看？,train,Prediction
+雷科防务明天还会大涨吗？,train,Prediction
+航天发展明天会大涨吗？,train,Prediction
+沃尔核材发展前景和趋势怎么样,train,Prediction
+明天行情估计怎么走,train,Prediction
+沪光股份未来走势情况分析,train,Prediction
+海格通信明天还会大涨吗？,train,Prediction
+春晖智控明天分析,train,Prediction
+国风新材后续走势如何,train,Prediction
+宁德时代未来走势情况,train,Prediction
+华人健康后市走向如何？,train,Prediction
+预测三川智慧的后期走势,train,Prediction
+。嗯看看金立永磁的后期走势。,train,Prediction
+工业富联近期会上涨吗,train,Prediction
+宁德时代未来走势情况,train,Prediction
+看看金力永磁的和三川智慧的后期走势,train,Prediction
+看一下仙岛智能。未来,train,Prediction
+000922佳电股份未来走势如何？,train,Prediction
+宁德时代未来走势情况,train,Prediction
+明天开盘会有多大的涨幅,train,Prediction
+航天电子明天能买吗,train,Prediction
+商业航天板块的股票后面走势如何？,train,Prediction
+帮我分析一下广西广电后面的走势,train,Prediction
+中京电子明天的走势,train,Prediction
+分析下中国动力明日走势,train,Prediction
+时空科技明天继续可以吃肉吗,train,Prediction
+请分析中国船舶后期走势,train,Prediction
+分析下三变科技明日走势,train,Prediction
+长青科技明天能加仓吗,train,Prediction
+雷科防务后势如何？,train,Prediction
+赛腾股份明天的走势,train,Prediction
+宁德时代未来走势情况,train,Prediction
+帮我分析一下蓝思科技未来走势,train,Prediction
+分析下世运电路明日走势,train,Prediction
+请问三六零近期能走强吗,train,Prediction
+分析下明日中国西电走势,train,Prediction
+白酒板块未来怎么看？,train,Prediction
+时空科技明天继续可以吃肉吗,train,Prediction
+明天市场主线哪个,train,Prediction
+景旺电子未来走势,train,Prediction
+银邦股份资金动向，明天走向,train,Prediction
+四维图新明天会怎么走,train,Prediction
+宁德时代未来走势情况,train,Prediction
+陕西黑猫未来走势,train,Prediction
+三花智控后市怎样,train,Prediction
+明阳电路未来走势,train,Prediction
+格林美昨天大涨今日大跌，明天会怎么走呢？继续持有还是抛售,train,Prediction
+今日收盘价37.75，请分析605088股票后续6交易日走势及可能最高最低价位,train,Prediction
+301012后面走势,train,Prediction
+白酒板块未来怎么看？,train,Prediction
+宁德时代未来走势情况,train,Prediction
+后期走势如何？,train,Prediction
+华菱线缆后期走势如何？,train,Prediction
+300447明天走势,train,Prediction
+中信重工未来走势,train,Prediction
+预测一下，明天万向钱潮走势,train,Prediction
+航天发展，明天会怎么走？,train,Prediction
+中心中工未来,train,Prediction
+分析一下航天电子下一步走势,train,Prediction
+宁德时代未来走势情况,train,Prediction
+三博脑科未来几天的走势,train,Prediction
+冰轮环境未来走向,train,Prediction
+宁德时代未来走势情况,train,Prediction
+002298未来怎么样,train,Prediction
+白酒板块未来怎么看？,train,Prediction
+300004未来怎么样,train,Prediction
+中国西电明天可以加仓吗,train,Prediction
+帮我看看中超控股明天可以去吗,train,Prediction
+利欧股份预测明天走势,train,Prediction
+盛洋科技后续走势如何,train,Prediction
+顺钠股份还会,train,Prediction
+603809。这个股明天长势如何？,train,Prediction
+润丰股份未来走势,train,Prediction
+分析股票000905明天出小绿锁的可能大不大,train,Prediction
+阳普股份前景如何,train,Prediction
+蓝色光标后市走势如何,train,Prediction
+蓝色光标后市走势如何,train,Prediction
+推演一下下周航天发展中国卫星中国卫通航天电子四只个股走势,train,Prediction
+广东宏大未来走弩,train,Prediction
+华旺科技明天怎样,train,Prediction
+浙江世宝明天会不会涨停,train,Prediction
+荣科科技明天会怎样,train,Prediction
+000833这只股票以后的走势,train,Prediction
+大位科技明天是否关注,train,Prediction
+盈新发展前景,train,Prediction
+华润并购整合,train,news
+那家上市公司直接控股中国电子信息集团,train,news
+谁控股中国电子信息,train,news
+上海微电子借壳哪间公司上市？,train,news
+贝隆精密解禁时间,train,news
+沪光股份定向增发公告,train,news
+沪光股份定向增发公告,train,news
+帮我搜索20261.8号与商业航天相关的研报,train,news
+沪光股份定增公告,train,news
+有利消息,train,news
+沪光股份定增,train,news
+中国船舶的定增时间是多少。,train,news
+安泰科技最近10天有多少家机构调研，并有买入或增持,train,news
+中行重机的发行定增时间是多少。,train,news
+泰和新材增发是什么时间？,train,news
+中国船舶完成定增的时间是哪天,train,news
+瑞士银行持股,train,news
+瑞士银行a股持仓,train,news
+航天发展是否会触发监管异动？,train,news
+今天大股东减持了吗,train,news
+12月18日火山引擎原动力大会对那些个股利好,train,news
+润达医疗股东股份被冻结,train,news
+航天发展什么时候重组的,train,news
+威帝股份有限什么时候重组,train,news
+荣科股份重组,train,news
+今天大盘为什么涨,train,news
+特朗普对中国的关税加到多少了？,train,news
+近期有没有影响市场情绪的重大事件新闻，如地缘政治冲突、突发公共事件等？证券市场对此的反应程度怎样？,train,news
+苹果股价四连跌，微软重回市值第一宝座，如何影响科技板块，追问“对投资者有什么启示”,train,news
+特朗普将对汽车制造商豁免部分美国关税，对相关行业有何影响？追问“豁免关税后，汽车制造商的盈利能力会如何变化？,train,news
+美国六大汽车行业组织为何联名反对加征汽车零部件关税？追问“这对中美贸易关系有何影响？,train,news
+我国人工智能专利全球占比达60%，主要涉及哪些核心技术领域？追问“该数据对科技强国建设有何意义？,train,news
+券商回购增持计划的设计体现哪些维稳新思路？追问“溢价回购是否可能引发市场对券商资本充足率的担忧？,train,news
+智能投顾如何平衡AI推荐与适当性管理？是否应强制要求AI投顾保留人工复核环节作为风控底线？,train,news
+美联储降息对A股市场的影响，追问“降息后，A股市场的主力资金流向如何？,train,news
+899050市场股票最近有什么新闻,train,news
+001296最近有什么重大新闻,train,news
+107999最近新闻,train,news
+近期医药行业有没有关于新药研发的重大新闻？这些新药针对的疾病领域和市场前景如何？,train,news
+688536、301027所属市场最近各有什么新闻,train,news
+指南针计划拓展港股/美股业务‌，现有金融信息服务用户中符合50万以上资产门槛的高净值客户占比多少？跨市场业务的技术准备与合规成本是否可控？,train,news
+房地产行业板块最新研报,train,news
+特朗普对等关税事件造成全球股市回落，4 月7 日沪深300 指数和恒生指数分别下跌7.05%/13.22%，为应对外部事件冲击，4 月8 日我国央行和中央汇金公司等多方积极表态：,train,news
+指南针3月12号的研报讲了什么内容,train,news
+指南针最近有什么研报,train,news
+有哪些新闻需要重点关注,train,news
+近期有哪些股市政策调整需要关注,train,news
+有哪些新兴技术或产业趋势正在股市中引发广泛关注和讨论？,train,news
+近期股市中有哪些重大事件或消息引起了市场的广泛讨论？,train,news
+今天股市中有哪些需要关注的新闻,train,news
+最近有哪些政策大家特别关注,train,news
+我想了解一下最近股市的新闻情况,train,news
+最近股市有哪些受关注的政策发布或变动？,train,news
+目前市场的热点是什么？,train,news
+5月份哪个新闻比较受关注,train,news
+现在热门新闻是什么,train,news
+今天的热点题材是什么？,train,news
+最近热门消息,train,news
+现在的热点新闻是,train,news
+在今天的热门新闻下，会带来什么利好？,train,news
+今天A股有什么热点新闻,train,news
+近期资本市场资金流向反映出哪些热点话题？,train,news
+2025年二季度股市热点话题有哪些新变化？,train,news
+当前股市分析中哪些话题的热度最高？,train,news
+现阶段股市中有哪些值得跟踪的话题？,train,news
+投资者近期应留意股市中的哪些趋势或话题？,train,news
+当前资本市场中哪些话题最受关注？,train,news
+目前股市讨论的焦点集中在哪些话题？,train,news
+近期股市中有哪些热点话题值得投资者重点关注,train,news
+当前市场哪些话题关注度比较高,train,news
+最近市场的聚焦点在哪些方面,train,news
+最近哪些话题大家讨论的比较多,train,news
+除机器人浪潮外，还有哪些热门话题？,train,news
+当前股市话题中，有哪些话题值得关注,train,news
+请问当前股市有哪些热门话题或投资热点？,train,news
+美国对药品征收关税将如何影响相关行业股价？对A股医药板块的影响？,train,news
+近一个月内，国内外有哪些重大宏观经济数据发布？这些数据对证券市场有何影响？,train,news
+最近有没有关于主要经济体货币政策调整的新闻？具体调整内容和市场预期如何？,train,news
+半导体行业最近有哪些重大政策出台？对行业内上市公司的影响分别是什么？,train,news
+新能源行业内近期有没有发生重大并购重组事件？涉及的公司在证券市场的走势怎样？,train,news
+国泰海通合并负商誉操作对行业整合的示范效应？,train,news
+美国加税对半导体板块有什么影响,train,news
+最近有没有关于教育领域的重大改革新闻？如教育政策调整、教育资源分配等方面的内容，对教育行业和学生家长有何影响？,train,news
+加密货币市场近期是否出现了重大的政策调整或市场事件？对加密货币行业的发展有何影响？,train,news
+最近有没有关于硕贝德的重大新闻？对该公司股价和市场情绪产生了怎样的影响？,train,news
+全球主要股票市场最近有没有出现异常波动？引发波动的主要原因是什么？,train,news
+半导体行业近期是否面临新的供应链问题？相关企业采取了哪些应对措施？,train,news
+新能源汽车行业最近有没有出现重大的技术突破或创新？相关企业的发展战略是否因此受到影响？,train,news
+国内最近是否出台了重大的经济刺激政策？具体内容和对国内及全球经济可能产生的影响有哪些？,train,news
+最近有没有关于国际油价大幅波动的新闻？背后的原因是什么，对能源相关产业和全球经济有何连锁反应？,train,news
+近期全球主要经济体的通货膨胀率有哪些新变化？对国际贸易和投资产生了怎样的影响？,train,news
+我是一名短线投资者，需要了解‘半导体行业突发政策变动’的新闻,train,news
+美光科技断供事件对半导体行业有何影响？,train,news
+算力租赁板块近期有无重大利好事件？,train,news
+作为新能源车投资者，需了解‘固态电池技术突破’资讯,train,news
+‘全球人工智能立法动态’的新闻简报,train,news
+美联储降息对A股市场的影响,train,news
+特斯拉上海超级工厂扩建事件,train,news
+欧盟碳关税实施后，对比钢铁/水泥/电解铝出口企业碳足迹核查达标率与欧洲客户订单变化量‌,train,news
+中东主权基金Q2增持中国资产的行业分布与2020年有何差异？,train,news
+低空经济产业政策发布后，通用航空企业的股价走势如何？,train,news
+日本央行结束负利率政策后，日元套利交易平仓对A股哪些行业冲击最大？,train,news
+上海智算云产业2000亿元发展规划中，哪些本地国资背景IDC企业可能获得政府专项补贴？,train,news
+结合2024年财报数据，对比分析光伏产业链中硅料、组件、逆变器三个细分领域的毛利率变化趋势及影响因素,train,news
+近期全球主要经济体的通货膨胀率有哪些新变化？,train,news
+罗列一下近期你觉得重要的新闻,train,news
+财联社3月20日电，英国央行称...,train,news
+中国证券网最新发布的新闻,train,news
+南方精工最新新闻,train,news
+人工智能行业最新有什么新闻,train,news
+提问宁德时代是否针对行业内的重大政策变化或市场动态发布过相关公告？公告中对自身业务的影响分析是怎样的？,train,news
+提问东方电气公司最近一次的融资公告的具体内容是什么？融资规模、发行价格、期限等关键信息分别是多少？,train,news
+房地产行业板块最新研报,train,news
+提问东方电气公司有没有股权变动的公告？相关股东及变动数量、比例分别是多少？,train,news
+提问京东方上一年度的正式业绩报告与之前的业绩预告相比，实际数据偏差情况如何？,train,news
+过去五年指南针公司是否有过重大的战略调整或业务转型？具体情况是怎样的？,train,news
+公司自成立以来经历了哪些重要的发展阶段和重大事件？对公司发展产生了怎样的影响？,train,news
+宁德时代公司是否参与行业标准的制定或行业重要活动？如有，相关的公告内容和意义是什么？,train,news
+002691前一交易日的封单比,train,Indicator Query
+11月12日九牧王热度值,train,Indicator Query
+12月11日百大集团热度值,train,Indicator Query
+三花智控 今日资金净流入多少,train,Indicator Query
+拓维信息隔夜挂单量,train,Indicator Query
+红相股份主营产品,train,Indicator Query
+ZA026432是哪位私募的席。,train,Indicator Query
+五洲新春，增发股权，价格是多少？,train,Indicator Query
+汽车零部件今日流入资金,train,Indicator Query
+潍柴动力毛利润净利润占比,train,Indicator Query
+xyzc压力位,train,Indicator Query
+三花智控的机构持股占比是多少？,train,Indicator Query
+华友钴业的机构持股占比,train,Indicator Query
+华建新材12月29至今高管增持,train,Indicator Query
+利君股份主力成本多少,train,Indicator Query
+其海外业务占比,train,Indicator Query
+中航光电12月15日以来杠杆资金流入如何,train,Indicator Query
+利欧股份主力资金控盘比例,train,Indicator Query
+开开实业属什么板块？,train,Indicator Query
+600120是什么行业的股票？,train,Indicator Query
+中国船舶的定增时间是多少。,train,Indicator Query
+中行重机的发行定增时间是多少。,train,Indicator Query
+雅化集团主要业务是什么,train,Indicator Query
+华建集团的筹码集中度达到多少,train,Indicator Query
+002691前一交易日的封单比,train,Indicator Query
+002691昨日的封单比,train,Indicator Query
+11月12日九牧王热度值,train,Indicator Query
+12月11日百大集团热度值,train,Indicator Query
+330327今日资金情况,train,Indicator Query
+中天科技里面的股东张跃军这几天的资金进出情况,train,Indicator Query
+三花智控 今日资金净流入多少,train,Indicator Query
+三花智控今日资金流入,train,Indicator Query
+雷科防务最高点是,train,Indicator Query
+通润装备近3天资金流入情况,train,Indicator Query
+华友钴业多空资金净流入有多少,train,Indicator Query
+工商银行资金流入情况,train,Indicator Query
+拓维信息隔夜挂单量,train,Indicator Query
+红相股份主营产品,train,Indicator Query
+五洲新春，增发股权，价格是多少？,train,Indicator Query
+汽车零部件今日流入资金,train,Indicator Query
+潍柴动力毛利润净利润占比,train,Indicator Query
+xyzc压力位,train,Indicator Query
+三花智控的机构持股占比是多少？,train,Indicator Query
+华友钴业的机构持股占比,train,Indicator Query
+华建新材12月29至今高管增持,train,Indicator Query
+利君股份主力成本多少,train,Indicator Query
+北交所股票代码,train,Indicator Query
+荣耀股东,train,Indicator Query
+中航光电12月15日以来杠杆资金流入如何,train,Indicator Query
+利欧股份主力资金控盘比例,train,Indicator Query
+苏试试验属于哪个板块,train,Indicator Query
+开开实业什么板块,train,Indicator Query
+600120是什么行业的股票？,train,Indicator Query
+航天电子属于商业航天板块吗？,train,Indicator Query
+中国船舶的定增时间是多少。,train,Indicator Query
+中行重机的发行定增时间是多少。,train,Indicator Query
+仲基的腾发时间是多少。,train,Indicator Query
+指南针成交量,train,Indicator Query
+深高速的定向增发股东表,train,Indicator Query
+海得控制属什么板块,train,Indicator Query
+涂鸦智能的股票代码是多少,train,Indicator Query
+岩山科技属于哪个板块,train,Indicator Query
+605298压力位,train,Indicator Query
+300285支撑位多少,train,Indicator Query
+通动力压力位在哪？,train,Indicator Query
+指南针增长点,train,Indicator Query
+美团汇率变动对现金及现金等价物的影响,train,Indicator Query
+中国平安公允价值变动损失,train,Indicator Query
+中国石化小时决策,train,Indicator Query
+招商银行K线形态-上升通道,train,Indicator Query
+长江电力非流动资产合计,train,Indicator Query
+美团RSI6下穿20,train,Indicator Query
+恒瑞医药资产减值准备,train,Indicator Query
+隆基绿能强势轮动_60,train,Indicator Query
+海康威视少数股东损益,train,Indicator Query
+工商银行杠杆资金,train,Indicator Query
+中国平安MA均线-金叉,train,Indicator Query
+中国中免涨速,train,Indicator Query
+京东处置子公司及其他营业单位收到的现金净额,train,Indicator Query
+宁德时代接待机构数,train,Indicator Query
+兴业银行最新配股情况证监会核准公告日,train,Indicator Query
+海康威视资产总计,train,Indicator Query
+五粮液多空增减仓,train,Indicator Query
+海尔智家异动原因ID,train,Indicator Query
+贵州茅台杀跌,train,Indicator Query
+美团是不是联板，怎么能说没有呢,train,Indicator Query
+海尔智家扣非净利润同比增长率,train,Indicator Query
+紫金矿业上市日期,train,Indicator Query
+拼多多一日融券净额,train,Indicator Query
+隆基绿能固定资产折旧,train,Indicator Query
+浦发银行公司邮编,train,Indicator Query
+长江电力固定资产报废损失,train,Indicator Query
+药明康德最新配股情况缴款起始日,train,Indicator Query
+格力电器0Z轮动,train,Indicator Query
+美团强势轮动_20,train,Indicator Query
+阿里巴巴应付账款,train,Indicator Query
+工商银行一日融资融券净额,train,Indicator Query
+隆基绿能热门概念,train,Indicator Query
+立讯精密估值空间中线,train,Indicator Query
+恒瑞医药是行业核心吗,train,Indicator Query
+中国移动基本每股收益,train,Indicator Query
+万科AA股股东总人数,train,Indicator Query
+立讯精密最新配股情况配股代码,train,Indicator Query
+长江电力小时决策长线决策,train,Indicator Query
+海尔智家抄底,train,Indicator Query
+腾讯控股有正宗核聚变题材吗,train,Indicator Query
+农业银行停板风向标,train,Indicator Query
+药明康德接待的机构数量,train,Indicator Query
+立讯精密的智能阿尔法情况,train,Indicator Query
+贵州茅台营业外收入,train,Indicator Query
+中国中免本月涨幅,train,Indicator Query
+招商银行总资产周转率,train,Indicator Query
+格力电器非流动资产处置利得,train,Indicator Query
+中国移动K线形态-旭日东升,train,Indicator Query
+中国石油最新分红情况股权登记,train,Indicator Query
+中国石化首日开盘价,train,Indicator Query
+中国石化实际发行价格,train,Indicator Query
+网易最新增发情况实际发行数量,train,Indicator Query
+紫金矿业的职位是什么,train,Indicator Query
+比亚迪近期大宗成交额,train,Indicator Query
+贵州茅台公司传真,train,Indicator Query
+五粮液最新分红情况股息支付率,train,Indicator Query
+腾讯控股信托持股比例,train,Indicator Query
+网易主力大单,train,Indicator Query
+立讯精密涨跌速度表情况如何,train,Indicator Query
+长江电力发行债券收到的现金,train,Indicator Query
+长江电力退市,train,Indicator Query
+药明康德股票名称是什么,train,Indicator Query
+海尔智家最低价,train,Indicator Query
+药明康德最近违规处理次数,train,Indicator Query
+浦发银行股权登记,train,Indicator Query
+东方财富打压,train,Indicator Query
+中国石化人均流通股,train,Indicator Query
+关注建设银行的高管是谁,train,Indicator Query
+美团公允价值变动收益,train,Indicator Query
+腾讯控股筹码90％集中度,train,Indicator Query
+立讯精密是否蓝筹,train,Indicator Query
+中国中免跌停,train,Indicator Query
+中国中免连涨天数,train,Indicator Query
+通威股份券商持股家数,train,Indicator Query
+建设银行二级市场180天增仓额,train,Indicator Query
+美的集团RSI6上穿80,train,Indicator Query
+建设银行席位龙虎榜上榜游资,train,Indicator Query
+兴业银行的股票代码,train,Indicator Query
+建设银行总负债合计,train,Indicator Query
+格力电器主力资金异动流入流出状态,train,Indicator Query
+京东取得投资收益收到的现金,train,Indicator Query
+中国石油今日创阶段新低，多少日新低,train,Indicator Query
+通威股份流动资产合计,train,Indicator Query
+中国石油发行价格,train,Indicator Query
+药明康德总资金仓位,train,Indicator Query
+美的集团近一季度大宗成交额,train,Indicator Query
+美的集团黄金坑震荡选股池,train,Indicator Query
+宁德时代今日开盘至今的实时分时图。,train,Candlestick Chart
+查看指南针(300803)2025年5月20日的历史分时行情。,train,Candlestick Chart
+贵州茅台现在的分时线走势如何？,train,Candlestick Chart
+调取中国平安昨天全天的分时成交明细图。,train,Candlestick Chart
+五粮液今天早盘前一个小时的分时波动情况。,train,Candlestick Chart
+展示腾讯控股在2026年2月初某天的分时走势回顾。,train,Candlestick Chart
+东方财富目前的实时盘中价格波动曲线。,train,Candlestick Chart
+比亚迪今日分时图中成交量波峰出现在什么时候？,train,Candlestick Chart
+请显示上证指数今日的分时脉冲走势。,train,Candlestick Chart
+招商银行今日分时图是否出现了均价线支撑？,train,Candlestick Chart
+查看科大讯飞在2025年12月10日的盘中分时表现。,train,Candlestick Chart
+中芯国际今天午后开盘后的分时图变化。,train,Candlestick Chart
+展示特斯拉(TSLA)昨晚美股盘中的分时价格图。,train,Candlestick Chart
+恒生指数今日分时走势中是否存在跳空缺口？,train,Candlestick Chart
+获取沪深300指数今日实时的分时运行趋势。,train,Candlestick Chart
+隆基绿能今日分时线与均价线的背离程度。,train,Candlestick Chart
+调出顺丰控股上周五全天的分时成交历史。,train,Candlestick Chart
+查看工业富联今日分时图中每一笔的大单成交明细。,train,Candlestick Chart
+药明康德今日早盘的分时图振幅是多少？,train,Candlestick Chart
+显示立讯精密今日收盘前的分时拉升走势。,train,Candlestick Chart
+海康威视2025年国庆节前最后一个交易日的分时行情。,train,Candlestick Chart
+迈瑞医疗今日分时走势是否跌破了分时均线？,train,Candlestick Chart
+展示紫金矿业今日盘中的黄白两线分时运行图。,train,Candlestick Chart
+中国石油今日开盘集合竞价后的分时表现。,train,Candlestick Chart
+查看长江电力今日分时图中的高低点分布情况。,train,Candlestick Chart
+调取阳光电源在今年1月15日的分时线走势。,train,Candlestick Chart
+查看中信证券今日分时图中是否有明显的对倒迹象？,train,Candlestick Chart
+格力电器今日分时行情中盘口挂单与价格的关系。,train,Candlestick Chart
+展示美的集团今日全天分时图的波动率。,train,Candlestick Chart
+查看京东方A今日分时图中白线（股价）的运行轨迹。,train,Candlestick Chart
+调出TCL科技在2025年8月20日的盘中分时曲线。,train,Candlestick Chart
+显示分众传媒今日分时图中的实时振荡区间。,train,Candlestick Chart
+查看爱尔眼科今日分时走势中量价配合的情况。,train,Candlestick Chart
+调取天齐锂业今日分时图中各时间点的成交金额。,train,Candlestick Chart
+查看万科A今日分时图在回踩均线时的表现。,train,Candlestick Chart
+展示同花顺今日盘中实时分时脉冲信号。,train,Candlestick Chart
+查看北方华创今日分时图中是否有放量砸盘现象。,train,Candlestick Chart
+调出通威股份昨日分时成交的完整走势图。,train,Candlestick Chart
+显示片仔癀今日分时图中的多空博弈过程。,train,Candlestick Chart
+若天气预测与波段决策信号冲突如何权衡,val,Knowledge Base
+短线交易应锚定单日还是三日累积资金量,val,Knowledge Base
+不同策略信号不一致时应如何统筹决策,val,Knowledge Base
+消息榜功能在信息实时获取方面的核心亮点,val,Knowledge Base
+常见的量价配合原则及其对趋势研判意义,val,Knowledge Base
+龙虎榜信号与主力资金流向背离如何决策,val,Knowledge Base
+账号切换导致已购功能权限未同步显示,val,Knowledge Base
+移动端APP能否调取13日周期主力累积数据,val,Knowledge Base
+请告知趋势活金指标在软件中的开启路径,val,Knowledge Base
+遇到界面无法加载小绿锁指标时如何修复,val,Knowledge Base
+武进不锈未来走势如何,val,Stock Diagnosis
+华电国际基本面是否扎实,val,Stock Diagnosis
+回天新材连获3A评级为何没入选潜力股,val,Stock Diagnosis
+请对002602进行深度分析,val,Stock Diagnosis
+银河电子现在值得关注吗,val,Stock Diagnosis
+东方明珠的投资价值分析,val,Stock Diagnosis
+易明医药的研报解读,val,Stock Diagnosis
+603248后续还有空间吗,val,Stock Diagnosis
+帮我深度拆解世纪华通,val,Stock Diagnosis
+请分析002602的经营状况,val,Stock Diagnosis
+中州新材的核心竞争力分析,val,Stock Diagnosis
+300963目前的性价比如何,val,Stock Diagnosis
+华胜天成近期表现怎么评价,val,Stock Diagnosis
+中孚实业今日走势是洗盘吗,val,Stock Diagnosis
+招商南油的行业地位分析,val,Stock Diagnosis
+先锋电子的投资逻辑是什么,val,Stock Diagnosis
+北斗星通适合长期持有吗,val,Stock Diagnosis
+继续跟进分析回天新材,val,Stock Diagnosis
+600215。今天涨停了还能追吗？,val,Stock Diagnosis
+机器人应用领域的代表性标的,val,Stock Screening
+1月7日沪深两市处于跌停状态的个股,val,Stock Screening
+机器人产业链相关的上市公司有哪些,val,Stock Screening
+股票市场常见的分类方式,val,Stock Screening
+A股中属于AI人工智能概念的标的,val,Stock Screening
+选出连续三年主营业务净利润增长的白马股,val,Stock Screening
+沪深主板中脑机接口概念且底部横盘一年后放量突破的个股,val,Stock Screening
+主力资金及游资高度锁定的强势股,val,Stock Screening
+这两只具体的股票代码是什么,val,Stock Screening
+筛选主营业务净利润实现三年连增的标的,val,Stock Screening
+AI人工智能领域的热门概念股,val,Stock Screening
+主力资金持续吸筹且股价横盘蓄势的个股,val,Stock Screening
+科创板中属于AI人工智能概念的股票,val,Stock Screening
+主力资金连续多个交易日呈现净流入的标的,val,Stock Screening
+选出成长指数与分红金额均连续三个季度上升的白马股,val,Stock Screening
+昨日盘中触及跌停的个股名单,val,Stock Screening
+火箭发射场建设相关的概念股,val,Stock Screening
+技术面上出现三把锁信号的个股,val,Stock Screening
+出现3把锁信号，但是股价回调的股票,val,Stock Screening
+流入资金主板股票按量比排列,val,Stock Screening
+凯美特气明天应当怎样操作,val,Prediction
+帮我研判一下航天智装明天走,val,Prediction
+帮我研判一下多氟多未来走势,val,Prediction
+研判明天走势,val,Prediction
+帮我研判一下城建发展明天走势,val,Prediction
+创新医疗后期走势,val,Prediction
+研判一下城建股份明天走势,val,Prediction
+三花智控后市如何,val,Prediction
+看看后期怎样走下去，,val,Prediction
+模塑科技后期走势,val,Prediction
+华润并购整合最新动态,val,news
+哪家公司直接控股中国电子信息集团,val,news
+谁目前控股中国电子信息产业集团,val,news
+上海微电子借壳哪家公司上市交易,val,news
+贝隆精密股份解禁的具体日期,val,news
+沪光股份定向增发的官方公告,val,news
+搜索2026年1月8日商业航天相关研报,val,news
+沪光股份定向增发的官方文件,val,news
+002691前一交易日封单比,val,Indicator Query
+11月12日九牧王人气热度,val,Indicator Query
+12月11日百大集团热度值,val,Indicator Query
+三花智控今日资金净流入额,val,Indicator Query
+拓维信息隔夜挂单数据情况,val,Indicator Query
+红相股份核心主营产品明细,val,Indicator Query
+ZA026432是哪位私募席位,val,Indicator Query
+五洲新春股权增发具体价格,val,Indicator Query
+汽车零部件板块今日资金流入,val,Indicator Query
+潍柴动力毛利与净利润占比,val,Indicator Query
+xyzc技术面关键压力位点,val,Indicator Query
+三花智控机构持股比例多少,val,Indicator Query
+华友钴业机构持股具体占比,val,Indicator Query
+华建新材12月29日高管增持,val,Indicator Query
+利君股份主力持仓成本测算,val,Indicator Query
+其公司海外业务营收占比,val,Indicator Query
+中航光电12月15日杠杆资金,val,Indicator Query
+利欧股份主力资金控盘比例,val,Indicator Query
+开开实业所属具体板块划分,val,Indicator Query
+600120所属行业板块分类,val,Indicator Query
+中国船舶定增具体实施时间,val,Indicator Query
+中航重机发行定增具体时间,val,Indicator Query
+雅化集团核心业务经营范围,val,Indicator Query
+华建集团筹码集中度百分比,val,Indicator Query
+002691前一交易日封单比,val,Indicator Query
+002691昨日封单比例数据,val,Indicator Query
+11月12日九牧王人气热度,val,Indicator Query
+12月11日百大集团热度值,val,Indicator Query
+330327今日盘面资金动态,val,Indicator Query
+中天科技股东张跃军资金进出,val,Indicator Query
+格力电器持续经营净利润,val,Indicator Query
+药明康德保险持股家数,val,Indicator Query
+招商银行利息收入(财务费用),val,Indicator Query
+同时触发三把锁与加仓信号的个股,val,Stock Screening
+今日主力资金净流入规模达2.06亿的个股,val,Stock Screening
+成交量显著放大且均线系统粘合的标的,val,Stock Screening
+帮我挑选几只三把锁与波段指标均呈开仓态势的个股,val,Stock Screening
+找出日内涨幅超过5%的活跃股票,val,Stock Screening
+华为昇腾产业链相关的概念股,val,Stock Screening
+单日主力资金净流入达2.06亿的具体标的,val,Stock Screening
+同时具备卫星互联网、商业航天与算力的个股,val,Stock Screening
+今日触发三把锁技术信号的股票,val,Stock Screening
+筛选涨幅3%-5%、小市值、高换手且近期有涨停经历的个股,val,Stock Screening
+寻找资金流入多但涨幅滞后的板块及其领涨个股,val,Stock Screening
+处于月线级别2到3年低位区域的个股,val,Stock Screening
+处于日线级别下跌周期1到3个月的个股,val,Stock Screening
+筛选今日涨幅适中、市值两百亿以下且量比大于1的股票,val,Stock Screening
+当前资金流入居前但整体涨幅较小的板块,val,Stock Screening
+找出5日均线上穿长周期均线满3天的板块,val,Stock Screening
+今日获3.6亿元大额资金流入的个股,val,Stock Screening
+擒龙平台上显示处于低位区域的标的,val,Stock Screening
+当前市场中热度高但估值相对低位的个股,val,Stock Screening
+找出5日均线上穿多条均线满3天的概念板块,val,Stock Screening
+603893目前的趋势形态如何,val,Stock Screening
+找出5日线向上金叉长周期均线满5天的板块,val,Stock Screening
+卫星通讯产业链的核心概念股,val,Stock Screening
+找出5日均线金叉10日与20日均线的行业板块,val,Stock Screening
+涨停股票,val,Stock Screening
+12月26日首板，主板，非ST,val,Stock Screening
+今日热门股票有哪些？,val,Stock Screening
+涨幅3%一5%，量比在5以下，流通股10亿股以下，外盘大于内盘。,val,Stock Screening
+目前主力拉升的股票有哪些,val,Stock Screening
+特朗普对华关税的具体加征比例,val,news
+近期有无影响情绪的重大事件新闻,val,news
+苹果股价连跌对科技板块的影响,val,news
+豁免关税后汽车厂商的盈利变化,val,news
+行业组织反对加征零部件关税原因,val,news
+我国AI专利占比六成的技术领域,val,news
+券商回购计划中体现的维稳思路,val,news
+智能投顾如何平衡AI推荐与风控,val,news
+美联储降息对A股市场的逻辑影响,val,news
+899050近期有哪些市场新闻动态,val,news
+001296近期有哪些重大的新闻,val,news
+107999近期的热点新闻资讯,val,news
+近期医药行业有无新药研发动态,val,news
+688536与301027所属市场新闻,val,news
+上海微电子最有可能借壳上市的公司是哪位？,val,news
+旋级信息重组进展如何了,val,news
+山子高科发的公告说明什么,val,news
+博莱雅股份回购公告,val,news
+出现绿锁信号时，是否需叠加主力资金流向进行多维确认？,val,Knowledge Base
+针对小绿锁误报率偏高的问题，有哪些系统性的调优方案？,val,Knowledge Base
+当活跃度处于高位且主力资金呈净流出态势时，风险等级如何评估？,val,Knowledge Base
+如何解析主力大单显示流出、但整体净流入金额为正的背离现象？,val,Knowledge Base
+探究三步战法判断标的潜力时，多空资金指标是否存在未来函数？,val,Knowledge Base
+在市场环境极度疲软下，主力资金的微量净流入是否具备参考力？,val,Knowledge Base
+震荡行情中波段决策信号频繁失效，具体的优化策略为何？,val,Knowledge Base
+1日/3日/13日不同周期主力数据出现方向性矛盾时，应以谁为准？,val,Knowledge Base
+探讨小绿锁卖出逻辑与期权对冲策略结合的实战可行性？,val,Knowledge Base
+为何部分标的完全契合三步战法形态，其实际走势却大幅偏离预期？,val,Knowledge Base
+如何通过技术手段识别主力对倒行为对小绿锁信号的干扰？,val,Knowledge Base
+从数据底层逻辑分析，为何ST类风险警示股不提供主力资金统计？,val,Knowledge Base
+深度对比小绿锁与市面主流软件卖出指标的胜率及灵敏度。,val,Knowledge Base
+在软件交互层面，如何关闭三步战法功能界面中的自选股展示？,val,Knowledge Base
+用户是否拥有开放权限，可以自定义小绿锁的触发参数或阈值？,val,Knowledge Base
+针对主力、敢死队及多空资金，最科学的时间周期建模应设为几日？,val,Knowledge Base
+详解波段决策图中红绿柱状实心与空心形态所代表的物理意义。,val,Knowledge Base
+官方是否提供波段决策算法的API接口，以支持量化程序化交易？,val,Knowledge Base
+揭示大宗交易等非二级市场行为对多空资金统计分布的影响。,val,Knowledge Base
+针对多空资金在不同平台间显示不一致的问题，其核心差异在哪？,val,Knowledge Base
+评估波段决策信号的实时性：是否存在信号漂移、延迟或盘后回改？,val,Knowledge Base
+如何利用季度财报披露的时间窗口，对主力跟踪策略进行动态调优？,val,Knowledge Base
+深度解析股价强势涨停、但多空资金数据却显示净流出的归因。,val,Knowledge Base
+若操作不当导致主力资金分析指标丢失，标准恢复流程是什么？,val,Knowledge Base
+详述软件内置模拟撮合系统的具体操作路径与功能边界。,val,Knowledge Base
+针对三步战法的虚假信号，有哪些量化验证模型可用于回测？,val,Knowledge Base
+信用交易产生的买卖单是否被纳入多空资金计算范围？,val,Knowledge Base
+当筹码分布集中度与波段决策买卖点冲突时，决策权重如何分配？,val,Knowledge Base
+从算法层面如何界定小绿锁自带的回落止盈触发阈值？,val,Knowledge Base
+为什么多空资金色块显示为做多红色，其实际成交净值却是流出的？,val,Knowledge Base
+华兰股份未来表现,val,Prediction
+帮研判一下和胜股份接下来一个月的走势,val,Prediction
+哎 同学 我在问你 我明天该怎样操作,val,Prediction
+华兰疫苗未来表现,val,Prediction
+帮研判一下中航重机接下来的走势,val,Prediction
+三花智控后市如何,val,Prediction
+帮研判一下中航重机接下来一个月的走势,val,Prediction
+国风新材后续走势怎样,val,Prediction
+白酒板块未来怎样看？,val,Prediction
+华能水电未来走势情况研判,val,Prediction
+帮我研判下601020后续的走势,val,Prediction
+华电国际未来走势情况研判,val,Prediction
+白酒板块未来怎样看？,val,Prediction
+雷科防务明天还会大涨吗？,val,Prediction
+航天发展明天会大涨吗？,val,Prediction
+沃尔核材发展前景和趋势怎样,val,Prediction
+明天行情预计怎样走,val,Prediction
+沪光股份未来走势情况研判,val,Prediction
+德福科技后期走势,val,Prediction
+300803后面的走势怎么样,val,Prediction
+爱婴室后期怎么操作,val,Prediction
+你好，纽约黄金还会跌吗？,val,Prediction
+宁德时代未来走势情况,val,Prediction
+查看三一重工今日分时走势是否符合头肩底形态。,test,Candlestick Chart
+调取牧原股份今日分时图中早盘冲高回落的轨迹。,test,Candlestick Chart
+显示亿纬锂能今日分时行情中的实时买卖盘明细。,test,Candlestick Chart
+查看智飞生物今日分时图在下午两点后的异动。,test,Candlestick Chart
+调出中租控股在2025年4月11日的历史分时图。,test,Candlestick Chart
+展示科沃斯今日分时走势中的均线阻力位情况。,test,Candlestick Chart
+查看隆基绿能今日分时图中每一分钟的涨跌幅变化。,test,Candlestick Chart
+调取科大讯飞今日分时线在零轴上方的运行时间。,test,Candlestick Chart
+显示大华股份今日分时图中的V型反转走势。,test,Candlestick Chart
+查看汇川技术今日分时图中是否有明显的机构建仓痕迹。,test,Candlestick Chart
+调出东方雨虹今日全天分时价格与成交量的同步走势。,test,Candlestick Chart
+行业IC模块中的消息榜具体指什么,test,Knowledge Base
+该项功能的核心亮点与实战价值有哪些,test,Knowledge Base
+请问如何在K线图界面开启小绿锁指标,test,Knowledge Base
+证券交易印花税是否属于全国统一费率,test,Knowledge Base
+贵司系统是否支持虚拟货币的行情分析,test,Knowledge Base
+请问如何在K线图界面开启小绿锁指标,test,Knowledge Base
+决定二级市场投资胜负的核心因素是什么,test,Knowledge Base
+请详解三步战法的底层逻辑与技术原理,test,Knowledge Base
+该项战法在实战中的风控优势具体有哪些,test,Knowledge Base
+估值指标在个股分析中的参考维度有哪些,test,Knowledge Base
+如何通过估值偏离度来规避个股下行风险,test,Knowledge Base
+个股突破无穷成本均线但缺乏主力支撑,test,Knowledge Base
+这种量价背离的走势是否具备投资价值,test,Knowledge Base
+请定义供求资金的具体计算口径与含义,test,Knowledge Base
+智能阿尔法能为量化选股提供哪些支持,test,Knowledge Base
+如何判定行情上涨时量价配合的健康度,test,Knowledge Base
+如何观察股价下跌过程中成交量的萎缩,test,Knowledge Base
+订阅三步战法长周期服务的资费标准,test,Knowledge Base
+龙虎榜统计数据在盘中的具体更新周期,test,Knowledge Base
+不同市况下如何修正小绿锁的信号误判,test,Knowledge Base
+小绿锁是否建议配合其他技术指标共振,test,Knowledge Base
+三步战法是否适用于B股市场的个股分析,test,Knowledge Base
+请科普国债逆回购的操作门槛与基本逻辑,test,Knowledge Base
+债基资产特性是否决定无法套用主力模型,test,Knowledge Base
+如何定义股票估值及其在定价中的作用,test,Knowledge Base
+波段决策给出开仓信号后的确定性评估,test,Knowledge Base
+为何历史回测胜率在实战中难以完全复刻,test,Knowledge Base
+请问零轴指数代表的具体含义及适用场景,test,Knowledge Base
+如何理解波段决策的运作机制与信号频率,test,Knowledge Base
+请告知波段决策功能开关的具体设置路径,test,Knowledge Base
+利用CYS13超跌指标配合资金流向寻找买点,test,Knowledge Base
+手动修改参数后系统无法实现设置自动存储,test,Knowledge Base
+甄别深度研报专业性与权威性的筛选方法,test,Knowledge Base
+评估研报质量时有哪些核心维度可以借鉴,test,Knowledge Base
+当多空资金出现红翻绿拐点是否立即离场,test,Knowledge Base
+针对并购重组概念有哪些核心的选股逻辑,test,Knowledge Base
+当战法信号与实际K线趋势发生背离时,test,Knowledge Base
+研判下跌过程中主力资金逆势吸筹有效性,test,Knowledge Base
+002055怎么操作,test,Stock Diagnosis
+我分析一下，红相股份,test,Stock Diagnosis
+帮我分析下华谊兄弟,test,Stock Diagnosis
+帮我分析一下华菱线缆,test,Stock Diagnosis
+帮我分析欢乐家,test,Stock Diagnosis
+S丅得润怎么操作,test,Stock Diagnosis
+帮我分析一下安科瑞,test,Stock Diagnosis
+苏州高新还会涨吗？,test,Stock Diagnosis
+帮我分析一下南极光,test,Stock Diagnosis
+帮我分析920906,test,Stock Diagnosis
+分析下航天发展,test,Stock Diagnosis
+分析一下晒铜鼓粉,test,Stock Diagnosis
+帮我分析一下亿利达,test,Stock Diagnosis
+银邦股份今天的主力资金都哪些在流入,test,Stock Diagnosis
+帮我分析一下透景生命？,test,Stock Diagnosis
+帮我分析一下法拉电子,test,Stock Diagnosis
+帮我分析一下航天动力,test,Stock Diagnosis
+德福科技怎么样？,test,Stock Diagnosis
+银邦股份主力资金不是最近大幅流入吗,test,Stock Diagnosis
+帮我分析瑞鹄模具,test,Stock Diagnosis
+艾森股份怎么样,test,Stock Diagnosis
+301638南网数字,test,Stock Diagnosis
+汉得信息可以还持有吗,test,Stock Diagnosis
+分析一下神剑股份,test,Stock Diagnosis
+帮我分析下特变电工近期股价走势,test,Stock Diagnosis
+帮我分析一下西部材料,test,Stock Diagnosis
+杰瑞股份可以长期持有吗？,test,Stock Diagnosis
+中国核电怎样,test,Stock Diagnosis
+华明装备这股怎么样,test,Stock Diagnosis
+你好帮我分析一下达利凯普,test,Stock Diagnosis
+鹭燕医药为什么连续暴涨,test,Stock Diagnosis
+帮我分析一下国机通用。,test,Stock Diagnosis
+帮我分析一下格力电器,test,Stock Diagnosis
+分析一下岩山科技,test,Stock Diagnosis
+帮我分析一下城建发展,test,Stock Diagnosis
+请分析一下贝隆精密的走势。,test,Stock Diagnosis
+帮我分析一下中天科技这支股票,test,Stock Diagnosis
+帮忙分析一下南大光电,test,Stock Diagnosis
+润达医疗目前股东股份被冻结是利好还是利空？,test,Stock Diagnosis
+帮忙分析一下000536,test,Stock Diagnosis
+航天发展走势分析,test,Stock Diagnosis
+300063怎么样,test,Stock Diagnosis
+分析一下西子洁能,test,Stock Diagnosis
+刚才给我提供的那十一只,test,Stock Screening
+定向增发成本线附近的汽车配件股票。,test,Stock Screening
+"// 底部放量突破（近20日跌幅＞20%，最近3日放量+突破60日线）\nREF(C/HHV(H,60),1)<0.8 AND // 近20日（近似60日线周期）跌幅＞20%\n(VOL>REF(VOL,1)*2 AND C>MA(C,60)) AND // 最近1日放量+突破60日线\nCOUNT(VOL>REF(VOL,1)*1.5,3)>=2; // 近3日有2日放量\n能帮我找出这只股票嘛",test,Stock Screening
+最近两天大宗交易溢价的股票排行,test,Stock Screening
+做卫星太阳能板的上市企业。,test,Stock Screening
+前期下跌后现在发出起爆信号，同时满足卫星运营/商业发射+多家机构调研+主力大幅流入+合同实施推进”,test,Stock Screening
+太空光伏的概念的股票,test,Stock Screening
+2026年2月30日前，定增股票解禁上市企业,test,Stock Screening
+商业航天加新能源股票,test,Stock Screening
+做脑机接口又做军工的股票,test,Stock Screening
+光伏设备加硅片加商业航天的股票,test,Stock Screening
+做脑机接口的股票,test,Stock Screening
+陈小群今天买了那些票,test,Stock Screening
+"{'args': [""'火箭回收的上市股票名字""], 'kwargs': {'timeout': 120}}",test,Stock Screening
+火箭海上回收的上市股票名字,test,Stock Screening
+商业航天板块有哪些个股还可以进入买,test,Stock Screening
+商业航天应用端下游低价股票,test,Stock Screening
+太阳能a i卫星股票。,test,Stock Screening
+太空光伏股票。,test,Stock Screening
+太阳翼上市公司。,test,Stock Screening
+瑞士银行，香港中央结算有限公司，摩根士丹利国际股份有限公司同时共同a股持仓,test,Stock Screening
+年报业绩好的股票,test,Stock Screening
+AI太空股票。,test,Stock Screening
+大牛股,test,Stock Screening
+瑞士银行，香港中央结算有限公司，摩根士丹利国际股份有限公司同时在a股持仓的股票,test,Stock Screening
+帮我查找最近6个月定增的股票,test,Stock Screening
+在太空用的光伏是那个股票,test,Stock Screening
+帮我查找2025年10月份定增的股票,test,Stock Screening
+25年5月一6月定增股票,test,Stock Screening
+商业航天应用端低价股票,test,Stock Screening
+商业航天应用端的低位龙头概念,test,Stock Screening
+近期定向增发的股票,test,Stock Screening
+1月9日还在锁定期内有定向增发的股票,test,Stock Screening
+帮我查找2025年9月份定增的股票,test,Stock Screening
+航天电子下游低位股票,test,Stock Screening
+豆包AI眼镜概念股有哪些,test,Stock Screening
+商业航天应用端的低位概念股票,test,Stock Screening
+是向增成本附近的股票,test,Stock Screening
+25年7月到8月定增的股票,test,Stock Screening
+近期融资前五名的板块,test,Stock Screening
+B01052成分股中融资多的是什么,test,Stock Screening
+三花智控后市怎样,test,Prediction
+688510未来走势情况,test,Prediction
+华东数控明天走势,test,Prediction
+丽珠集团后市怎样,test,Prediction
+赣锋锂业未来走势，时间节点,test,Prediction
+未来目标价三零零零五,test,Prediction
+300087还会涨吗,test,Prediction
+300058未来目标价,test,Prediction
+30087还会涨吗,test,Prediction
+洲际油气未来走势,test,Prediction
+州际油气未来如何,test,Prediction
+沈阳机床未来,test,Prediction
+今天行情如何,test,Prediction
+五一节之后行情会如何？,test,Prediction
+指南针未来走势如何,test,Prediction
+特宝生物未来的走势如何,test,Prediction
+指南针未来走势如何,test,Prediction
+行情预计啥时候变好,test,Prediction
+行情未来走势如何,test,Prediction
+最近行情如何,test,Prediction
+上证指数走势如何,test,Prediction
+今天A股怎么样？,test,Prediction
+纳指大幅反弹，A股市场接下来走势如何？如何把握反弹机会,test,Prediction
+荣科科技重组可能性,test,news
+中超控股有无利好消息？,test,news
+汽车电子龙头25年净利大增近60%，H1新订单超300亿，智能座舱全球首发+机器人Tier1布局双轮驱动，这是哪家公司？,test,news
+那些公司发了年度预告,test,news
+分析川金诺最新公告,test,news
+解读川金诺年度预告,test,news
+东方财富发布的2024年度股东会议公告中，通过了哪些议案,test,news
+东方财富最近发布了哪些公告,test,news
+东方财富2024年度可持续发展报告中关于风险管理有什么重点举措,test,news
+南网储能最近的投资公告里，公司对投资风险的详细评估和应对预案具体内容是什么？,test,news
+哪些股票发布了2025年报的业绩预告,test,news
+长安汽车最近的业绩预告是什么时候发布的,test,news
+长安汽车2025年4月14日发布的公告具体内容是什么,test,news
+金地集团最新发布的业绩报告中，净利润和营业收入同比变化情况如何？,test,news
+和元生物在过去一个月内发布了哪些类型的公告？,test,news
+不同机构发布的关于迈瑞医疗的研报中，在盈利预测方面存在哪些差异？差异产生的原因可能是什么？,test,news
+对比过去一年和最近发布的关于指南针公司的研报，对其业务发展的观点有哪些变化？,test,news
+最新发布的关于半导体行业的研报中，对该行业的未来市场规模预测是多少？,test,news
+国泰海通证券和东方证券对贵州茅台的评级差异是什么？背后的假设有何不同？,test,news
+宁德时代2025-08的研报，核心结论是什么？给出买入/持有/卖出的理由。,test,news
+华兰股份是否有股东减持计划？减持比例和时间安排对股价的影响？,test,news
+哪些板块是近期政策重点关注？,test,news
+仲基的腾发时间是多少。,test,Indicator Query
+指南针成交量,test,Indicator Query
+深高速的定向增发股东表,test,Indicator Query
+涂鸦智能的股票代码是多少,test,Indicator Query
+605298压力位,test,Indicator Query
+300285支撑位多少,test,Indicator Query
+通动力压力位在哪？,test,Indicator Query
+指南针增长点,test,Indicator Query
+中国石化涨跌幅,test,Indicator Query
+万科A递延所得税资产减少,test,Indicator Query
+东方财富报告期,test,Indicator Query
+长江电力归属于少数股东的综合收益总额,test,Indicator Query
+兴业银行强势轮动_60,test,Indicator Query
+通威股份策略,test,Indicator Query
+恒瑞医药控制股东,test,Indicator Query
+紫金矿业收盘价,test,Indicator Query
+东方财富营业周期,test,Indicator Query
+阿里巴巴CCI超买,test,Indicator Query
+海康威视是龙头股吗,test,Indicator Query
+贵州茅台近一季度交易次数,test,Indicator Query
+中国石化私募英雄榜减仓股数,test,Indicator Query
+长江电力新股,test,Indicator Query
+网易MA均线,test,Indicator Query
+工商银行主力增减仓,test,Indicator Query
+东方财富近一季度大宗收益率,test,Indicator Query
+中国中免固定资产清理,test,Indicator Query
+拼多多小时对行业轮动状态,test,Indicator Query
+阿里巴巴注册资金,test,Indicator Query
+浦发银行归母净利润,test,Indicator Query
+中国移动营业收入,test,Indicator Query
+伊利股份MACD-顶背离,test,Indicator Query
+海康威视购建固定资产、无形资产和其他长期资产支付的现金,test,Indicator Query
+隆基绿能私募英雄榜持有本股私募数,test,Indicator Query
+智能阿尔法涨跌预测在哪？,,oos
+麦T宝,,oos
+出现三把锁但股价处于历史高位，是否应该买入？,,oos
+波段决策提示持仓但主力资金显示流出，应以哪个为准？,,oos
+出现黄金坑但主力资金仅流入1日，是否满足买入条件？,,oos
+敢死队资金大幅流入但股价未明显上涨的可能原因是什么？,,oos
+主力资金连续多日流入但股价未涨，是否应继续持有？,,oos
+绿锁出现但主力资金仍在流入，应该如何操作？,,oos
+多空资金大幅流入但估值过高的操作建议？,,oos
+出现三把锁但股价已涨停，是否应追高？,,oos
+出现绿锁但资金仍在流入，是否应该继续持有？,,oos
+小黄锁出现后是否建议切换至防御性板块？,,oos
+小黄锁出现后是否建议缩短持仓周期？,,oos
+波段决策信号在盘后固定前是否可能变动？,,oos
+当涨停股出现波段决策空仓信号时是否应卖出？,,oos
+波段决策导致多次卖飞牛股，如何解释？,,oos
+为什么股票上涨但波段决策显示绿色或空仓？,,oos
+如何通过三步战法分析股票的筹码分布变化？,,oos
+如何通过波段决策识别主力洗盘行为？,,oos
+如何通过三步战法判断股票的短期结构牛信号？,,oos
+近期哪些板块的市场表现最为抢眼，未来是否还有上涨空间？,,oos
+给出短线，适合进场的股票。主板方向,,oos
+根据擒龙平台，推荐主板方向，适合进场的股票,,oos
+今天适合入手的股票,,oos
+推荐一个主板方向，适合入手的股票。根据指南针轮动战法,,oos
+下个交易日上涨的股票推荐、今日可买入标的、带概率和操作建议,,oos
+波段决策今天开仓股票,,oos
+TOKEN背后透露哪些机会，哪些个股值得关注？,,oos
+E T F基金T+0的有哪些,,oos
+分析一下603881，今天是出货还是洗盘？,,oos
+网速科技走势。如何,,oos
+凯撒旅业，最近有什么利好消息,,oos
+你好，我想把品屋食品，食品饮料一起中国平安还有品屋食品都换，换成600930华电性能行吗？,,oos
+三月份的主线会是什么板块，只选三支股票投资，请将最优的选出来！,,oos
+3支性价比高的液冷A股走势分析,,oos
+金属钨慨念今天是不是资金流出了，是不是面要回调了,,oos
+波段开仓，连阳三天,,oos
+帮我分析一下上海电气这只股票今天及以后的走势,,oos
+化工呢？溴，自己甲醇一类的,,oos
+在指南针哪看筹码？用图说明,,oos
+28日以色列与伊朗战争，资金避险，仓位如何应对？选股应该怎么选,,oos
+哈空调600202周K线连续三周上行，代表什么意思？,,oos
+大有能源，可以赤有吗,,oos
+华胜天成后势走势如何？,,oos
+加上这俩天美伊战争把选取的股票重新择优,,oos
+帮我分析一下浪潮信息这个股票。今年有没有盈利，市值有多少？是不是今年的主线？,,oos
+万和电气周线收上长影十字星，后期走势？,,oos
+中国石化，洲际油气，这些累，的和美伊开战不能买吗？,,oos
+美国和伊朗开战，利好哪些股票，业绩预增稳定增长的,,oos
+我2月26日买入大笔600010股票，27日9.26分钟下单卖了，后来快涨停，后悔死了，请分析一下我这种情况要如何避免,,oos
+请问现在重点关注那几个板块，资金流入那几个板块,,oos
+兆易创新未来走势及操作策略,,oos
+海光信息选股策略及未来走势,,oos
+中芯国际近期走势及投资策略,,oos
+鉴于目前国内国际形势，下周应重点关注的赛道，并筛选出几个短线etf标的,,oos
+帮我分析一下我的持仓股符合下周的主线题材吗？那些可以卖出呢？,,oos
+航天动力明涨跌幅分析，操作策略,,oos
+海天味业明涨跌幅分析，能买吗？操作策略,,oos
+2026年2月8日筛选涨停 高盛（中国）正量买入涨停突振幅破大于10总量对比前一天翻2.5倍增长外盘大于内盘突破30日线“量价健康→指标共振→热点验证→排除风险”四步法则。政策驱动，结合分时盘口与资金流向动态调整策略，符合上述条件的股 严格执行报代码,,oos
+002774这只股票业绩怎么样主要做哪些行业，未来有多大上升空间,,oos
+帮我找一只芯片的龙头股，可以长线投资那种,,oos
+今日吉视传媒主力资金多空资金敢死队资金流入了吗？开始进场了吗？,,oos
+推荐今日波段开仓，并结合多维度技术面参考的股票,,oos
+根据目前市场情况，选出高增长赛道继续产业链分析，选出标的公司及其相关的ETF基金，评估风险点及选时操作策略（包含ETF基金）,,oos
+胜蓝股份今天走势怎么样？股票可以好分批卖掉吗？,,oos
+600986主力出货了吗？还是洗盘？,,oos
+人民同泰是怎么了，有什么利空重大消息吗,,oos
+昆剧周末国立国外的古诗行情请给出本周最合院的板块。,,oos
+机器人概念股有哪些？都有什么特点,,oos
+今天哪些股票会走强？请帮我选出一只底部资金，非常扎实，而且是热门板块，走势又慢慢上涨的股票,,oos
+今天周一开盘有那些方向板块值得关注的，选出10支可建仓的标的,,oos
+银河电子涨停原因，它属于哪个板块,,oos
+Rsl数据在多少以上是超买有回调的风险,,oos
+雅化集团的筹码密集度和集中度是不是在少数股东买入,,oos
+帮我分析一下300682股票的基本面，发展空间,,oos
+帮我分析一下300065的股票，还会继续下跌吗，基本面怎样，发展潜力如何,,oos
+我要做超短线你给我一个策略,,oos
+601137这支股票后面会有怎么样的走势？该公司的产品在市场中是否具有发展潜力？,,oos
+帮我分析下中兴通信未来走势，今天大跌后是否能回升,,oos
+"帮我分析海康威视未来走势，是否要获利轻仓
+
+",,oos
+前段时间航天发展股价涨了2倍，这段时间有回调，炒作这个股票的自己现在进了哪几只股票,,oos
+怎么在分时上监测到超级主力,,oos
+今日上龙虎榜的个股有那些,,oos
+有主力潜伏吸筹的个股介绍一下,,oos
+你是一个资深的股票分析师，请运用价值投资的理念，使用雪球大 V 的思考逻辑和思考框架，运用邱国鹭老师的投资理念。搜索最新的股票收盘价，对应这个收盘价，在 2026 年2月2日到5日之间，这只股票最容易翻一倍的那 5 只股票，帮我找出来。要求翻一倍的的股票的翻倍几率大于 85%。,,oos
+怎么用指南针交易软件我到筹码峰,,oos
+根据资金数据、还有消息面、政策面分析，浩通科技明天走势如何发展？,,oos
+指南针，显示慧眼的说明在哪里可以找得到？,,oos
+华天科技主要做什么的？今年营收如何,,oos
+现在洲际油气的股价活跃度为正数91.538，是不是高度活跃,,oos
+洛阳钼业今天主流入多嘛，能买吗,,oos
+至少从6个维度面帮我推荐今日短线。可买股票,,oos
+600769 分析下这个股票后期上涨趋势如何，依据是什么,,oos
+600732未来走势和买卖点,,oos
+002451未来走势和买入点,,oos
+今天赣锋你也可以补仓吗？想做一人,,oos
+南山铝业如何？高抛低吸,,oos
+你至少6个维度的技术面帮我推荐今日短线。可买股票,,oos
+航天智造怎么看，能介入吗？？,,oos
+你是一个资深的股票分析师，请运用价值投资的理念，使用雪球大 V 的思考逻辑和思考框架，运用邱国鹭老师的投资理念。搜索最新的股票收盘价，对应这个收盘价，在 2026 年2月2日到5日之间，这只股票最容易翻一倍的那 5 只股票，帮我找出来。要求翻一倍的的股票的翻倍几率大于 85%。,,oos
+帮我每天盘后做一个复盘bean根据指南针软件提供的数据。推荐出三个明天可以操作的龙头股票,,oos
+"
+            
+            
+                
+                
+                
+                 方向：存储芯片+半导体概念 资金：北向+资本+基金+牛散重仓 资金：主力持续洗盘+抢筹事件：产品涨价+外围半导体大涨 业绩：25年利润翻倍技术：周线级别突破3年箱体压力+MACD红码飙升形态的右侧买点=红柱再次",,oos
+2026年春节档电影受益哪些股票，在资金面，技术面分析一下买入时机,,oos
+上周的热门概念，热门行业有哪些？且资金流入量较大，预测本周的热门概念和行业有哪些？,,oos
+1月30号美国金价、银价大幅受挫， 2月2号开盘，美国金价、银价预计走势。,,oos
+在A股做钢材贸易的公司有哪几家？龙头是谁？,,oos
+002871走势，建仓？对比兄弟科技？,,oos
+选出资金流入最多，基本面好盈利能力强，趋势向上突破，股性活跃，周一可买入的前五只股票,,oos
+这周有哪方面的利多消息，有那些股票推荐,,oos
+三步战法如何结合0Z指数分析市场整体情况？,,oos
+如何结合资金龙虎榜和主力资金指标验证机构动向？,,oos
+如何通过波段决策筛选当天出现买入信号的股票？,,oos
+如何自定义主力资金流入阈值的预警提示？,,oos
+如何结合筹码分布与多空资金判断买卖点？,,oos
+三步战法如何结合“时空极限指标进行风险控制？,,oos
+如何将波段决策信号导入自选股监控列表？,,oos
+如何通过三步战法判断大盘的波段结构牛或短期结构牛？,,oos
+波段决策在次新股中的适用性如何？,,oos
+波段决策中的“股价活跃度指标如何配合使用？,,oos
+如何通过波段决策判断突破有效性（如压力位）？,,oos
+三步战法如何结合黄金坑指标捕捉抄底机会？,,oos
+如何利用波段决策进行分批建仓/减仓？,,oos
+如何利用三步战法判断主力资金与散户资金的博弈？,,oos
+三步战法如何结合“敢死队资金指标进行短线操作？,,oos
+多空资金与成交量指标如何配合使用？,,oos
+如何利用主力资金指标识别主力对倒行为？,,oos
+如何通过三步战法判断北上资金动向？,,oos
+如何利用主力资金指标判断洗盘结束信号？,,oos
+如何通过三步战法筛选高控盘筹码的优质股？,,oos
+今天天气怎么样,,oos
+这周末天气好吗？,,oos
+你在干嘛？,,oos
+我今天心情不好,,oos
+你能陪我聊会儿吗？,,oos
+人为什么要睡觉？,,oos
+陪我写诗,,oos
+给我讲个笑话,,oos
+最近有什么好看的剧,,oos
+我相册里的图怎样才能让你知道？,,oos
+好的，谢谢,,oos
+你真笨！,,oos
+上海的别称,,oos
+疯狂动物城2是上海电影承包吗,,oos
+属狗的人在2026年的哪些时间容易发横财？,,oos
+谢谢您的支持,,oos
+不能投屏到大屏幕电视机上面看节目,,oos
+PC是什么,,oos
+把整个字体变大。,,oos
+马可波罗,,oos
+明天天气怎么样？,,oos
+这个黑色的夜间屏幕怎么设置成白天？,,oos
+给我讲个冷笑话,,oos
+西部材料主要生产什么？它的产品在市场上有什么核心优势？,,oos
+1月14日热点板块和优质标的？,,oos
+600215今日下午是不是装的扫货？明天预计高开多少？,,oos
+请问洛阳钼业今天为什么这样子调整，然后现在还可以买吗？,,oos
+山东墨龙 挂单量以及后市如何判断,,oos
+对我持仓股，分析明日投资机会,,oos
+农心科技有没有利空消息，股票能否继续持有,,oos
+目前持有光迅科技给出分析建议，明天走势如何,,oos
+我的自选股有那些明天走强可以买的,,oos
+光学光电子版块有哪些龙头公司,,oos
+T0策略盈平是什么意思？怎样操作？,,oos
+代码300855的股票未来可期？如何止盈止损,,oos
+帮我分析一下中科创达的基本面和中央1号文件，还有成长方面有有没有优势？适合什么类型的持股？,,oos
+"文笔续尾：
+冬雪红梅春烟柳
+万千风景皆逊色
+此生幸得真知已
+一一一一一一？",,oos
+公司主营电网设备母线，是国内母线行业龙头之一，受益于输配电设备的需求，同时，公司与孛璞半导体合资成立公司。,,oos
+帮我打开盘中监控功能中的回调补涨。,,oos
+请将我的自选股属于哪些行业？给我分析一下,,oos
+农心科技有没有利空消息，股票能否继续持有,,oos
+老师好，请问老师300777与300699这两支个那一支业绩更优秀？,,oos
+"加自选：
+600459 贵研铂业
+002383 合众思壮
+600707 彩虹股份
+600618 氯碱化工
+600869远东股份
+601519大智慧",,oos
+近一个月内研报建议买入股票降序排名，只要00和60开头股票。,,oos
+西测测试再涨几个点会触发异动规则,,oos
+目前持有光迅科技给出分析建议，明天走势如何,,oos
+筛选出有消息面刺激的有上涨概率大的股票,,oos
+商业航天都有什么股票，下周走势建议个股,,oos
+中天科技里面的股东张跃军这几天的资金进出情况,,oos
+你好Al帮我分析一下上海贝岭未来出现金叉趋势往上走,,oos
+你邦我看002413明天的走势是强还是强是不是像有些软件查出的续下跌十几个点？,,oos
+旭升集团603305近三天的走势，主力的意途是什么，主力在出货的迹象吗,,oos
+智能阿尔法选出3A，短线波段信号开仓的，今天,,oos
+科大讯飞股票支撑位、压力位各是多少？未来5个交易日走势如何？今天是否适合买入？,,oos
+600477是洗盘还是出货，明天走势如何,,oos
+在北交所上市的股票，风险都特别大吗？是退市后又重新上市的吗。是不是质地都不太好,,oos
+帮我分析一下卧龙电驱情况，持股是否需要减仓,,oos
+恒生电子涨停的逻辑是啥?同类型的股票有哪些？,,oos
+Ai金融概念股有那些与近期Ai板块中龙头,,oos
+从四个维度分析青岛金马的走势并给出后续操作建议,,oos
+根据今日上证指数及盘面上所有数据分析一下明天。资金会主力集中分布在哪些板块？,,oos
+跃岭股份今天流出多少资金，明天的走势如何？,,oos
+结合今日晚间新闻以及指南针提供的所有指数。明天哪个板块会走强？,,oos
+分析化工新材料股里与商业航天及新能源相关的化工新材料公司并推荐,,oos
+证通电子，省广集团，那个看涨趋势强,,oos
+未来国家往哪几个方向发展？关键到哪几个方面的股票,,oos
+帮我选一下子啊，诊股一里头那个四项能力叠加的股票呗。适合于短线开仓的。,,oos
+该股票今天的走向如何？是否可以作为长期持有？,,oos
+东方财富股票支撑位、压力位各是多少？未来5个交易日走势如何？今天是否适合买入？,,oos
+ 到目前为止，帮我分析一下整个A股市场，从基本面、消息面、资金面、长期投资发展方向。选出目前低估值的股票。,,oos
+昨天A股上涨最多的。最强版怪,,oos
+请分析一下中鼎股份近三个月股价，并预测未来股价走势，同时分析一下与逐际动力合资组建机器人公司情况，这一投资对中鼎股份股价未来走势有无实质影响？,,oos
+从资金换手率等等多方面，预测一下山子高科明天的走势,,oos
+用红三兵指标选股,,oos
+603708，明日如何操作，主力资金还在么,,oos
+航天动力，使用筹码峰分析一下后期走势,,oos
+股价处于低估状态、未来上涨空间大的品种。,,oos
+从今天的资金面消息面橘树苗分析一下，还有各个方面分析一下这个趋势分析一下这个蓝色光标。明天有可能会出现什么样的状况,,oos
+分析一下600497，未来走势和投资策略,,oos
+帮我分析一下责问连这支票。这个今天开盘,,oos
+通宇通讯主力均价多少，还有多少下跌空间，今天主力会护盘吗,,oos
+液冷龙头股是谁，哪个股票投资确定性高,,oos
+歌尔股份。30左右能不能入手？未来趋势如何？,,oos
+告知我这只股票持仓有哪些机构，并且告知这些机构的特点。,,oos
+在分时图下方为什么会出潜夫吸筹是什么意思,,oos
+利用擒龙平台，找出下周强势上涨的股票,,oos
+分析长电科技，周一能不能买？合复热点，人气，筹码，趋势，高控盘能走强的指标吗？,,oos
+300352近期的公告对后市股价的影响,,oos
+请问老师，川仪股份未来走势如何？我现在被套5个点26.4元成本，后续我应该如何操作,,oos
+用陈小群的情绪活力龙头战法帮我选一下现在可以买入的股票,,oos
+楚江新材现在适合进吗？里面有没有主力资金,,oos
+朱雀三号如果下次发射成功回收，​哪些股票可以大涨？​给出专业的分析,,oos
+中重科技目前位置高不高？下周上涨空间大吗？,,oos
+请从维科精密、未来电器、艾芬达、中生科技、广电电气这五支股票中，选出下周2支热门、有上涨空间的股票？,,oos
+你是私募大佬章建平，请帮我查一下长鑫科技天气大股东,,oos

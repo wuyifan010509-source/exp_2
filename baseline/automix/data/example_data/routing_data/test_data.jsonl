@@ -1,0 +1,10 @@
+{"query": "What is 5 + 7?", "gt": "12", "slm_f1": 1.0, "llm_f1": 1.0, "p_ver_slm": 0.85, "category": "GOOD"}
+{"query": "What is the capital of Japan?", "gt": "Tokyo", "slm_f1": 1.0, "llm_f1": 1.0, "p_ver_slm": 0.9, "category": "GOOD"}
+{"query": "What is 23 * 19?", "gt": "437", "slm_f1": 0.0, "llm_f1": 1.0, "p_ver_slm": 0.25, "category": "NEEDY"}
+{"query": "Explain the Big Bang theory.", "gt": "The universe began from a single point", "slm_f1": 0.4, "llm_f1": 0.85, "p_ver_slm": 0.35, "category": "NEEDY"}
+{"query": "What is the smallest country?", "gt": "Vatican City", "slm_f1": 1.0, "llm_f1": 1.0, "p_ver_slm": 0.88, "category": "GOOD"}
+{"query": "Calculate the cube root of 27.", "gt": "3", "slm_f1": 1.0, "llm_f1": 1.0, "p_ver_slm": 0.82, "category": "GOOD"}
+{"query": "What is deep learning?", "gt": "A subset of machine learning using neural networks", "slm_f1": 0.5, "llm_f1": 0.9, "p_ver_slm": 0.45, "category": "NEEDY"}
+{"query": "Who painted the Mona Lisa?", "gt": "Leonardo da Vinci", "slm_f1": 1.0, "llm_f1": 1.0, "p_ver_slm": 0.92, "category": "GOOD"}
+{"query": "What is the integral of 2x?", "gt": "x^2", "slm_f1": 0.0, "llm_f1": 1.0, "p_ver_slm": 0.3, "category": "NEEDY"}
+{"query": "Explain DNA replication.", "gt": "The process of copying DNA", "slm_f1": 0.35, "llm_f1": 0.85, "p_ver_slm": 0.38, "category": "NEEDY"}

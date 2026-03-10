@@ -1,0 +1,250 @@
+{"query": "逆回购真的能稳赚吗？", "category": "A2", "cost_label": 50, "style": "疑问，焦虑情绪"}
+{"query": "科创板交易门槛啥时候能降低啊！", "category": "A2", "cost_label": 50, "style": "疑问，带有愤怒情绪"}
+{"query": "我今天买的股票怎么没交印花税？", "category": "A2", "cost_label": 50, "style": "陈述，疑惑"}
+{"query": "听说科创板有T+0交易，是真的吗？", "category": "A2", "cost_label": 50, "style": "疑问，好奇"}
+{"query": "新股申购规则改了没？", "category": "A2", "cost_label": 50, "style": "疑问，平静"}
+{"query": "逆回购咋弄，求指点！", "category": "A2", "cost_label": 50, "style": "疑问，求助语气"}
+{"query": "融资融券利息这么高，有没有优惠活动？", "category": "A2", "cost_label": 50, "style": "疑问，带有不满情绪"}
+{"query": "今天买股忘记扣印花税了，咋办？", "category": "A2", "cost_label": 50, "style": "陈述，焦急"}
+{"query": "科创板的交易时间跟主板一样吗？", "category": "A2", "cost_label": 50, "style": "疑问，平静"}
+{"query": "哎，我咋老是搞不懂这些复杂的交易规则...", "category": "A2", "cost_label": 50, "style": "陈述，带有绝望情绪"}
+{"query": "科创板的交易时间是啥时候啊？", "category": "A2", "cost_label": 50, "style": "疑问，平和"}
+{"query": "逆回购是不是到期自动还本付息？", "category": "A2", "cost_label": 50, "style": "疑问，平和"}
+{"query": "股票卖出时为啥要扣印花税？", "category": "A2", "cost_label": 50, "style": "疑问，有点不解"}
+{"query": "哎呀，我忘记科创板的涨跌幅限制是多少了！", "category": "A2", "cost_label": 50, "style": "感叹，焦虑"}
+{"query": "新股申购的时候能不能撤单？", "category": "A2", "cost_label": 50, "style": "疑问，好奇"}
+{"query": "逆回购到期了咋还不见钱到账？", "category": "A2", "cost_label": 50, "style": "疑问，焦急"}
+{"query": "科创板的交易费用跟主板一样吗？", "category": "A2", "cost_label": 50, "style": "疑问，平和"}
+{"query": "这印花税为啥卖股才收啊，买股就不收？", "category": "A2", "cost_label": 50, "style": "疑问，困惑"}
+{"query": "急死人了，逆回购操作步骤能再详细点不？", "category": "A2", "cost_label": 50, "style": "疑问，急躁"}
+{"query": "为什么我感觉科创板的交易门槛越来越高了...", "category": "A2", "cost_label": 50, "style": "陈述，失望"}
+{"query": "科创板的交易时间是啥时候？", "category": "A2", "cost_label": 50, "style": "疑问, 平静"}
+{"query": "哎呀，我忘记逆回购到期了，会咋样？", "category": "A2", "cost_label": 50, "style": "疑问, 焦虑"}
+{"query": "股票卖出要交多少印花税？", "category": "A2", "cost_label": 50, "style": "疑问, 平静"}
+{"query": "科创板股票一天能涨多少？", "category": "A2", "cost_label": 50, "style": "疑问, 兴奋"}
+{"query": "逆回购利率现在是多少来着？", "category": "A2", "cost_label": 50, "style": "疑问, 淡定"}
+{"query": "为啥科创板的涨跌幅限制这么高？", "category": "A2", "cost_label": 50, "style": "疑问, 疑惑"}
+{"query": "急死我了，新股申购中签了怎么办？", "category": "A2", "cost_label": 50, "style": "陈述, 焦虑"}
+{"query": "逆回购操作是不是很简单？", "category": "A2", "cost_label": 50, "style": "疑问, 好奇"}
+{"query": "我这股票卖了得交多少税？", "category": "A2", "cost_label": 50, "style": "疑问, 焦虑"}
+{"query": "逆回购和国债逆回购有啥区别？", "category": "A2", "cost_label": 50, "style": "疑问, 探索"}
+{"query": "逆回购到期了钱咋还没到账？", "category": "A2", "cost_label": 50, "style": "疑问+焦虑"}
+{"query": "科创板的股票怎么买呀？", "category": "A2", "cost_label": 50, "style": "疑问+求助"}
+{"query": "听说印花税又要变了，是真的吗？", "category": "A2", "cost_label": 50, "style": "疑问+好奇"}
+{"query": "哎呀，忘了问一下，逆回购利息咋算呢？", "category": "A2", "cost_label": 50, "style": "疑问+懊恼"}
+{"query": "我这新股申购没中签，规则是不是改了？", "category": "A2", "cost_label": 50, "style": "陈述+疑问+失望"}
+{"query": "逆回购到底啥意思，谁能给我讲讲？", "category": "A2", "cost_label": 50, "style": "疑问+求助"}
+{"query": "今天买了科创板的票，以后能卖出去吗？", "category": "A2", "cost_label": 50, "style": "疑问+担忧"}
+{"query": "哎，这印花税到底是怎么个算法，麻烦解释下", "category": "A2", "cost_label": 50, "style": "陈述+疑问+求助"}
+{"query": "科创板的门槛是不是太高了？", "category": "A2", "cost_label": 50, "style": "疑问+抱怨"}
+{"query": "这新股申购的规则太复杂了，能不能简化点？", "category": "A2", "cost_label": 50, "style": "陈述+疑问+建议"}
+{"query": "科创板交易限制是啥？", "category": "A2", "cost_label": 50, "style": "疑问, 平静"}
+{"query": "我买入股票后卖出要交多少印花税啊？", "category": "A2", "cost_label": 50, "style": "疑问, 焦虑"}
+{"query": "哎，这逆回购咋操作啊，谁能教教我", "category": "A2", "cost_label": 50, "style": "疑问, 绝望"}
+{"query": "融资融券的费率是不是固定的？", "category": "A2", "cost_label": 50, "style": "疑问, 平静"}
+{"query": "为啥我的逆回购收益这么低？", "category": "A2", "cost_label": 50, "style": "疑问, 焦虑"}
+{"query": "科创板股票T+1是真的吗？", "category": "A2", "cost_label": 50, "style": "疑问, 疑惑"}
+{"query": "听说新股申购有啥规则？", "category": "A2", "cost_label": 50, "style": "疑问, 好奇"}
+{"query": "你们那的逆回购手续费太高了吧", "category": "A2", "cost_label": 50, "style": "陈述, 愤怒"}
+{"query": "我要买科创板股票，但不太懂规则", "category": "A2", "cost_label": 50, "style": "陈述, 焦虑"}
+{"query": "逆回购真的能赚点小钱吗？", "category": "A2", "cost_label": 50, "style": "疑问, 期待"}
+{"query": "逆回购是咋回事啊？", "category": "A2", "cost_label": 50, "style": "疑问+口语化"}
+{"query": "科创板的交易费用高不高？", "category": "A2", "cost_label": 50, "style": "疑问+平静"}
+{"query": "新股交易有啥特别的规则吗？", "category": "A2", "cost_label": 50, "style": "疑问+好奇"}
+{"query": "我昨天做了逆回购，今天能赎回不？", "category": "A2", "cost_label": 50, "style": "疑问+焦急"}
+{"query": "融资融券利息太贵了吧！", "category": "A2", "cost_label": 50, "style": "感叹+愤怒"}
+{"query": "想问问科创板的交易时间", "category": "A2", "cost_label": 50, "style": "陈述+平静"}
+{"query": "急！科创板的涨停板限制是多少？", "category": "A2", "cost_label": 50, "style": "陈述+焦虑"}
+{"query": "为什么我买的股票没有印花税？", "category": "A2", "cost_label": 50, "style": "疑问+困惑"}
+{"query": "哎，这印花税到底是要交多少呢？", "category": "A2", "cost_label": 50, "style": "疑问+绝望"}
+{"query": "科创板的T+0交易啥时候能实现啊", "category": "A2", "cost_label": 50, "style": "疑问+期待"}
+{"query": "逆回购一天能赚多少？", "category": "A2", "cost_label": 50, "style": "疑问, 焦虑"}
+{"query": "为啥我买的科创板股票涨不动啊...", "category": "A2", "cost_label": 50, "style": "疑问, 绝望"}
+{"query": "股票卖出后多久交印花税?", "category": "A2", "cost_label": 50, "style": "疑问, 平静"}
+{"query": "急！新股申购的上限是多少？", "category": "A2", "cost_label": 50, "style": "疑问, 紧张"}
+{"query": "哎呀，忘了问了，融券利息咋样算的？", "category": "A2", "cost_label": 50, "style": "疑问, 慌乱"}
+{"query": "科创板交易时间跟主板一样吗？", "category": "A2", "cost_label": 50, "style": "疑问, 平静"}
+{"query": "赶紧告诉我，逆回购怎么弄？", "category": "A2", "cost_label": 50, "style": "命令, 焦急"}
+{"query": "印花税是不是只在卖股票的时候收？", "category": "A2", "cost_label": 50, "style": "疑问, 怀疑"}
+{"query": "哎，这股票交易规则太复杂了，谁能帮我理理清楚？", "category": "A2", "cost_label": 50, "style": "陈述, 烦恼"}
+{"query": "融券和融资是一回事吗？", "category": "A2", "cost_label": 50, "style": "疑问, 疑惑"}
+{"query": "科创板的交易时间跟主板一样吗？", "category": "A2", "cost_label": 50, "style": "疑问,平静"}
+{"query": "逆回购咋操作啊，谁能教教我？", "category": "A2", "cost_label": 50, "style": "疑问,焦虑"}
+{"query": "为啥我每次买股票都要交印花税，这合理嘛？", "category": "A2", "cost_label": 50, "style": "疑问,愤怒"}
+{"query": "听说逆回购收益还不错，真的假的？", "category": "A2", "cost_label": 50, "style": "疑问,好奇"}
+{"query": "新股申购有什么要注意的？", "category": "A2", "cost_label": 50, "style": "疑问,平静"}
+{"query": "我T+1卖出股票，第二天就收不到钱了？", "category": "A2", "cost_label": 50, "style": "陈述,焦虑"}
+{"query": "逆回购利息是每天算的吗？", "category": "A2", "cost_label": 50, "style": "疑问,平静"}
+{"query": "科创板的涨跌幅限制是多少？", "category": "A2", "cost_label": 50, "style": "疑问,平静"}
+{"query": "融券费率怎么那么高，简直坑人！", "category": "A2", "cost_label": 50, "style": "陈述,愤怒"}
+{"query": "听说逆回购很赚钱，是真的吗？", "category": "A2", "cost_label": 50, "style": "疑问,期待"}
+{"query": "逆回购是不是真的能赚到钱？", "category": "A2", "cost_label": 50, "style": "疑问, 平静"}
+{"query": "科创板的交易时间跟主板一样吗？", "category": "A2", "cost_label": 50, "style": "疑问, 平静"}
+{"query": "咋算这印花税啊，看不懂！", "category": "A2", "cost_label": 50, "style": "疑问, 焦虑"}
+{"query": "我开通科创板了，但是啥规则都不懂", "category": "A2", "cost_label": 50, "style": "陈述, 焦虑"}
+{"query": "逆回购到期后钱会自动到账吗？", "category": "A2", "cost_label": 50, "style": "疑问, 平静"}
+{"query": "融券卖出的利息怎么计算的？", "category": "A2", "cost_label": 50, "style": "疑问, 平静"}
+{"query": "科创板的退市规则是什么，急", "category": "A2", "cost_label": 50, "style": "疑问, 焦虑"}
+{"query": "为什么我买的股票要交印花税？", "category": "A2", "cost_label": 50, "style": "疑问, 焦虑"}
+{"query": "新股上市首日有啥特殊规定吗？", "category": "A2", "cost_label": 50, "style": "疑问, 平静"}
+{"query": "逆回购的风险在哪里？", "category": "A2", "cost_label": 50, "style": "疑问, 焦虑"}
+{"query": "科创板的交易费用咋样？", "category": "A2", "cost_label": 50, "style": "疑问,口语化"}
+{"query": "股票卖出的时候为啥要交印花税？", "category": "A2", "cost_label": 50, "style": "疑问,困惑"}
+{"query": "逆回购利息怎么计算的，看不懂啊", "category": "A2", "cost_label": 50, "style": "疑问,焦虑"}
+{"query": "我这逆回购到期了咋还没到账啊？", "category": "A2", "cost_label": 50, "style": "疑问,焦急"}
+{"query": "听说逆回购挺划算的，能详细说说吗？", "category": "A2", "cost_label": 50, "style": "疑问,好奇"}
+{"query": "科创板交易时间跟主板一样吗？", "category": "A2", "cost_label": 50, "style": "疑问,平静"}
+{"query": "哎，搞不懂这印花税到底是个啥", "category": "A2", "cost_label": 50, "style": "陈述,无奈"}
+{"query": "新股申购的规则改了吗？", "category": "A2", "cost_label": 50, "style": "疑问,关注最新变化"}
+{"query": "融资融券利率涨了？", "category": "A2", "cost_label": 50, "style": "疑问,担忧"}
+{"query": "逆回购可以随时赎回吗？", "category": "A2", "cost_label": 50, "style": "疑问,急切"}
+{"query": "逆回购咋玩儿？", "category": "A2", "cost_label": 50, "style": "口语化疑问"}
+{"query": "科创板的交易费用高不高啊？", "category": "A2", "cost_label": 50, "style": "口语化疑问"}
+{"query": "买股票得交多少印花税？", "category": "A2", "cost_label": 50, "style": "口语化疑问"}
+{"query": "我这新股申购中签了，是不是直接就扣钱了？", "category": "A2", "cost_label": 50, "style": "口语化陈述"}
+{"query": "为啥我不能做逆回购啊？", "category": "A2", "cost_label": 50, "style": "口语化疑问"}
+{"query": "融资融券利率真的这么高吗？", "category": "A2", "cost_label": 50, "style": "口语化疑问"}
+{"query": "科创板的涨跌幅限制是多少？", "category": "A2", "cost_label": 50, "style": "平静陈述"}
+{"query": "哎呀，这交易规则太复杂了，谁能给我解释一下啊！", "category": "A2", "cost_label": 50, "style": "焦虑感叹"}
+{"query": "我今天卖了只股票，印花税怎么算的，能不能少点？", "category": "A2", "cost_label": 50, "style": "口语化疑问"}
+{"query": "科创板的交易时间和其他板块一样吗？", "category": "A2", "cost_label": 50, "style": "平静陈述"}
+{"query": "逆回购能天天做吗？", "category": "A2", "cost_label": 50, "style": "疑问，简洁询问"}
+{"query": "这印花税到底是咋回事儿？", "category": "A2", "cost_label": 50, "style": "疑问，口语化"}
+{"query": "我急死啦，科创板的交易时间跟主板一样吗？", "category": "A2", "cost_label": 50, "style": "疑问，焦虑情绪"}
+{"query": "听说逆回购有风险，是真的假的？", "category": "A2", "cost_label": 50, "style": "疑问，带有不确定情绪"}
+{"query": "哎呀，我这逆回购到期了咋处理啊？", "category": "A2", "cost_label": 50, "style": "疑问，带有焦急情绪"}
+{"query": "告诉我下科创板股票的涨跌幅限制是多少？", "category": "A2", "cost_label": 50, "style": "陈述，请求指导"}
+{"query": "科创板的交易费用比普通板块高吗？", "category": "A2", "cost_label": 50, "style": "疑问，对比询问"}
+{"query": "逆回购利息怎么算，能不能给讲讲？", "category": "A2", "cost_label": 50, "style": "疑问，寻求解释"}
+{"query": "新股申购需要什么条件啊？", "category": "A2", "cost_label": 50, "style": "疑问，简洁询问"}
+{"query": "我今天买的这只股票，明天就能卖了吧？", "category": "A2", "cost_label": 50, "style": "疑问，带有点疑惑的情绪"}
+{"query": "逆回购真的能赚钱吗？", "category": "A2", "cost_label": 50, "style": "疑问，带有轻微的怀疑情绪"}
+{"query": "我今天买的科创板股票，明天就能卖吗？", "category": "A2", "cost_label": 50, "style": "疑问，略带焦急的情绪"}
+{"query": "哎呀，忘了问了，逆回购到期是自动到账吗？", "category": "A2", "cost_label": 50, "style": "疑问，带有惊讶和遗忘后的懊恼情绪"}
+{"query": "科创板交易时间有啥特别的嘛？", "category": "A2", "cost_label": 50, "style": "疑问，口语化，略带好奇"}
+{"query": "告诉我下，股票卖出时的印花税是怎么扣的？", "category": "A2", "cost_label": 50, "style": "陈述，请求告知，平和的语气"}
+{"query": "急急急！买入股票后多久可以卖？", "category": "A2", "cost_label": 50, "style": "疑问，非常焦急的情绪"}
+{"query": "为啥我每次做逆回购都亏钱呢？", "category": "A2", "cost_label": 50, "style": "疑问，带有沮丧和困惑的情绪"}
+{"query": "新股申购规则有变化没？", "category": "A2", "cost_label": 50, "style": "疑问，简短，带有轻度的焦虑"}
+{"query": "逆回购操作是不是很复杂啊，求解答！", "category": "A2", "cost_label": 50, "style": "疑问，带有求助的情绪，略显紧张"}
+{"query": "我买的科创板股票跌成狗了，还能再涨回来吗？", "category": "A2", "cost_label": 50, "style": "疑问，带有强烈的焦虑和绝望情绪"}
+{"query": "逆回购啥意思？", "category": "A2", "cost_label": 50, "style": "疑问，口语化"}
+{"query": "为啥我买的股票没涨啊，是不是有啥规则我没注意？", "category": "A2", "cost_label": 50, "style": "疑问，焦虑情绪"}
+{"query": "科创板的交易时间跟主板一样吗？", "category": "A2", "cost_label": 50, "style": "疑问，平静情绪"}
+{"query": "我这单逆回购能赚多少？", "category": "A2", "cost_label": 50, "style": "疑问，期待情绪"}
+{"query": "买股票要不要交印花税？", "category": "A2", "cost_label": 50, "style": "疑问，平静情绪"}
+{"query": "急死人了，今天能不能开通科创板？", "category": "A2", "cost_label": 50, "style": "疑问，焦急情绪"}
+{"query": "哎呀，这融资融券利率怎么又变了？", "category": "A2", "cost_label": 50, "style": "疑问，惊讶情绪"}
+{"query": "新股申购规则改了没？", "category": "A2", "cost_label": 50, "style": "疑问，平静情绪"}
+{"query": "逆回购到期日是咋算的？", "category": "A2", "cost_label": 50, "style": "疑问，平静情绪"}
+{"query": "这印花税到底是怎么扣的，烦死了！", "category": "A2", "cost_label": 50, "style": "疑问，烦躁情绪"}
+{"query": "科创板的交易规则咋样？", "category": "A2", "cost_label": 50, "style": "疑问, 口语化"}
+{"query": "我买的股票今天为啥要交印花税？", "category": "A2", "cost_label": 50, "style": "疑问, 焦虑"}
+{"query": "逆回购到底能赚多少钱？", "category": "A2", "cost_label": 50, "style": "疑问, 平静"}
+{"query": "融资融券的利率是不是很高啊？", "category": "A2", "cost_label": 50, "style": "疑问, 疑惑"}
+{"query": "新股申购时需要注意啥？", "category": "A2", "cost_label": 50, "style": "疑问, 平静"}
+{"query": "科创板的交易时间有啥特别的吗？", "category": "A2", "cost_label": 50, "style": "疑问, 详细"}
+{"query": "听说逆回购可以套利，是真的吗？", "category": "A2", "cost_label": 50, "style": "疑问, 兴趣"}
+{"query": "印花税是不是每次买卖都要交？", "category": "A2", "cost_label": 50, "style": "疑问, 焦虑"}
+{"query": "融券的利息是怎么计算的？", "category": "A2", "cost_label": 50, "style": "疑问, 求知"}
+{"query": "科创板的涨跌幅限制是多少？", "category": "A2", "cost_label": 50, "style": "疑问, 详细"}
+{"query": "科创板的交易时间是啥时候？", "category": "A2", "cost_label": 50, "style": "疑问，口语化"}
+{"query": "逆回购真的能赚到钱吗？", "category": "A2", "cost_label": 50, "style": "疑问，带有不确定的情绪"}
+{"query": "为什么我买股票还要交印花税啊？", "category": "A2", "cost_label": 50, "style": "疑问，带有轻微不满情绪"}
+{"query": "科创板的交易规则跟主板一样吗？", "category": "A2", "cost_label": 50, "style": "疑问，中立"}
+{"query": "逆回购怎么操作呀，求大神指导！", "category": "A2", "cost_label": 50, "style": "疑问，求助，带有一些急切感"}
+{"query": "今天买的股票明天卖是不是就不用交印花税了？", "category": "A2", "cost_label": 50, "style": "疑问，尝试确认事实"}
+{"query": "听说科创板涨跌幅限制更大，是真的吗？", "category": "A2", "cost_label": 50, "style": "疑问，好奇"}
+{"query": "逆回购到期后资金自动回到账户吗？", "category": "A2", "cost_label": 50, "style": "疑问，平静"}
+{"query": "新股申购规则改了没？", "category": "A2", "cost_label": 50, "style": "疑问，简短"}
+{"query": "科创板的投资者适当性管理是怎么回事？", "category": "A2", "cost_label": 50, "style": "疑问，寻求专业解答"}
+{"query": "逆回购利息咋算的？", "category": "A2", "cost_label": 50, "style": "疑问，口语化"}
+{"query": "科创板真的那么难搞吗？", "category": "A2", "cost_label": 50, "style": "疑问，带有焦虑情绪"}
+{"query": "为啥我买的股票没扣印花税呢？", "category": "A2", "cost_label": 50, "style": "疑问，带有轻微惊讶情绪"}
+{"query": "逆回购操作步骤给我讲一遍呗。", "category": "A2", "cost_label": 50, "style": "命令，友好请求"}
+{"query": "新股申购得遵守啥规则啊？", "category": "A2", "cost_label": 50, "style": "疑问，平静"}
+{"query": "融资融券利率涨了？", "category": "A2", "cost_label": 50, "style": "疑问，带有焦虑情绪"}
+{"query": "开通科创板需要啥手续，麻烦死了！", "category": "A2", "cost_label": 50, "style": "陈述，带有愤怒情绪"}
+{"query": "这印花税到底怎么交？", "category": "A2", "cost_label": 50, "style": "疑问，平静"}
+{"query": "逆回购能赚多少？", "category": "A2", "cost_label": 50, "style": "疑问，简洁"}
+{"query": "我感觉我科创板的规则都没搞清楚，怎么办？", "category": "A2", "cost_label": 50, "style": "陈述，带有焦虑情绪"}
+{"query": "哎呀，科创板交易有什么要注意的？", "category": "A2", "cost_label": 50, "style": "疑问+焦虑"}
+{"query": "逆回购到底能赚多少？", "category": "A2", "cost_label": 50, "style": "疑问+好奇"}
+{"query": "股票卖出后印花税咋扣啊？", "category": "A2", "cost_label": 50, "style": "疑问+口语化"}
+{"query": "听说逆回购挺稳的，是真的吗？", "category": "A2", "cost_label": 50, "style": "疑问+平静"}
+{"query": "我开通科创板了，但是啥规则都忘了，谁能帮我补习一下？", "category": "A2", "cost_label": 50, "style": "疑问+求助"}
+{"query": "为啥我买股票还要交印花税，这合理吗？", "category": "A2", "cost_label": 50, "style": "疑问+愤怒"}
+{"query": "逆回购和普通存款相比，哪个更划算？", "category": "A2", "cost_label": 50, "style": "疑问+比较"}
+{"query": "新股上市首日交易有限制吗？", "category": "A2", "cost_label": 50, "style": "疑问+简洁"}
+{"query": "科创板交易是不是门槛高多了？", "category": "A2", "cost_label": 50, "style": "疑问+惊讶"}
+{"query": "融券卖出时，印花税是怎么算的？", "category": "A2", "cost_label": 50, "style": "疑问+技术性"}
+{"query": "科创板的交易时间是啥时候啊？", "category": "A2", "cost_label": 50, "style": "疑问，平和询问"}
+{"query": "逆回购利息咋算的，看不懂啊！", "category": "A2", "cost_label": 50, "style": "疑问，带有轻微焦虑情绪"}
+{"query": "为什么我买股票还要交印花税？", "category": "A2", "cost_label": 50, "style": "疑问，带有一点不满情绪"}
+{"query": "急死人了，这逆回购啥时候能到期啊？", "category": "A2", "cost_label": 50, "style": "疑问，带有焦虑情绪"}
+{"query": "新股申购是不是只能用现金？", "category": "A2", "cost_label": 50, "style": "疑问，简洁明了"}
+{"query": "科创板交易规则真的好复杂...", "category": "A2", "cost_label": 50, "style": "陈述，带有困惑情绪"}
+{"query": "为啥我每次卖股票都要交那么多印花税？", "category": "A2", "cost_label": 50, "style": "疑问，带有抱怨情绪"}
+{"query": "告诉我下，逆回购的具体步骤吧！", "category": "A2", "cost_label": 50, "style": "命令，期待得到明确答案"}
+{"query": "科创板交易手续费是多少？", "category": "A2", "cost_label": 50, "style": "疑问，简洁直接"}
+{"query": "哎，融资融券的利率能不能再低点啊...", "category": "A2", "cost_label": 50, "style": "陈述，带有绝望情绪"}
+{"query": "逆回购一天能赚多少？", "category": "A2", "cost_label": 50, "style": "疑问，好奇"}
+{"query": "我这个科创板股票卖了要交多少印花税啊？", "category": "A2", "cost_label": 50, "style": "疑问，焦虑"}
+{"query": "为啥我逆回购总是亏本？", "category": "A2", "cost_label": 50, "style": "疑问，失望"}
+{"query": "告诉我下新股申购的规则吧。", "category": "A2", "cost_label": 50, "style": "陈述，平静"}
+{"query": "哎呀，这融资融券利息太高了吧！", "category": "A2", "cost_label": 50, "style": "感叹，愤怒"}
+{"query": "赶紧给我解释下科创板的交易规则。", "category": "A2", "cost_label": 50, "style": "命令，急切"}
+{"query": "听说逆回购风险很小，是真的吗？", "category": "A2", "cost_label": 50, "style": "疑问，谨慎"}
+{"query": "融券卖出是不是可以赚钱？", "category": "A2", "cost_label": 50, "style": "疑问，期待"}
+{"query": "为什么我买的股票不能当天卖出？", "category": "A2", "cost_label": 50, "style": "疑问，困惑"}
+{"query": "科创板交易时间有啥特别的嘛？", "category": "A2", "cost_label": 50, "style": "疑问，好奇"}
+{"query": "逆回购到期后资金怎么处理？", "category": "A2", "cost_label": 50, "style": "疑问，平静"}
+{"query": "科创板的交易规则和主板有啥区别？", "category": "A2", "cost_label": 50, "style": "疑问，好奇"}
+{"query": "我买股票咋没扣印花税？", "category": "A2", "cost_label": 50, "style": "疑问，疑惑"}
+{"query": "赶紧说说逆回购咋玩的？", "category": "A2", "cost_label": 50, "style": "命令，急切"}
+{"query": "新股申购是不是有啥特别规定啊？", "category": "A2", "cost_label": 50, "style": "疑问，谨慎"}
+{"query": "融资融券的利率涨了？", "category": "A2", "cost_label": 50, "style": "陈述，惊讶"}
+{"query": "这印花税是不是太贵了？", "category": "A2", "cost_label": 50, "style": "陈述，抱怨"}
+{"query": "科创板交易门槛好高啊！", "category": "A2", "cost_label": 50, "style": "感叹，焦虑"}
+{"query": "逆回购到期自动续吗？", "category": "A2", "cost_label": 50, "style": "疑问，平静"}
+{"query": "为啥我的股票交易没印花税？", "category": "A2", "cost_label": 50, "style": "疑问，困惑"}
+{"query": "科创板的交易时间是啥时候啊？", "category": "A2", "cost_label": 50, "style": "疑问+口语化"}
+{"query": "逆回购是不是真的能稳赚啊？", "category": "A2", "cost_label": 50, "style": "疑问+好奇"}
+{"query": "听说印花税改了，是真的吗？", "category": "A2", "cost_label": 50, "style": "疑问+关注时事"}
+{"query": "我买的股票咋感觉没啥反应啊？", "category": "A2", "cost_label": 50, "style": "陈述+疑惑"}
+{"query": "急！科创板的退市规则是啥？", "category": "A2", "cost_label": 50, "style": "陈述+焦虑"}
+{"query": "逆回购的风险到底有多大？", "category": "A2", "cost_label": 50, "style": "疑问+谨慎"}
+{"query": "新股申购后多久才能卖出啊？", "category": "A2", "cost_label": 50, "style": "疑问+期待"}
+{"query": "为什么我的逆回购利息这么少？", "category": "A2", "cost_label": 50, "style": "陈述+不满"}
+{"query": "融资融券利率能不能再优惠点？", "category": "A2", "cost_label": 50, "style": "陈述+请求"}
+{"query": "印花税为啥又要涨了？", "category": "A2", "cost_label": 50, "style": "疑问+困惑"}
+{"query": "科创板的交易时间是啥时候？", "category": "A2", "cost_label": 50, "style": "疑问，口语化"}
+{"query": "逆回购真的能赚钱吗？", "category": "A2", "cost_label": 50, "style": "疑问，带有些许不确定情绪"}
+{"query": "我买股票为啥要交印花税？", "category": "A2", "cost_label": 50, "style": "疑问，略带不满情绪"}
+{"query": "听说逆回购很稳，是真的吗？", "category": "A2", "cost_label": 50, "style": "疑问，好奇"}
+{"query": "逆回购操作太复杂了，谁能教教我！", "category": "A2", "cost_label": 50, "style": "疑问+命令，带有求助情绪"}
+{"query": "融券卖出规则到底有啥限制？", "category": "A2", "cost_label": 50, "style": "疑问，略带焦虑情绪"}
+{"query": "新股申购需要啥条件？", "category": "A2", "cost_label": 50, "style": "疑问，简洁"}
+{"query": "为什么我的账户不能做逆回购？", "category": "A2", "cost_label": 50, "style": "疑问，平静"}
+{"query": "科创板交易费用是不是很高啊？", "category": "A2", "cost_label": 50, "style": "疑问，略带担忧情绪"}
+{"query": "听说逆回购可以天天操作，是这样子的嘛？", "category": "A2", "cost_label": 50, "style": "疑问，带有好奇和求证的情绪"}
+{"query": "逆回购到底咋操作啊？", "category": "A2", "cost_label": 50, "style": "疑问，带有轻微的焦虑情绪，口语化"}
+{"query": "科创板的交易时间是啥时候？", "category": "A2", "cost_label": 50, "style": "疑问，口语化，简短直接"}
+{"query": "股票卖出的时候为啥还要交印花税呢？", "category": "A2", "cost_label": 50, "style": "疑问，带着一点困惑，较长句子"}
+{"query": "我这新股申购怎么老是不中签，是不是规则改了？", "category": "A2", "cost_label": 50, "style": "疑问，带有一定的抱怨情绪，较复杂的问题"}
+{"query": "融资融券的利息怎么算？", "category": "A2", "cost_label": 50, "style": "疑问，直接陈述，中等长度"}
+{"query": "唉，又搞不懂这个逆回购了，谁能给我讲讲？", "category": "A2", "cost_label": 50, "style": "疑问，带有沮丧的情绪，较长句子"}
+{"query": "科创板的交易门槛是多少？", "category": "A2", "cost_label": 50, "style": "疑问，简洁明了"}
+{"query": "怎么没听说过有这种印花税的规则啊！", "category": "A2", "cost_label": 50, "style": "疑问转陈述，带有惊讶和不解的情绪"}
+{"query": "赶紧给我解释下融资融券的具体步骤吧", "category": "A2", "cost_label": 50, "style": "命令语气，紧迫感较强，较长句子"}
+{"query": "为什么我昨天买的股票今天就不能卖了？", "category": "A2", "cost_label": 50, "style": "疑问，带有一点急切的情绪"}
+{"query": "科创板股票交易有啥限制？", "category": "A2", "cost_label": 50, "style": "疑问, 平静"}
+{"query": "逆回购到底能赚多少？", "category": "A2", "cost_label": 50, "style": "疑问, 焦虑"}
+{"query": "听说印花税改了，是真的吗？", "category": "A2", "cost_label": 50, "style": "疑问, 疑惑"}
+{"query": "融资融券的交易规则是咋样的？", "category": "A2", "cost_label": 50, "style": "疑问, 平和"}
+{"query": "新股申购规则变了吗？", "category": "A2", "cost_label": 50, "style": "疑问, 平静"}
+{"query": "科创板交易手续费咋样啊？", "category": "A2", "cost_label": 50, "style": "疑问, 平和"}
+{"query": "逆回购真的可以天天做吗？", "category": "A2", "cost_label": 50, "style": "疑问, 焦虑"}
+{"query": "想买科创板股票，需要啥条件？", "category": "A2", "cost_label": 50, "style": "陈述, 兴奋"}
+{"query": "这印花税太坑了吧，能不能不交？", "category": "A2", "cost_label": 50, "style": "感叹, 愤怒"}
+{"query": "告诉我科创板的具体交易规则！", "category": "A2", "cost_label": 50, "style": "命令, 急迫"}

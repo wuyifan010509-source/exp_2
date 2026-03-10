@@ -1,0 +1,32 @@
+{
+  "gpt-3.5-turbo": {
+    "model": "gpt-3.5-turbo",
+    "size": "175B",
+    "description": "OpenAI GPT-3.5 Turbo"
+  },
+  "gpt-4": {
+    "model": "gpt-4",
+    "size": "1T",
+    "description": "OpenAI GPT-4"
+  },
+  "llama-3.1-8b-instruct": {
+    "model": "meta/llama-3.1-8b-instruct",
+    "size": "8B",
+    "description": "Meta Llama 3.1 8B Instruct"
+  },
+  "llama-3.1-70b-instruct": {
+    "model": "meta/llama-3.1-70b-instruct",
+    "size": "70B",
+    "description": "Meta Llama 3.1 70B Instruct"
+  },
+  "qwen2.5-7b-instruct": {
+    "model": "qwen/qwen2.5-7b-instruct",
+    "size": "7B",
+    "description": "Qwen 2.5 7B Instruct"
+  },
+  "qwen2.5-72b-instruct": {
+    "model": "qwen/qwen2.5-72b-instruct",
+    "size": "72B",
+    "description": "Qwen 2.5 72B Instruct"
+  }
+}

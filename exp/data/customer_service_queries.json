@@ -1,0 +1,602 @@
+[
+  {
+    "category": "A1",
+    "subcategory": "低风险",
+    "query": "我的账户里还有多少钱？",
+    "description": "口语化账户余额查询"
+  },
+  {
+    "category": "A1",
+    "subcategory": "低风险",
+    "query": "请帮我查一下当前持仓情况。",
+    "description": "正式持仓查询"
+  },
+  {
+    "category": "A1",
+    "subcategory": "低风险",
+    "query": "茅台今天股价多少？",
+    "description": "个股行情查询"
+  },
+  {
+    "category": "A1",
+    "subcategory": "低风险",
+    "query": "最近30天交易记录能看一下吗？",
+    "description": "历史交易查询"
+  },
+  {
+    "category": "A1",
+    "subcategory": "低风险",
+    "query": "沪深300现在点位？",
+    "description": "指数行情查询"
+  },
+  {
+    "category": "A1",
+    "subcategory": "低风险",
+    "query": "我的基金收益如何？",
+    "description": "投资收益查询"
+  },
+  {
+    "category": "A1",
+    "subcategory": "低风险",
+    "query": "账户状态正常吗？有没有被限制？",
+    "description": "账户状态查询"
+  },
+  {
+    "category": "A1",
+    "subcategory": "低风险",
+    "query": "比亚迪今天涨了多少？",
+    "description": "涨跌幅查询"
+  },
+  {
+    "category": "A1",
+    "subcategory": "低风险",
+    "query": "昨天资金流水明细发我看看。",
+    "description": "资金流水查询"
+  },
+  {
+    "category": "A1",
+    "subcategory": "低风险",
+    "query": "今天大盘走势怎么样？",
+    "description": "市场整体行情查询"
+  },
+  {
+    "category": "A2",
+    "subcategory": "中风险",
+    "query": "基金赎回几天到账？",
+    "description": "基金赎回资金到账时间规则"
+  },
+  {
+    "category": "A2",
+    "subcategory": "中风险",
+    "query": "怎么开通科创板？",
+    "description": "科创板权限开通条件和流程"
+  },
+  {
+    "category": "A2",
+    "subcategory": "中风险",
+    "query": "今天买的股票什么时候能卖啊？",
+    "description": "A股T+1交易制度"
+  },
+  {
+    "category": "A2",
+    "subcategory": "中风险",
+    "query": "想把账户里的钱转出来，多久能到银行卡？",
+    "description": "银证转账时间和规则"
+  },
+  {
+    "category": "A2",
+    "subcategory": "中风险",
+    "query": "请问我这个风险测评过期了怎么重新做？",
+    "description": "风险测评更新流程"
+  },
+  {
+    "category": "A2",
+    "subcategory": "中风险",
+    "query": "基金转换要收手续费吗？怎么算的",
+    "description": "基金转换费用计算规则"
+  },
+  {
+    "category": "A2",
+    "subcategory": "中风险",
+    "query": "销户需要什么材料，多久能办完？",
+    "description": "证券账户销户流程"
+  },
+  {
+    "category": "A2",
+    "subcategory": "中风险",
+    "query": "分红方式能改成红利再投资吗？在哪里设置",
+    "description": "基金分红方式修改"
+  },
+  {
+    "category": "A2",
+    "subcategory": "中风险",
+    "query": "港股通怎么开通，需要多少资金门槛？",
+    "description": "港股通开通条件和流程"
+  },
+  {
+    "category": "A2",
+    "subcategory": "中风险",
+    "query": "我交易密码忘了，怎么重置？",
+    "description": "交易密码重置流程"
+  },
+  {
+    "category": "A3",
+    "subcategory": "高风险",
+    "query": "我的融资融券担保比例到130%了，会强制平仓吗？",
+    "description": "融资融券触及平仓线，涉及强平风险"
+  },
+  {
+    "category": "A3",
+    "subcategory": "高风险",
+    "query": "期权行权日忘记行权了怎么办？",
+    "description": "期权到期未行权，可能导致权利金损失"
+  },
+  {
+    "category": "A3",
+    "subcategory": "高风险",
+    "query": "期货账户保证金不足了，现在补钱还来得及吗？",
+    "description": "期货保证金追缴，面临爆仓风险"
+  },
+  {
+    "category": "A3",
+    "subcategory": "高风险",
+    "query": "刚收到短信说我的两融账户要平仓，怎么处理？",
+    "description": "收到强平通知，需要紧急处理"
+  },
+  {
+    "category": "A3",
+    "subcategory": "高风险",
+    "query": "明天就是股指期货交割日，我忘了移仓，会被强平吗？",
+    "description": "期货交割日未平仓，涉及强制交割风险"
+  },
+  {
+    "category": "A3",
+    "subcategory": "高风险",
+    "query": "我重仓的股票停牌了，融资到期还不上，怎么办啊？",
+    "description": "融资到期但股票停牌无法卖出还款"
+  },
+  {
+    "category": "A3",
+    "subcategory": "高风险",
+    "query": "账户被限制了，说是维持担保比例过低，要转多少钱进去？",
+    "description": "账户受限需补充保证金解除限制"
+  },
+  {
+    "category": "A3",
+    "subcategory": "高风险",
+    "query": "爆仓了！账户里还有钱吗？还能拿回多少？",
+    "description": "已经发生爆仓，询问损失情况和剩余资金"
+  },
+  {
+    "category": "A3",
+    "subcategory": "高风险",
+    "query": "港股通买的股票被调出名单了，必须马上卖吗？",
+    "description": "港股通标的调整，涉及持仓处置决策"
+  },
+  {
+    "category": "A3",
+    "subcategory": "高风险",
+    "query": "刚发现我的ETF期权虚值变实值了，今天必须行权吗？",
+    "description": "期权状态变化，需要决策是否行权"
+  },
+  {
+    "category": "B1",
+    "subcategory": "极低风险",
+    "query": "你好呀，今天心情怎么样？",
+    "description": "礼貌问候与闲聊"
+  },
+  {
+    "category": "B1",
+    "subcategory": "极低风险",
+    "query": "外面天气热不热？",
+    "description": "天气闲聊"
+  },
+  {
+    "category": "B1",
+    "subcategory": "极低风险",
+    "query": "讲个笑话放松一下",
+    "description": "娱乐请求"
+  },
+  {
+    "category": "B1",
+    "subcategory": "极低风险",
+    "query": "你是真人还是机器人啊？",
+    "description": "询问对方身份"
+  },
+  {
+    "category": "B1",
+    "subcategory": "极低风险",
+    "query": "辛苦了，谢谢你！",
+    "description": "表达感谢"
+  },
+  {
+    "category": "B1",
+    "subcategory": "极低风险",
+    "query": "现在几点了？",
+    "description": "询问时间"
+  },
+  {
+    "category": "B1",
+    "subcategory": "极低风险",
+    "query": "你们工作到几点下班呀？",
+    "description": "询问工作时间"
+  },
+  {
+    "category": "B1",
+    "subcategory": "极低风险",
+    "query": "随便聊两句呗",
+    "description": "无目的闲聊"
+  },
+  {
+    "category": "B1",
+    "subcategory": "极低风险",
+    "query": "周末有什么好玩的推荐吗？",
+    "description": "生活休闲话题"
+  },
+  {
+    "category": "B1",
+    "subcategory": "极低风险",
+    "query": "拜拜，祝你今天愉快！",
+    "description": "友好告别"
+  },
+  {
+    "category": "B2",
+    "subcategory": "跨业务咨询",
+    "query": "医保怎么报销？",
+    "description": "用户咨询医保报销流程"
+  },
+  {
+    "category": "B2",
+    "subcategory": "跨业务咨询",
+    "query": "怎么查社保余额？",
+    "description": "用户询问社保余额查询方式"
+  },
+  {
+    "category": "B2",
+    "subcategory": "跨业务咨询",
+    "query": "公积金能取出来吗",
+    "description": "用户咨询公积金提取条件"
+  },
+  {
+    "category": "B2",
+    "subcategory": "跨业务咨询",
+    "query": "我想问问养老保险要交多少年才能领钱",
+    "description": "用户询问养老保险缴费年限"
+  },
+  {
+    "category": "B2",
+    "subcategory": "跨业务咨询",
+    "query": "银行转账限额是多少",
+    "description": "用户咨询银行转账额度限制"
+  },
+  {
+    "category": "B2",
+    "subcategory": "跨业务咨询",
+    "query": "个人所得税怎么退？",
+    "description": "用户咨询个税退税流程"
+  },
+  {
+    "category": "B2",
+    "subcategory": "跨业务咨询",
+    "query": "我社保断缴了还能补缴吗",
+    "description": "用户咨询社保断缴补缴政策"
+  },
+  {
+    "category": "B2",
+    "subcategory": "跨业务咨询",
+    "query": "医保卡丢了去哪里补办",
+    "description": "用户咨询医保卡补办地点"
+  },
+  {
+    "category": "B2",
+    "subcategory": "跨业务咨询",
+    "query": "请问失业保险金一个月能领多少钱",
+    "description": "用户咨询失业保险金标准"
+  },
+  {
+    "category": "B2",
+    "subcategory": "跨业务咨询",
+    "query": "房贷提前还款需要交违约金吗",
+    "description": "用户咨询房贷提前还款政策"
+  },
+  {
+    "category": "C1",
+    "subcategory": "极端情绪",
+    "query": "亏光了，不想活了",
+    "description": "直接表达轻生念头"
+  },
+  {
+    "category": "C1",
+    "subcategory": "极端情绪",
+    "query": "我要跳楼，你们等着",
+    "description": "威胁性语言，暗示自残并追责"
+  },
+  {
+    "category": "C1",
+    "subcategory": "极端情绪",
+    "query": "全部身家都赔进去了，活着还有什么意思",
+    "description": "表达绝望情绪"
+  },
+  {
+    "category": "C1",
+    "subcategory": "极端情绪",
+    "query": "你们这破平台害死我了，我做鬼也不会放过你们",
+    "description": "激烈投诉加死亡威胁"
+  },
+  {
+    "category": "C1",
+    "subcategory": "极端情绪",
+    "query": "股票跌停了，我欠了一屁股债，已经买好农药了",
+    "description": "具体自杀方式暗示"
+  },
+  {
+    "category": "C1",
+    "subcategory": "极端情绪",
+    "query": "这辈子完了，明天你们就能看到我的新闻",
+    "description": "暗示即将发生极端事件"
+  },
+  {
+    "category": "C1",
+    "subcategory": "极端情绪",
+    "query": "我要投诉到银保监会，如果解决不了我就死给你们看",
+    "description": "以死相逼的投诉威胁"
+  },
+  {
+    "category": "C1",
+    "subcategory": "极端情绪",
+    "query": "儿子学费都亏没了，没脸见家人，不想活了",
+    "description": "家庭压力导致的轻生念头"
+  },
+  {
+    "category": "C1",
+    "subcategory": "极端情绪",
+    "query": "你们这骗子平台，老子今天就跟你们同归于尽",
+    "description": "暴力威胁和自杀式报复"
+  },
+  {
+    "category": "C1",
+    "subcategory": "极端情绪",
+    "query": "房子抵押了全亏了，明天就不用找我了",
+    "description": "重大财产损失后的告别暗示"
+  },
+  {
+    "category": "C2",
+    "subcategory": "严重投诉",
+    "query": "你们是骗子，我要去证监会告你们！我在这平台上亏了十几万，你们说好的保本理财现在本金都拿不回来！",
+    "description": "用户威胁向监管机构举报，涉及资金损失指控"
+  },
+  {
+    "category": "C2",
+    "subcategory": "严重投诉",
+    "query": "这什么破APP！我朋友全都在用，我今天就要发抖音曝光你们欺诈行为，你们等着倒闭吧！",
+    "description": "用户威胁社交媒体曝光，可能引发舆情危机"
+  },
+  {
+    "category": "C2",
+    "subcategory": "严重投诉",
+    "query": "你们客服就是推卸责任！我已经咨询了律师，准备起诉你们公司，等着收法院传票吧！",
+    "description": "用户威胁法律诉讼，态度强硬"
+  },
+  {
+    "category": "C2",
+    "subcategory": "严重投诉",
+    "query": "老子股票被你们平台错误平仓，损失五六十万！你们不给个说法，我今天就杀到你们公司总部去！",
+    "description": "用户声称重大损失，威胁线下维权"
+  },
+  {
+    "category": "C2",
+    "subcategory": "严重投诉",
+    "query": "我打了12345热线了，市监局会来找你们！诱导我买高风险产品，你们这是诈骗知道不？",
+    "description": "用户已向政府部门投诉，指控金融诈骗"
+  },
+  {
+    "category": "C2",
+    "subcategory": "严重投诉",
+    "query": "黑平台！资金提现三天了不到账，是不是卷款跑路了？我已经报案了，警察说会立案调查！",
+    "description": "用户指控平台违法，声称已报案"
+  },
+  {
+    "category": "C2",
+    "subcategory": "严重投诉",
+    "query": "你们这垃圾服务必须给我全额退款！否则我天天在你们营业部闹，看谁还敢来开户！",
+    "description": "用户威胁线下持续维权，干扰正常经营"
+  },
+  {
+    "category": "C2",
+    "subcategory": "严重投诉",
+    "query": "我是你们的老客户了，这次被骗投了这么个垃圾基金！不给我个交代，我直接找电视台记者来采访！",
+    "description": "老客户威胁媒体曝光，可能损害品牌形象"
+  },
+  {
+    "category": "C2",
+    "subcategory": "严重投诉",
+    "query": "我的个人信息被你们泄露了！收到一堆诈骗电话，你们要负责！等着银保监会处罚吧！",
+    "description": "用户指控信息安全违规，威胁向监管部门举报"
+  },
+  {
+    "category": "C2",
+    "subcategory": "严重投诉",
+    "query": "你们客户经理亲口承诺收益8%，现在全亏光了！这不是虚假宣传是什么？我已经举报到金融办去了！",
+    "description": "用户指控违规承诺收益，已向地方金融监管部门投诉"
+  },
+  {
+    "category": "D1",
+    "subcategory": "退款/销户",
+    "query": "我要退款，怎么销户？",
+    "description": "直接要求退款和销户"
+  },
+  {
+    "category": "D1",
+    "subcategory": "退款/销户",
+    "query": "把钱还我，不玩了",
+    "description": "口语化表达退出意愿"
+  },
+  {
+    "category": "D1",
+    "subcategory": "退款/销户",
+    "query": "这个平台太坑了，我要把钱全部提出来，然后注销账号",
+    "description": "因不满平台要求提现销户"
+  },
+  {
+    "category": "D1",
+    "subcategory": "退款/销户",
+    "query": "帮我办理销户，所有资金退回原账户",
+    "description": "正式要求销户退款"
+  },
+  {
+    "category": "D1",
+    "subcategory": "退款/销户",
+    "query": "不想用了，怎么退钱？",
+    "description": "简洁表达不再使用意愿"
+  },
+  {
+    "category": "D1",
+    "subcategory": "退款/销户",
+    "query": "最近亏太多，心态崩了，申请全额退款销户",
+    "description": "因亏损情绪崩溃要求退出"
+  },
+  {
+    "category": "D1",
+    "subcategory": "退款/销户",
+    "query": "我要关闭账户，里面的钱什么时候能到账？",
+    "description": "询问销户后资金到账时间"
+  },
+  {
+    "category": "D1",
+    "subcategory": "退款/销户",
+    "query": "申请退会，把本金退给我，以后不投资了",
+    "description": "要求退还本金并退出"
+  },
+  {
+    "category": "D1",
+    "subcategory": "退款/销户",
+    "query": "这个投资体验太差了，我要销户，能退多少退多少",
+    "description": "因体验差要求销户退款"
+  },
+  {
+    "category": "D1",
+    "subcategory": "退款/销户",
+    "query": "客服你好，请帮我处理账户注销和资金清退，谢谢",
+    "description": "礼貌但坚决要求销户退款"
+  },
+  {
+    "category": "D2",
+    "subcategory": "投诉/索赔",
+    "query": "因为你们系统延迟我亏钱了，赔我",
+    "description": "系统延迟导致交易亏损，直接要求赔偿"
+  },
+  {
+    "category": "D2",
+    "subcategory": "投诉/索赔",
+    "query": "你们平台的交易故障害我损失了5万块，必须赔偿",
+    "description": "交易故障造成大额损失，要求赔偿"
+  },
+  {
+    "category": "D2",
+    "subcategory": "投诉/索赔",
+    "query": "客服误导我买了高风险产品，现在亏损严重，我要起诉你们",
+    "description": "误导销售导致投资亏损，威胁法律诉讼"
+  },
+  {
+    "category": "D2",
+    "subcategory": "投诉/索赔",
+    "query": "APP突然闪退，我的交易没成交，损失谁来负责？",
+    "description": "APP技术故障导致交易失败，追责平台"
+  },
+  {
+    "category": "D2",
+    "subcategory": "投诉/索赔",
+    "query": "你们虚假宣传收益率，要求全额退款并赔偿损失",
+    "description": "虚假宣传问题，要求退款赔偿"
+  },
+  {
+    "category": "D2",
+    "subcategory": "投诉/索赔",
+    "query": "交易数据出错，导致我错失卖出时机，这是你们的技术问题，赔钱",
+    "description": "数据错误造成交易机会损失"
+  },
+  {
+    "category": "D2",
+    "subcategory": "投诉/索赔",
+    "query": "我已经截图保留了证据，因为你们系统bug我损失了三万，不解决就投诉到证监会",
+    "description": "系统bug导致亏损，威胁向监管部门投诉"
+  },
+  {
+    "category": "D2",
+    "subcategory": "投诉/索赔",
+    "query": "你们未提前通知就变更规则，造成我的损失，准备律师函了",
+    "description": "规则变更未通知导致损失，准备法律行动"
+  },
+  {
+    "category": "D2",
+    "subcategory": "投诉/索赔",
+    "query": "我要求赔偿！你们的操作失误让我多付了手续费",
+    "description": "操作失误导致额外费用损失"
+  },
+  {
+    "category": "D2",
+    "subcategory": "投诉/索赔",
+    "query": "由于平台维护没通知，我无法平仓，现在账户亏损巨大，走法律程序吧",
+    "description": "维护通知缺失导致无法平仓，要求法律途径解决"
+  },
+  {
+    "category": "D3",
+    "subcategory": "差评威胁",
+    "query": "你们这样处理我要到黑猫投诉上曝光你们！",
+    "description": "威胁投诉到第三方平台"
+  },
+  {
+    "category": "D3",
+    "subcategory": "差评威胁",
+    "query": "再这样下去我只能去12315举报你们了，太不负责任了",
+    "description": "威胁向消费者协会举报"
+  },
+  {
+    "category": "D3",
+    "subcategory": "差评威胁",
+    "query": "我要发微博@财经媒体和证监会，让大家看看你们的服务",
+    "description": "威胁通过社交媒体曝光"
+  },
+  {
+    "category": "D3",
+    "subcategory": "差评威胁",
+    "query": "解决不了是吧？我这就去各大应用商店给你们打1星差评",
+    "description": "威胁给APP差评"
+  },
+  {
+    "category": "D3",
+    "subcategory": "差评威胁",
+    "query": "我是你们VIP客户，处理不好我就转户到别家券商，还要在雪球上发帖",
+    "description": "威胁转户并在投资社区曝光"
+  },
+  {
+    "category": "D3",
+    "subcategory": "差评威胁",
+    "query": "10分钟内不给我回电，我直接找媒体爆料",
+    "description": "限时威胁媒体曝光"
+  },
+  {
+    "category": "D3",
+    "subcategory": "差评威胁",
+    "query": "这个问题拖了这么久，我准备向银保监会和证监局同时投诉",
+    "description": "威胁向监管机构投诉"
+  },
+  {
+    "category": "D3",
+    "subcategory": "差评威胁",
+    "query": "我手里有截图和录音，你们再这样我就发到抖音和B站",
+    "description": "威胁在短视频平台曝光证据"
+  },
+  {
+    "category": "D3",
+    "subcategory": "差评威胁",
+    "query": "客服态度太差了，我要在你们官方账号下面留言让所有人看到",
+    "description": "威胁在官方渠道公开负面评价"
+  },
+  {
+    "category": "D3",
+    "subcategory": "差评威胁",
+    "query": "行，你们不处理是吧，我直接找律师起诉，顺便把聊天记录发到投资群",
+    "description": "威胁法律诉讼并散播负面信息"
+  }
+]

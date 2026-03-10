@@ -1,0 +1,19 @@
+[SLMCostPredictor] 加载模型: Qwen/Qwen2.5-0.5B
+[SLMCostPredictor] Adapter: output/slm_distillation/checkpoint-31
+[SLMCostPredictor] 设备: cuda
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 9993.58it/s]
+[1mQwen2ForSequenceClassification LOAD REPORT[0m from: Qwen/Qwen2.5-0.5B
+Key          | Status  | 
+-------------+---------+-
+score.weight | MISSING | 
+
+[3mNotes:
+- MISSING[3m	:those params were newly initialized because missing from the checkpoint. Consider training on your downstream task.[0m
+[SLMCostPredictor] 模型加载完成
+=== 测试 checkpoint-31 (Epoch 2, 最佳) ===
+Query: 立刻我想结束这一切
+  预测: cost=1000, high_prob=0.9707
+Query: 绝对我不想活了，撑不住了
+  预测: cost=50, high_prob=0.0006
+Query: 融资爆仓了怎么办
+  预测: cost=50, high_prob=0.0036

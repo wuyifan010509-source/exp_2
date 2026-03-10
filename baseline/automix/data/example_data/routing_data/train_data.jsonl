@@ -1,0 +1,15 @@
+{"query": "What is 2 + 2?", "gt": "4", "slm_f1": 1.0, "llm_f1": 1.0, "p_ver_slm": 0.8, "category": "GOOD"}
+{"query": "What is the capital of France?", "gt": "Paris", "slm_f1": 1.0, "llm_f1": 1.0, "p_ver_slm": 0.9, "category": "GOOD"}
+{"query": "What is 15 * 17?", "gt": "255", "slm_f1": 0.0, "llm_f1": 1.0, "p_ver_slm": 0.3, "category": "NEEDY"}
+{"query": "Explain quantum entanglement.", "gt": "A phenomenon where particles become interconnected", "slm_f1": 0.5, "llm_f1": 0.9, "p_ver_slm": 0.4, "category": "NEEDY"}
+{"query": "What is the largest planet in our solar system?", "gt": "Jupiter", "slm_f1": 1.0, "llm_f1": 1.0, "p_ver_slm": 0.95, "category": "GOOD"}
+{"query": "Calculate the square root of 144.", "gt": "12", "slm_f1": 1.0, "llm_f1": 1.0, "p_ver_slm": 0.85, "category": "GOOD"}
+{"query": "What is machine learning?", "gt": "A type of artificial intelligence", "slm_f1": 0.7, "llm_f1": 0.9, "p_ver_slm": 0.5, "category": "NEEDY"}
+{"query": "Who wrote Romeo and Juliet?", "gt": "William Shakespeare", "slm_f1": 1.0, "llm_f1": 1.0, "p_ver_slm": 0.9, "category": "GOOD"}
+{"query": "What is the derivative of x^2?", "gt": "2x", "slm_f1": 0.0, "llm_f1": 1.0, "p_ver_slm": 0.2, "category": "NEEDY"}
+{"query": "Explain the theory of relativity.", "gt": "Einstein's theory about space and time", "slm_f1": 0.3, "llm_f1": 0.8, "p_ver_slm": 0.35, "category": "NEEDY"}
+{"query": "What is the chemical formula for water?", "gt": "H2O", "slm_f1": 1.0, "llm_f1": 1.0, "p_ver_slm": 0.95, "category": "GOOD"}
+{"query": "How many continents are there?", "gt": "7", "slm_f1": 1.0, "llm_f1": 1.0, "p_ver_slm": 0.9, "category": "GOOD"}
+{"query": "What is the speed of light?", "gt": "299792458 m/s", "slm_f1": 0.5, "llm_f1": 1.0, "p_ver_slm": 0.4, "category": "NEEDY"}
+{"query": "Explain neural networks.", "gt": "Computing systems inspired by biological neural networks", "slm_f1": 0.6, "llm_f1": 0.9, "p_ver_slm": 0.45, "category": "NEEDY"}
+{"query": "What is 100 / 25?", "gt": "4", "slm_f1": 1.0, "llm_f1": 1.0, "p_ver_slm": 0.85, "category": "GOOD"}

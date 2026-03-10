@@ -1,0 +1,38 @@
+---
+title: "Intention Experiment 2"
+description: "实验文档首页"
+---
+
+## 概述
+
+本实验项目包含以下几个部分：
+
+### 实验模块
+
+| 模块 | 描述 |
+|------|------|
+| [baseline](baseline.qmd) | 基线实验 |
+| [argument](argument.qmd) | 论证相关实验 |
+
+## 快速开始
+
+```bash
+# 安装依赖
+uv sync
+
+# 预览文档
+cd docs && quarto preview
+
+# 构建文档
+quarto render
+```
+
+## 项目结构
+
+```
+.
+├── docs/           # 文档目录
+├── baseline/       # 基线实验代码
+├── argument/       # 论证实验代码
+└── _quarto.yml     # Quarto 配置
+```

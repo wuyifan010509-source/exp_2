@@ -1,0 +1,20 @@
+# Config parameters for automix training
+
+data_path:
+  routing_data_train: 'data/example_data/routing_data/train_data.jsonl'
+  routing_data_test: 'data/example_data/routing_data/test_data.jsonl'
+  llm_data: 'data/example_data/llm_candidates/llm_config.json'
+
+hparam:
+  routing_method: "POMDP"         # Routing method: "Threshold", "SelfConsistency", or "POMDP"
+  num_bins: 8                     # Number of bins for discretization
+  small_model_cost: 1             # Cost of using small model
+  large_model_cost: 50            # Cost of using large model
+  verifier_cost: 1                # Cost of using verifier
+  device: "cpu"                   # Device for computation
+  verbose: true                   # Whether to print verbose output
+  cost_constraint: null           # Optional (min_cost, max_cost) tuple
+  max_workers: 1                  # Number of parallel workers for API calls
+  slm_column: "slm_f1"           # Column name for small model F1 score
+  llm_column: "llm_f1"           # Column name for large model F1 score
+  verifier_column: "p_ver_slm"   # Column name for verifier score

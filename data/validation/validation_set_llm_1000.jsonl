@@ -1,0 +1,972 @@
+{"query": "差评已经写好了，等着看吧", "category": "D3", "cost_label": 100, "style": "平静的陈述"}
+{"query": "不想让爸妈担心，但真的撑不住了", "category": "C1", "cost_label": 2000, "style": "焦虑陈述"}
+{"query": "听说科创板有T+0交易，是真的吗？", "category": "A2", "cost_label": 50, "style": "疑问，好奇"}
+{"query": "逆回购能天天做吗？", "category": "A2", "cost_label": 50, "style": "疑问，简洁询问"}
+{"query": "股票卖出的时候为啥要交印花税？", "category": "A2", "cost_label": 50, "style": "疑问,困惑"}
+{"query": "听说今天的日落超级美，你看到了没？", "category": "B1", "cost_label": 1, "style": "好奇疑问"}
+{"query": "这股票涨得这么猛，是不是该出手了？", "category": "OOS", "cost_label": 50, "style": "疑问，犹豫"}
+{"query": "APP更新后找不到交易记录了", "category": "A1", "cost_label": 1, "style": "陈述+困惑"}
+{"query": "我真的不知道还能坚持多久。", "category": "C1", "cost_label": 2000, "style": "焦虑陈述"}
+{"query": "这波行情咋看？", "category": "OOS", "cost_label": 50, "style": "疑问，口语化"}
+{"query": "驾照考试预约怎么这么难，有没有什么技巧？", "category": "B2", "cost_label": 1, "style": "疑问，沮丧"}
+{"query": "科创板真的那么难搞吗？", "category": "A2", "cost_label": 50, "style": "疑问，带有焦虑情绪"}
+{"query": "周末去哪儿玩好呢？", "category": "B1", "cost_label": 1, "style": "疑问"}
+{"query": "你们得有个说法，这算怎么回事啊？", "category": "D2", "cost_label": 500, "style": "焦虑疑问"}
+{"query": "股市崩盘了咋办？", "category": "OOS", "cost_label": 50, "style": "疑问，使用网络用语，焦虑"}
+{"query": "我不想再续费了，麻烦帮我办一下退款吧。", "category": "D1", "cost_label": 200, "style": "礼貌的陈述，带有一些犹豫"}
+{"query": "我买的科创板股票跌成狗了，还能再涨回来吗？", "category": "A2", "cost_label": 50, "style": "疑问，带有强烈的焦虑和绝望情绪"}
+{"query": "交易记录在哪啊？", "category": "A1", "cost_label": 1, "style": "疑问，较短句子"}
+{"query": "我想把账户关掉，行不行？", "category": "D1", "cost_label": 200, "style": "平静的疑问句"}
+{"query": "我不玩了，都退了吧。", "category": "D1", "cost_label": 200, "style": "简洁的陈述，带有放弃的情绪"}
+{"query": "科创板的交易费用高不高啊？", "category": "A2", "cost_label": 50, "style": "口语化疑问"}
+{"query": "讲个冷笑话呗", "category": "B1", "cost_label": 1, "style": "命令，幽默"}
+{"query": "哎呀，咋会爆仓了呢？", "category": "A3", "cost_label": 1000, "style": "疑问，带有口语化和惊讶的情绪"}
+{"query": "买股票要不要交印花税？", "category": "A2", "cost_label": 50, "style": "疑问，平静情绪"}
+{"query": "感觉整个人都不好了", "category": "B1", "cost_label": 1, "style": "陈述，消极情绪"}
+{"query": "帮我看下这股票能不能入手？", "category": "OOS", "cost_label": 50, "style": "陈述，犹豫"}
+{"query": "给我讲讲这股票背后的公司情况。", "category": "OOS", "cost_label": 50, "style": "陈述，求助，平静"}
+{"query": "这事儿你们必须负责到底，否则见个律师", "category": "D2", "cost_label": 500, "style": "威胁语气，情绪强烈"}
+{"query": "医保能用来买保健品吗？", "category": "B2", "cost_label": 1, "style": "疑问，平静"}
+{"query": "你们这服务太差了，我要退钱！", "category": "D1", "cost_label": 200, "style": "愤怒的命令"}
+{"query": "逆回购和国债逆回购有啥区别？", "category": "A2", "cost_label": 50, "style": "疑问, 探索"}
+{"query": "帮我看下腾讯的股价会咋走", "category": "OOS", "cost_label": 50, "style": "陈述，寻求帮助"}
+{"query": "推荐几个稳健的股票呗。", "category": "OOS", "cost_label": 50, "style": "陈述，求助，平静"}
+{"query": "有没有稳赚的股票推荐", "category": "OOS", "cost_label": 50, "style": "疑问, 期望"}
+{"query": "帮我看看这个怎么操作嘛", "category": "A1", "cost_label": 1, "style": "请求帮助+平静"}
+{"query": "你们能不能把钱退给我，我不想再用这个服务了。", "category": "D1", "cost_label": 200, "style": "平和的疑问，有轻微失望情绪"}
+{"query": "科创板的交易时间是啥时候啊？", "category": "A2", "cost_label": 50, "style": "疑问，平和"}
+{"query": "爆仓了，我该怎么办啊？", "category": "A3", "cost_label": 1000, "style": "疑问，恐慌"}
+{"query": "社保断缴了会影响退休金吗？", "category": "B2", "cost_label": 1, "style": "疑问，担心"}
+{"query": "银行卡绑定了没显示啊", "category": "A1", "cost_label": 1, "style": "陈述+疑惑"}
+{"query": "我心情糟透了...", "category": "B1", "cost_label": 1, "style": "陈述，情绪低落"}
+{"query": "新股申购规则有变化没？", "category": "A2", "cost_label": 50, "style": "疑问，简短，带有轻度的焦虑"}
+{"query": "这印花税到底是怎么扣的，烦死了！", "category": "A2", "cost_label": 50, "style": "疑问，烦躁情绪"}
+{"query": "听说新股申购有啥规则？", "category": "A2", "cost_label": 50, "style": "疑问, 好奇"}
+{"query": "为啥每次打开APP都要输入好多东西", "category": "A1", "cost_label": 1, "style": "疑问+不解"}
+{"query": "保证金都亏光了，这下完了", "category": "A3", "cost_label": 1000, "style": "陈述，绝望情绪，口语化"}
+{"query": "我手里的这只股还有救吗？", "category": "OOS", "cost_label": 50, "style": "疑问，求助，绝望"}
+{"query": "听说逆回购挺稳的，是真的吗？", "category": "A2", "cost_label": 50, "style": "疑问+平静"}
+{"query": "哎呀，这交易规则太复杂了，谁能给我解释一下啊！", "category": "A2", "cost_label": 50, "style": "焦虑感叹"}
+{"query": "公积金能不能用来买保险啊？", "category": "B2", "cost_label": 1, "style": "疑问，好奇"}
+{"query": "医保卡忘记密码了咋办？", "category": "B2", "cost_label": 1, "style": "疑问, 焦虑, 口语化"}
+{"query": "你见过比我还惨的人吗？", "category": "B1", "cost_label": 1, "style": "疑问，悲观"}
+{"query": "逆回购怎么操作呀，求大神指导！", "category": "A2", "cost_label": 50, "style": "疑问，求助，带有一些急切感"}
+{"query": "烦死了，今天怎么这么累啊。", "category": "B1", "cost_label": 1, "style": "抱怨，疲惫"}
+{"query": "资金安全怎么保障的？", "category": "A3", "cost_label": 1000, "style": "疑问,平静"}
+{"query": "股市最近太不稳定了，有什么好的策略吗？", "category": "OOS", "cost_label": 50, "style": "陈述语气，带有一点担忧"}
+{"query": "社保断缴影响啥？", "category": "B2", "cost_label": 1, "style": "疑问，焦虑"}
+{"query": "我这钱能不能快点退到卡上？", "category": "D1", "cost_label": 200, "style": "急切的疑问，有紧迫感"}
+{"query": "要是再不解决，我就去各种平台都给你差评", "category": "D3", "cost_label": 100, "style": "愤怒的威胁"}
+{"query": "我想看看之前的操作记录，咋找啊", "category": "A1", "cost_label": 1, "style": "平静疑问"}
+{"query": "我真的不行了", "category": "C1", "cost_label": 2000, "style": "绝望陈述"}
+{"query": "天哪，昨晚做梦掉悬崖，吓死我了", "category": "B1", "cost_label": 1, "style": "感叹，惊慌"}
+{"query": "我真的不行了，你们帮我结束吧。", "category": "C1", "cost_label": 2000, "style": "绝望陈述"}
+{"query": "我手里的这几只股票会不会崩盘？", "category": "OOS", "cost_label": 50, "style": "疑问，绝望"}
+{"query": "差评已经写好了，咋办？", "category": "D3", "cost_label": 100, "style": "焦虑的疑问句"}
+{"query": "开户流程好复杂啊...", "category": "A1", "cost_label": 1, "style": "陈述, 失望"}
+{"query": "我要联合其他人一起告你们", "category": "C2", "cost_label": 500, "style": "焦虑的陈述"}
+{"query": "科创板的交易规则和主板有啥区别？", "category": "A2", "cost_label": 50, "style": "疑问，好奇"}
+{"query": "app更新后界面都变啦，咋整", "category": "A1", "cost_label": 1, "style": "惊讶陈述"}
+{"query": "赶紧给我推荐几个潜力股啊！", "category": "OOS", "cost_label": 50, "style": "命令，急切"}
+{"query": "密码输错了三次，现在锁住了，咋办？", "category": "A1", "cost_label": 1, "style": "疑问+焦虑"}
+{"query": "强平价格也太离谱了吧，赶紧给个说法！", "category": "A3", "cost_label": 1000, "style": "感叹，愤怒"}
+{"query": "最近看中了腾讯的股票，你看咋样？", "category": "OOS", "cost_label": 50, "style": "口语化, 请求意见, 平和"}
+{"query": "担保比例怎么突然变成负的了？", "category": "A3", "cost_label": 1000, "style": "疑问,困惑"}
+{"query": "你们到底什么时候能退款啊？", "category": "D1", "cost_label": 200, "style": "焦虑,疑问"}
+{"query": "逆回购的风险在哪里？", "category": "A2", "cost_label": 50, "style": "疑问, 焦虑"}
+{"query": "差评马上来，你们快点给我解决！不然我就不客气了。", "category": "D3", "cost_label": 100, "style": "命令语气，带有警告意味，情绪较激动"}
+{"query": "我这单逆回购能赚多少？", "category": "A2", "cost_label": 50, "style": "疑问，期待情绪"}
+{"query": "我要报警了！", "category": "C2", "cost_label": 500, "style": "紧急的命令"}
+{"query": "卡号输错三次了，现在进不去账户了哎", "category": "A1", "cost_label": 1, "style": "焦虑陈述"}
+{"query": "感觉现在股市一片黑暗，有啥好的策略不？", "category": "OOS", "cost_label": 50, "style": "陈述, 绝望"}
+{"query": "帮我看下腾讯的财报", "category": "OOS", "cost_label": 50, "style": "陈述，平静"}
+{"query": "我受够了，给我退钱。", "category": "D1", "cost_label": 200, "style": "愤怒的陈述句"}
+{"query": "你们这强平标准能不能改一下？", "category": "A3", "cost_label": 1000, "style": "疑问+命令，不满"}
+{"query": "急！科创板的退市规则是啥？", "category": "A2", "cost_label": 50, "style": "陈述+焦虑"}
+{"query": "为啥我交了这么多年社保还没享受到啥好处！", "category": "B2", "cost_label": 1, "style": "疑问，愤怒"}
+{"query": "最近科技股怎么样了？", "category": "OOS", "cost_label": 50, "style": "疑问，好奇"}
+{"query": "我快崩溃了，赶紧给我一个解释", "category": "C2", "cost_label": 500, "style": "绝望的命令"}
+{"query": "逆回购利率现在是多少来着？", "category": "A2", "cost_label": 50, "style": "疑问, 淡定"}
+{"query": "银行卡绑定了吗？怎么查一下？", "category": "A1", "cost_label": 1, "style": "焦虑疑问"}
+{"query": "明天会涨吗？", "category": "OOS", "cost_label": 50, "style": "简短疑问，急切想知道"}
+{"query": "赶紧帮我看看有没有强平的风险吧。", "category": "A3", "cost_label": 1000, "style": "陈述，急切"}
+{"query": "你们这到底是怎么回事啊？", "category": "C2", "cost_label": 500, "style": "疑问，愤怒情绪"}
+{"query": "有没有什么好玩的事情可以分享一下？", "category": "B1", "cost_label": 1, "style": "疑问，期待"}
+{"query": "融资融券的利息怎么算？", "category": "A2", "cost_label": 50, "style": "疑问，直接陈述，中等长度"}
+{"query": "印花税为啥又要涨了？", "category": "A2", "cost_label": 50, "style": "疑问+困惑"}
+{"query": "最近哪些科技股值得入手？", "category": "OOS", "cost_label": 50, "style": "疑问，寻求推荐，平静"}
+{"query": "活着有啥意义？", "category": "C1", "cost_label": 2000, "style": "疑问"}
+{"query": "听说逆回购很稳，是真的吗？", "category": "A2", "cost_label": 50, "style": "疑问，好奇"}
+{"query": "银行卡绑定了吗？没看到选项啊", "category": "A1", "cost_label": 1, "style": "疑问+疑惑"}
+{"query": "我的账户怎么突然爆仓了？", "category": "A3", "cost_label": 1000, "style": "疑问,焦虑"}
+{"query": "赶紧推荐几个最近表现好的股票吧！", "category": "OOS", "cost_label": 50, "style": "命令，急切"}
+{"query": "开户需要啥材料？", "category": "A1", "cost_label": 1, "style": "平静疑问"}
+{"query": "我刚刚开的户，怎么还没收到短信验证码？", "category": "A1", "cost_label": 1, "style": "陈述+疑问+焦虑"}
+{"query": "穿仓了咋办，急死了！", "category": "A3", "cost_label": 1000, "style": "疑问+感叹，极度焦虑"}
+{"query": "开户流程简单说下呗", "category": "A1", "cost_label": 1, "style": "请求说明，使用口语化词汇，平和语气"}
+{"query": "注册时输入的手机号改了咋整", "category": "A1", "cost_label": 1, "style": "疑问+平静"}
+{"query": "这不是闹着玩的，你们得给我解决", "category": "C2", "cost_label": 500, "style": "严肃的陈述，愤怒"}
+{"query": "逆回购真的能赚到钱吗？", "category": "A2", "cost_label": 50, "style": "疑问，带有不确定的情绪"}
+{"query": "能不能赶紧点，我要注销账号！", "category": "D1", "cost_label": 200, "style": "焦急的命令"}
+{"query": "哎，这股票交易规则太复杂了，谁能帮我理理清楚？", "category": "A2", "cost_label": 50, "style": "陈述, 烦恼"}
+{"query": "笑死我了，昨天听到个段子", "category": "B1", "cost_label": 1, "style": "陈述，开心"}
+{"query": "这股票会不会翻倍？", "category": "OOS", "cost_label": 50, "style": "疑问，期待"}
+{"query": "医保报销是不是只能在本地医院？", "category": "B2", "cost_label": 1, "style": "疑问, 疑惑, 口语化"}
+{"query": "最近压力山大，感觉要崩溃了。", "category": "B1", "cost_label": 1, "style": "陈述，焦虑"}
+{"query": "有没有牛股可以分享", "category": "OOS", "cost_label": 50, "style": "疑问, 兴奋"}
+{"query": "app登录页面打不开，急死我了！", "category": "A1", "cost_label": 1, "style": "陈述，带有焦虑情绪"}
+{"query": "账户里的钱都被强平了？", "category": "A3", "cost_label": 1000, "style": "疑问，绝望的情绪"}
+{"query": "最近的黄金期货咋样？", "category": "OOS", "cost_label": 50, "style": "平和询问，好奇近期走势"}
+{"query": "差评发了，准备好了吗？", "category": "D3", "cost_label": 100, "style": "挑衅的疑问句"}
+{"query": "你们要是再不管，我就不客气了。", "category": "C2", "cost_label": 500, "style": "威胁，焦虑情绪"}
+{"query": "急！新股申购的上限是多少？", "category": "A2", "cost_label": 50, "style": "疑问, 紧张"}
+{"query": "穿仓后损失怎么算？", "category": "A3", "cost_label": 1000, "style": "疑问,平静"}
+{"query": "赶紧救救我，账户快不行了！", "category": "A3", "cost_label": 1000, "style": "命令，恐慌情绪"}
+{"query": "真的不想差评，但服务太烂了。", "category": "D3", "cost_label": 100, "style": "焦虑的陈述句"}
+{"query": "赶紧给我推荐几个稳赚的股票啊", "category": "OOS", "cost_label": 50, "style": "命令, 急切"}
+{"query": "我受不了了，赶紧给我退钱。", "category": "D1", "cost_label": 200, "style": "焦急的命令，情绪有些失控"}
+{"query": "密码输错了几次，就锁定了？", "category": "A1", "cost_label": 1, "style": "疑问+平静"}
+{"query": "帮我看看这股票还能不能持有？", "category": "OOS", "cost_label": 50, "style": "疑问、平静"}
+{"query": "融资融券利息这么高，有没有优惠活动？", "category": "A2", "cost_label": 50, "style": "疑问，带有不满情绪"}
+{"query": "逆回购利息咋算的？", "category": "A2", "cost_label": 50, "style": "疑问，口语化"}
+{"query": "科创板的涨跌幅限制是多少？", "category": "A2", "cost_label": 50, "style": "疑问,平静"}
+{"query": "你们这是啥情况，赶紧给我退钱吧，我都快崩溃了。", "category": "D1", "cost_label": 200, "style": "抱怨语气，带有强烈焦虑情绪"}
+{"query": "为啥科创板的涨跌幅限制这么高？", "category": "A2", "cost_label": 50, "style": "疑问, 疑惑"}
+{"query": "穿仓了是不是意味着亏完了？", "category": "A3", "cost_label": 1000, "style": "疑问，焦虑情绪"}
+{"query": "我觉得现在市场有点乱，你看呢？", "category": "OOS", "cost_label": 50, "style": "陈述语气，平静询问"}
+{"query": "赶紧说说逆回购咋玩的？", "category": "A2", "cost_label": 50, "style": "命令，急切"}
+{"query": "这压力太大了，我真的承受不住。", "category": "C1", "cost_label": 2000, "style": "焦虑陈述"}
+{"query": "分析下最近的经济形势呗", "category": "OOS", "cost_label": 50, "style": "陈述, 平静"}
+{"query": "我实在受不了了，退钱！销户！", "category": "D1", "cost_label": 200, "style": "愤怒,命令"}
+{"query": "密码修改后多久生效啊", "category": "A1", "cost_label": 1, "style": "平静疑问"}
+{"query": "想问问科创板的交易时间", "category": "A2", "cost_label": 50, "style": "陈述+平静"}
+{"query": "帮我看看这个股还能不能涨？", "category": "OOS", "cost_label": 50, "style": "疑问, 焦虑"}
+{"query": "快给我几个稳健的投资方案", "category": "OOS", "cost_label": 50, "style": "命令, 紧张, 短句子"}
+{"query": "这新股申购的规则太复杂了，能不能简化点？", "category": "A2", "cost_label": 50, "style": "陈述+疑问+建议"}
+{"query": "你们这是赤裸裸的诈骗吧？", "category": "C2", "cost_label": 500, "style": "愤怒的疑问"}
+{"query": "简直无法接受这种服务，我要曝光你们。", "category": "C2", "cost_label": 500, "style": "陈述，愤怒情绪"}
+{"query": "为啥我绑不了卡啊！", "category": "A1", "cost_label": 1, "style": "疑问，愤怒，口语化"}
+{"query": "科创板的门槛是不是太高了？", "category": "A2", "cost_label": 50, "style": "疑问+抱怨"}
+{"query": "我昨天做了逆回购，今天能赎回不？", "category": "A2", "cost_label": 50, "style": "疑问+焦急"}
+{"query": "逆回购是不是到期自动还本付息？", "category": "A2", "cost_label": 50, "style": "疑问，平和"}
+{"query": "哎呀，我忘记科创板的涨跌幅限制是多少了！", "category": "A2", "cost_label": 50, "style": "感叹，焦虑"}
+{"query": "我已经忍无可忍了，准备曝光你们", "category": "C2", "cost_label": 500, "style": "愤怒的陈述"}
+{"query": "听说印花税改了，是真的吗？", "category": "A2", "cost_label": 50, "style": "疑问+关注时事"}
+{"query": "我已经联系律师了，如果得不到合理解决，我就告你们！", "category": "D2", "cost_label": 500, "style": "威胁，愤怒情绪"}
+{"query": "驾照过期了，要咋办？", "category": "B2", "cost_label": 1, "style": "疑问，平静"}
+{"query": "怎么在app上开个户啊", "category": "A1", "cost_label": 1, "style": "疑问, 平静"}
+{"query": "你们这是违法的吧？", "category": "D2", "cost_label": 500, "style": "疑问语气，平静陈述"}
+{"query": "你们这是想害死我吗？", "category": "C2", "cost_label": 500, "style": "愤怒且带有夸张成分的疑问句"}
+{"query": "我的社保卡丢了怎么办？", "category": "B2", "cost_label": 1, "style": "疑问，焦虑"}
+{"query": "听说逆回购挺划算的，能详细说说吗？", "category": "A2", "cost_label": 50, "style": "疑问,好奇"}
+{"query": "急！社保卡忘记密码了怎么办？", "category": "B2", "cost_label": 1, "style": "疑问，焦急"}
+{"query": "分析下中概股的机会", "category": "OOS", "cost_label": 50, "style": "陈述, 平静"}
+{"query": "快给我推荐几个稳健的股票吧！", "category": "OOS", "cost_label": 50, "style": "命令、急切"}
+{"query": "最近天气咋样？", "category": "B1", "cost_label": 1, "style": "疑问，口语化"}
+{"query": "能帮我分析下这只股票的未来走势吗？", "category": "OOS", "cost_label": 50, "style": "疑问，礼貌询问，平静"}
+{"query": "能不能给我个解释？我账户的钱莫名其妙少了。", "category": "D2", "cost_label": 500, "style": "疑问，焦虑情绪"}
+{"query": "哎呀，这融资融券利息太高了吧！", "category": "A2", "cost_label": 50, "style": "感叹，愤怒"}
+{"query": "我手里的这个票还能不能拿住？", "category": "OOS", "cost_label": 50, "style": "疑问, 紧张"}
+{"query": "我要找律师！", "category": "D2", "cost_label": 500, "style": "愤怒命令"}
+{"query": "赶紧给我说说，这股市啥时候能回暖？", "category": "OOS", "cost_label": 50, "style": "命令，焦虑"}
+{"query": "股票卖出的时候为啥还要交印花税呢？", "category": "A2", "cost_label": 50, "style": "疑问，带着一点困惑，较长句子"}
+{"query": "我买的股票今天为啥要交印花税？", "category": "A2", "cost_label": 50, "style": "疑问, 焦虑"}
+{"query": "你说这天气会不会变？", "category": "B1", "cost_label": 1, "style": "疑问，焦虑"}
+{"query": "股票卖出后多久交印花税?", "category": "A2", "cost_label": 50, "style": "疑问, 平静"}
+{"query": "怎么没听说过有这种印花税的规则啊！", "category": "A2", "cost_label": 50, "style": "疑问转陈述，带有惊讶和不解的情绪"}
+{"query": "赶紧给我解决，不然我全网黑", "category": "D3", "cost_label": 100, "style": "愤怒的命令句"}
+{"query": "急死人了，这逆回购啥时候能到期啊？", "category": "A2", "cost_label": 50, "style": "疑问，带有焦虑情绪"}
+{"query": "给我点投资建议呗", "category": "OOS", "cost_label": 50, "style": "口语化, 请求建议, 平静"}
+{"query": "交易密码和登录密码是一样的吧", "category": "A1", "cost_label": 1, "style": "疑问+好奇"}
+{"query": "为啥我的验证码收不到？", "category": "A1", "cost_label": 1, "style": "疑问+焦急"}
+{"query": "我要报警了，赶紧给我一个说法", "category": "C2", "cost_label": 500, "style": "威胁语气，愤怒"}
+{"query": "这情况太离谱了，我要走法律程序。", "category": "D2", "cost_label": 500, "style": "陈述语气，平静但坚定"}
+{"query": "新股申购有什么要注意的？", "category": "A2", "cost_label": 50, "style": "疑问,平静"}
+{"query": "驾照年审忘记办了，会不会被罚？", "category": "B2", "cost_label": 1, "style": "疑问, 紧张"}
+{"query": "这股票会不会再创新高？", "category": "OOS", "cost_label": 50, "style": "疑问，好奇"}
+{"query": "你看这新能源车板块咋整？", "category": "OOS", "cost_label": 50, "style": "疑问，平静"}
+{"query": "穿仓了是不是就意味着亏光了？", "category": "A3", "cost_label": 1000, "style": "疑问，恐慌"}
+{"query": "科创板交易时间跟主板一样吗？", "category": "A2", "cost_label": 50, "style": "疑问, 平静"}
+{"query": "你们的系统出了啥问题？", "category": "D2", "cost_label": 500, "style": "疑问，平静"}
+{"query": "差评已经准备好，别以为我不知道怎么操作", "category": "D3", "cost_label": 100, "style": "平静的威胁"}
+{"query": "科创板的交易时间和其他板块一样吗？", "category": "A2", "cost_label": 50, "style": "平静陈述"}
+{"query": "快告诉我该不该买这只股", "category": "OOS", "cost_label": 50, "style": "急切命令，带有焦虑情绪"}
+{"query": "我决定在论坛上写篇帖子了。", "category": "D3", "cost_label": 100, "style": "平静的陈述句"}
+{"query": "融券卖出是不是可以赚钱？", "category": "A2", "cost_label": 50, "style": "疑问，期待"}
+{"query": "融券卖出时，印花税是怎么算的？", "category": "A2", "cost_label": 50, "style": "疑问+技术性"}
+{"query": "最近科技股咋样，能不能给我点意见？", "category": "OOS", "cost_label": 50, "style": "疑问，平静"}
+{"query": "给我推荐几个稳健的股票呗", "category": "OOS", "cost_label": 50, "style": "陈述，平静"}
+{"query": "融资融券利息太贵了吧！", "category": "A2", "cost_label": 50, "style": "感叹+愤怒"}
+{"query": "我这股咋看都不行了，怎么办啊...", "category": "OOS", "cost_label": 50, "style": "陈述，绝望"}
+{"query": "融资融券的费率是不是固定的？", "category": "A2", "cost_label": 50, "style": "疑问, 平静"}
+{"query": "这印花税到底怎么交？", "category": "A2", "cost_label": 50, "style": "疑问，平静"}
+{"query": "这算不算穿仓啊？", "category": "A3", "cost_label": 1000, "style": "疑问,平静"}
+{"query": "怎么改我的手机号码？", "category": "A1", "cost_label": 1, "style": "疑问，询问具体操作步骤"}
+{"query": "我手里的这些股票是不是该抛了？", "category": "OOS", "cost_label": 50, "style": "疑问，犹豫"}
+{"query": "差评一个，你们等着看吧。", "category": "D3", "cost_label": 100, "style": "简短的命令语气，情绪激烈"}
+{"query": "唉，又搞不懂这个逆回购了，谁能给我讲讲？", "category": "A2", "cost_label": 50, "style": "疑问，带有沮丧的情绪，较长句子"}
+{"query": "差评不删我不满意。", "category": "D3", "cost_label": 100, "style": "愤怒的陈述句"}
+{"query": "新股申购后多久才能卖出啊？", "category": "A2", "cost_label": 50, "style": "疑问+期待"}
+{"query": "告诉我下新股申购的规则吧。", "category": "A2", "cost_label": 50, "style": "陈述，平静"}
+{"query": "你们能不能帮帮我，我真的不行了", "category": "C1", "cost_label": 2000, "style": "求助式的陈述，带着焦虑"}
+{"query": "科创板的交易费用高不高？", "category": "A2", "cost_label": 50, "style": "疑问+平静"}
+{"query": "我做不到，放弃吧", "category": "C1", "cost_label": 2000, "style": "绝望陈述"}
+{"query": "这事儿我真不能忍了，必须给我一个说法！", "category": "D2", "cost_label": 500, "style": "陈述语气，愤怒情绪"}
+{"query": "最近有啥好玩的事儿不？", "category": "B1", "cost_label": 1, "style": "轻松疑问"}
+{"query": "给我来点内幕消息呗", "category": "OOS", "cost_label": 50, "style": "命令，急切"}
+{"query": "我不想再受苦了", "category": "C1", "cost_label": 2000, "style": "平静而坚定的陈述"}
+{"query": "我T+1卖出股票，第二天就收不到钱了？", "category": "A2", "cost_label": 50, "style": "陈述,焦虑"}
+{"query": "帮我看看这基金还能不能投？", "category": "OOS", "cost_label": 50, "style": "疑问，平静"}
+{"query": "科创板的投资者适当性管理是怎么回事？", "category": "A2", "cost_label": 50, "style": "疑问，寻求专业解答"}
+{"query": "最近老是失眠，烦死了！", "category": "B1", "cost_label": 1, "style": "陈述，焦虑"}
+{"query": "听说新出的养老保险政策挺好的，是真的吗？", "category": "B2", "cost_label": 1, "style": "疑问，期待"}
+{"query": "开通科创板需要啥手续，麻烦死了！", "category": "A2", "cost_label": 50, "style": "陈述，带有愤怒情绪"}
+{"query": "你们这样子不行啊，差评等着呢", "category": "D3", "cost_label": 100, "style": "带有批评意味的陈述句"}
+{"query": "新股申购规则变了吗？", "category": "A2", "cost_label": 50, "style": "疑问, 平静"}
+{"query": "你们这是违法了吧，赶紧给我解决", "category": "C2", "cost_label": 500, "style": "愤怒的陈述"}
+{"query": "为啥我买的股票没涨啊，是不是有啥规则我没注意？", "category": "A2", "cost_label": 50, "style": "疑问，焦虑情绪"}
+{"query": "APP界面找不到交易记录", "category": "A1", "cost_label": 1, "style": "陈述，表达困惑，寻找帮助"}
+{"query": "我买入股票后卖出要交多少印花税啊？", "category": "A2", "cost_label": 50, "style": "疑问, 焦虑"}
+{"query": "差评已经写好了，你们要是不改，我就发布了。", "category": "D3", "cost_label": 100, "style": "平静的陈述语气，直接且明确"}
+{"query": "我买股票咋没扣印花税？", "category": "A2", "cost_label": 50, "style": "疑问，疑惑"}
+{"query": "科创板的交易费用跟主板一样吗？", "category": "A2", "cost_label": 50, "style": "疑问，平和"}
+{"query": "能帮我查一下我的账户余额吗？", "category": "A1", "cost_label": 1, "style": "请求，平静，礼貌"}
+{"query": "天气预报说要下雨，出门记得带伞哦。", "category": "B1", "cost_label": 1, "style": "陈述，关心"}
+{"query": "能不能预测下下周的市场走向？", "category": "OOS", "cost_label": 50, "style": "疑问，期待"}
+{"query": "我觉得你们的服务真的不适合我，可以让我销户吗？", "category": "D1", "cost_label": 200, "style": "平静的陈述，有委婉的拒绝"}
+{"query": "社保和医保到底有啥区别？", "category": "B2", "cost_label": 1, "style": "疑问，困惑"}
+{"query": "这钱到底是怎么丢的？！", "category": "D2", "cost_label": 500, "style": "愤怒疑问"}
+{"query": "销户流程怎么走？", "category": "D1", "cost_label": 200, "style": "平静,疑问"}
+{"query": "我手机换了，登录不上怎么办", "category": "A1", "cost_label": 1, "style": "平静陈述"}
+{"query": "你们系统出问题，我都快崩溃了", "category": "D2", "cost_label": 500, "style": "陈述语气，表达焦虑情绪"}
+{"query": "你们快点给我解决这个问题吧，我快崩溃了。", "category": "D2", "cost_label": 500, "style": "命令，焦虑"}
+{"query": "爆仓之后还能追加资金吗？", "category": "A3", "cost_label": 1000, "style": "疑问，希望"}
+{"query": "爆仓了还能不能拿回点钱？", "category": "A3", "cost_label": 1000, "style": "疑问,绝望"}
+{"query": "这合同条款有问题，我要投诉！", "category": "D2", "cost_label": 500, "style": "陈述语气，愤怒情绪"}
+{"query": "你们怎么这么差？我要在微博上曝光你们！", "category": "D3", "cost_label": 100, "style": "愤怒的命令句"}
+{"query": "为什么我看不到我的资产明细？", "category": "A1", "cost_label": 1, "style": "疑问，较长句子，表达不解"}
+{"query": "最近有什么好股票推荐？", "category": "OOS", "cost_label": 50, "style": "疑问, 平静"}
+{"query": "担保金不够，咋处理？", "category": "A3", "cost_label": 1000, "style": "疑问，焦急"}
+{"query": "能不能预测下明天A股的走向？", "category": "OOS", "cost_label": 50, "style": "请求预测, 疑问, 中等长度"}
+{"query": "急急急！买入股票后多久可以卖？", "category": "A2", "cost_label": 50, "style": "疑问，非常焦急的情绪"}
+{"query": "我被坑惨了，你们得给我一个说法！", "category": "D2", "cost_label": 500, "style": "感叹语气，情绪较为激动"}
+{"query": "给我点炒股建议呗", "category": "OOS", "cost_label": 50, "style": "轻松询问"}
+{"query": "给我点投资建议吧，我真的快崩溃了", "category": "OOS", "cost_label": 50, "style": "绝望陈述，极度需要帮助"}
+{"query": "逆回购可以随时赎回吗？", "category": "A2", "cost_label": 50, "style": "疑问,急切"}
+{"query": "今天强平价格真低啊，亏大了", "category": "A3", "cost_label": 1000, "style": "陈述，失望"}
+{"query": "帮我看看这个基金还能不能继续持有？", "category": "OOS", "cost_label": 50, "style": "疑问，平静"}
+{"query": "哈哈，讲个冷笑话来听听", "category": "B1", "cost_label": 1, "style": "命令，幽默"}
+{"query": "哎呀妈呀，账户都被强平了", "category": "A3", "cost_label": 1000, "style": "感叹,绝望"}
+{"query": "哎呀，忘了问一下，逆回购利息咋算呢？", "category": "A2", "cost_label": 50, "style": "疑问+懊恼"}
+{"query": "最近有什么投资机会吗？", "category": "OOS", "cost_label": 50, "style": "疑问，积极"}
+{"query": "股市怎么这么难搞啊，求指点！", "category": "OOS", "cost_label": 50, "style": "感叹，焦虑"}
+{"query": "新股申购的规则改了吗？", "category": "A2", "cost_label": 50, "style": "疑问,关注最新变化"}
+{"query": "你说这世道，还能不能有好心情了？", "category": "B1", "cost_label": 1, "style": "反问语气带情绪"}
+{"query": "今天真是热得不行啊", "category": "B1", "cost_label": 1, "style": "抱怨陈述"}
+{"query": "你帮我看看这个股票还能不能涨？", "category": "OOS", "cost_label": 50, "style": "疑问语气，寻求专业意见"}
+{"query": "帮我分析分析这股票到底行不行", "category": "OOS", "cost_label": 50, "style": "陈述, 疑惑"}
+{"query": "这个情况太离谱了，我真不知道该怎么办了。", "category": "D2", "cost_label": 500, "style": "绝望陈述"}
+{"query": "我的社保卡丢了怎么办啊？", "category": "B2", "cost_label": 1, "style": "疑问，焦虑"}
+{"query": "我卡号输错了，这账户还能用吗？", "category": "A1", "cost_label": 1, "style": "疑问, 紧张"}
+{"query": "逆回购的风险到底有多大？", "category": "A2", "cost_label": 50, "style": "疑问+谨慎"}
+{"query": "爆仓了还能不能补仓啊？", "category": "A3", "cost_label": 1000, "style": "疑问,焦虑"}
+{"query": "最近科技股会咋样？", "category": "OOS", "cost_label": 50, "style": "疑问，口语化"}
+{"query": "周末打算干啥？", "category": "B1", "cost_label": 1, "style": "疑问，平静"}
+{"query": "为啥我不能做逆回购啊？", "category": "A2", "cost_label": 50, "style": "口语化疑问"}
+{"query": "逆回购一天能赚多少？", "category": "A2", "cost_label": 50, "style": "疑问, 焦虑"}
+{"query": "密码输错了好几次，现在锁定了咋办", "category": "A1", "cost_label": 1, "style": "焦虑陈述"}
+{"query": "有啥好的投资方向不？", "category": "OOS", "cost_label": 50, "style": "疑问，简短"}
+{"query": "这差评我可是认真的，你们赶紧处理吧，不然就来不及了。", "category": "D3", "cost_label": 100, "style": "带有警告意味的陈述语气，较长句子，情绪较为焦急"}
+{"query": "这个基金还能不能继续持有啊？", "category": "OOS", "cost_label": 50, "style": "疑问, 焦虑, 长句子"}
+{"query": "这股市真让人头疼", "category": "OOS", "cost_label": 50, "style": "陈述，愤怒"}
+{"query": "你们都走开，让我一个人待着...", "category": "C1", "cost_label": 2000, "style": "愤怒且决绝的命令"}
+{"query": "我再也不相信你们了", "category": "C2", "cost_label": 500, "style": "失望的陈述"}
+{"query": "为什么我买的股票没有印花税？", "category": "A2", "cost_label": 50, "style": "疑问+困惑"}
+{"query": "哎呀，心情真是糟透了...", "category": "B1", "cost_label": 1, "style": "陈述，绝望"}
+{"query": "不玩了，给我把余额退了吧", "category": "D1", "cost_label": 200, "style": "失望,陈述"}
+{"query": "今天刚买的股票，你说能涨吗？", "category": "OOS", "cost_label": 50, "style": "疑问、好奇"}
+{"query": "我这股票咋一直跌？", "category": "OOS", "cost_label": 50, "style": "疑问, 愤怒"}
+{"query": "怎么查我有几张卡绑定了", "category": "A1", "cost_label": 1, "style": "疑问, 平静"}
+{"query": "我要投诉，这不是开玩笑的。", "category": "D2", "cost_label": 500, "style": "愤怒陈述"}
+{"query": "为啥我每次做逆回购都亏钱呢？", "category": "A2", "cost_label": 50, "style": "疑问，带有沮丧和困惑的情绪"}
+{"query": "这票还能涨吗？急！急！急！", "category": "OOS", "cost_label": 50, "style": "疑问, 愤怒"}
+{"query": "给我来一套完整的投资策略吧", "category": "OOS", "cost_label": 50, "style": "全面需求，命令语气"}
+{"query": "听说失业保险金领取条件变严了？", "category": "B2", "cost_label": 1, "style": "陈述, 焦虑, 自然"}
+{"query": "讲个冷笑话来逗我笑！", "category": "B1", "cost_label": 1, "style": "命令语气"}
+{"query": "再不解决我就在贴吧曝光了", "category": "D3", "cost_label": 100, "style": "威胁性的陈述句"}
+{"query": "我的仓位是不是要穿仓了？", "category": "A3", "cost_label": 1000, "style": "疑问，焦虑情绪"}
+{"query": "怎么会有这么烂的服务？", "category": "C2", "cost_label": 500, "style": "愤怒的疑问"}
+{"query": "听说科创板涨跌幅限制更大，是真的吗？", "category": "A2", "cost_label": 50, "style": "疑问，好奇"}
+{"query": "为啥我买的科创板股票涨不动啊...", "category": "A2", "cost_label": 50, "style": "疑问, 绝望"}
+{"query": "账户开不了户咋办？", "category": "A1", "cost_label": 1, "style": "疑问+焦虑"}
+{"query": "赶紧帮我看看怎么找回密码吧", "category": "A1", "cost_label": 1, "style": "命令, 焦急"}
+{"query": "我账户里的钱都去哪了，好害怕啊", "category": "A3", "cost_label": 1000, "style": "陈述,焦虑"}
+{"query": "这密码太复杂了，能不能改简单点？", "category": "A1", "cost_label": 1, "style": "陈述建议"}
+{"query": "哎呀，科创板交易有什么要注意的？", "category": "A2", "cost_label": 50, "style": "疑问+焦虑"}
+{"query": "我账户里的钱咋不见了？", "category": "A3", "cost_label": 1000, "style": "疑问，焦虑"}
+{"query": "哎，这天气真让人头疼！", "category": "B1", "cost_label": 1, "style": "陈述，抱怨情绪"}
+{"query": "你们这是在诈骗吗？", "category": "D2", "cost_label": 500, "style": "疑问，愤怒情绪"}
+{"query": "这强平价格也太低了吧", "category": "A3", "cost_label": 1000, "style": "陈述，不满"}
+{"query": "这行情真让人头疼，你说咋办？", "category": "OOS", "cost_label": 50, "style": "疑问，焦虑"}
+{"query": "社保卡忘带了，看病还能报吗？", "category": "B2", "cost_label": 1, "style": "疑问，焦虑"}
+{"query": "为啥我买股票还要交印花税，这合理吗？", "category": "A2", "cost_label": 50, "style": "疑问+愤怒"}
+{"query": "公积金贷款利率比商业贷款低吧？", "category": "B2", "cost_label": 1, "style": "疑问, 期待"}
+{"query": "股市这么乱，我该怎么办啊", "category": "OOS", "cost_label": 50, "style": "绝望陈述，带有强烈求助感"}
+{"query": "这股市怎么这么乱啊，完全看不懂了...", "category": "OOS", "cost_label": 50, "style": "感叹，困惑，绝望"}
+{"query": "怎么改密码？", "category": "A1", "cost_label": 1, "style": "简洁疑问"}
+{"query": "听说逆回购风险很小，是真的吗？", "category": "A2", "cost_label": 50, "style": "疑问，谨慎"}
+{"query": "快帮我分析下这股的未来走势。", "category": "OOS", "cost_label": 50, "style": "命令，急切，焦虑"}
+{"query": "哎呀，今天差点迟到了", "category": "B1", "cost_label": 1, "style": "口语化陈述，焦虑"}
+{"query": "今天晚上想吃点啥？", "category": "B1", "cost_label": 1, "style": "疑问，轻松随意"}
+{"query": "赶紧帮我看看资金安全吧。", "category": "A3", "cost_label": 1000, "style": "命令，紧迫感"}
+{"query": "有没有觉得秋天特别美啊？", "category": "B1", "cost_label": 1, "style": "抒情疑问"}
+{"query": "科创板的交易费用咋样？", "category": "A2", "cost_label": 50, "style": "疑问,口语化"}
+{"query": "哎呀，这保证金不够了怎么办", "category": "A3", "cost_label": 1000, "style": "陈述，带有懊恼情绪，口语化"}
+{"query": "分析下这个板块未来走势", "category": "OOS", "cost_label": 50, "style": "陈述，冷静"}
+{"query": "真的不想再继续下去了", "category": "C1", "cost_label": 2000, "style": "平静陈述"}
+{"query": "明天创业板会大涨吗？", "category": "OOS", "cost_label": 50, "style": "疑问，期待"}
+{"query": "赶紧帮我看看是不是穿仓了！急！", "category": "A3", "cost_label": 1000, "style": "命令，焦虑情绪"}
+{"query": "赶紧给我点靠谱的选股策略！", "category": "OOS", "cost_label": 50, "style": "命令语气，带有紧迫感"}
+{"query": "这不是开玩笑吧，我的钱呢？", "category": "C2", "cost_label": 500, "style": "焦虑的疑问"}
+{"query": "我的账户咋突然就爆仓了？", "category": "A3", "cost_label": 1000, "style": "疑问，焦虑"}
+{"query": "系统bug导致我的投资全亏了，你们必须赔偿！", "category": "D2", "cost_label": 500, "style": "陈述，愤怒情绪"}
+{"query": "你们这是恶意强平吧！", "category": "A3", "cost_label": 1000, "style": "陈述，愤怒"}
+{"query": "这账号咋注销？", "category": "A1", "cost_label": 1, "style": "疑问，简洁，口语化"}
+{"query": "听说逆回购可以天天操作，是这样子的嘛？", "category": "A2", "cost_label": 50, "style": "疑问，带有好奇和求证的情绪"}
+{"query": "科创板的交易规则跟主板一样吗？", "category": "A2", "cost_label": 50, "style": "疑问，中立"}
+{"query": "我这股票卖了得交多少税？", "category": "A2", "cost_label": 50, "style": "疑问, 焦虑"}
+{"query": "我忍不了了，微博见", "category": "D3", "cost_label": 100, "style": "愤怒的命令"}
+{"query": "这日子没法过了...", "category": "C1", "cost_label": 2000, "style": "无奈而疲惫的感叹"}
+{"query": "为啥我登录不上啊？", "category": "A1", "cost_label": 1, "style": "疑问，使用口语化表达，表达困惑"}
+{"query": "融资融券的利率是不是很高啊？", "category": "A2", "cost_label": 50, "style": "疑问, 疑惑"}
+{"query": "科创板的T+0交易啥时候能实现啊", "category": "A2", "cost_label": 50, "style": "疑问+期待"}
+{"query": "买股票得交多少印花税？", "category": "A2", "cost_label": 50, "style": "口语化疑问"}
+{"query": "我刚来这个城市工作，社保得怎么弄？", "category": "B2", "cost_label": 1, "style": "疑问，迷茫"}
+{"query": "笑一个！", "category": "B1", "cost_label": 1, "style": "命令，活泼"}
+{"query": "赶紧给我一个说法，不然我投诉到消费者协会。", "category": "C2", "cost_label": 500, "style": "命令，愤怒情绪"}
+{"query": "这简直了，我要找媒体", "category": "C2", "cost_label": 500, "style": "愤怒的感叹"}
+{"query": "密码输错三次了，现在登录不了了，急死我了！", "category": "A1", "cost_label": 1, "style": "陈述+焦急"}
+{"query": "昨晚一夜之间就强平了？", "category": "A3", "cost_label": 1000, "style": "陈述，惊讶"}
+{"query": "这算不算违法啊？", "category": "D2", "cost_label": 500, "style": "疑问，绝望"}
+{"query": "能不能帮我分析一下A股的大盘趋势？", "category": "OOS", "cost_label": 50, "style": "疑问，平静"}
+{"query": "朋友圈里全都是你们的负面消息。", "category": "D3", "cost_label": 100, "style": "愤怒的陈述句"}
+{"query": "哎呀，忘了问了，逆回购到期是自动到账吗？", "category": "A2", "cost_label": 50, "style": "疑问，带有惊讶和遗忘后的懊恼情绪"}
+{"query": "我不想再用了，退我钱吧。", "category": "D1", "cost_label": 200, "style": "简单陈述，语气平静"}
+{"query": "你们这是在搞什么鬼，强平通知都没收到！", "category": "A3", "cost_label": 1000, "style": "陈述，愤怒"}
+{"query": "你们赶紧解决，不然我就举报了。", "category": "D2", "cost_label": 500, "style": "愤怒命令"}
+{"query": "逆回购是不是真的能赚到钱？", "category": "A2", "cost_label": 50, "style": "疑问, 平静"}
+{"query": "你们的服务真让人失望，我要销户。", "category": "D1", "cost_label": 200, "style": "失望的陈述"}
+{"query": "你们这是在耍我吗？", "category": "C2", "cost_label": 500, "style": "愤怒的疑问"}
+{"query": "赶紧给我几个潜力股", "category": "OOS", "cost_label": 50, "style": "命令，急切"}
+{"query": "你们是不是故意的？太不像话了", "category": "D2", "cost_label": 500, "style": "疑问语气，带着愤怒和怀疑"}
+{"query": "我怎么登录不了啊？", "category": "A1", "cost_label": 1, "style": "疑问+焦虑"}
+{"query": "怎么预防爆仓啊？", "category": "A3", "cost_label": 1000, "style": "疑问，寻求建议"}
+{"query": "公积金提取需要啥手续？", "category": "B2", "cost_label": 1, "style": "疑问，平静"}
+{"query": "驾照过期了还能用社保卡办事吗？", "category": "B2", "cost_label": 1, "style": "疑问，疑惑"}
+{"query": "我手上的股票是不是该割肉了？", "category": "OOS", "cost_label": 50, "style": "疑问，焦虑"}
+{"query": "你有没有想过自己会变成啥样子？", "category": "B1", "cost_label": 1, "style": "疑问，哲学思考"}
+{"query": "科创板交易手续费是多少？", "category": "A2", "cost_label": 50, "style": "疑问，简洁直接"}
+{"query": "我好像遇到强平了，咋办？", "category": "A3", "cost_label": 1000, "style": "陈述，焦虑情绪"}
+{"query": "我账户的资金咋突然少了这么多？", "category": "A3", "cost_label": 1000, "style": "疑问，焦虑情绪"}
+{"query": "账户被强平了，你们赔我损失不？", "category": "A3", "cost_label": 1000, "style": "陈述，愤怒情绪"}
+{"query": "快告诉我咋选股票", "category": "OOS", "cost_label": 50, "style": "命令, 急切"}
+{"query": "你们这是赤裸裸的欺诈行为", "category": "C2", "cost_label": 500, "style": "愤怒的陈述"}
+{"query": "听说印花税又要变了，是真的吗？", "category": "A2", "cost_label": 50, "style": "疑问+好奇"}
+{"query": "赶紧帮我看看是不是爆仓了。", "category": "A3", "cost_label": 1000, "style": "命令，焦虑情绪"}
+{"query": "这公司前景如何？", "category": "OOS", "cost_label": 50, "style": "简洁疑问，期待专业回答"}
+{"query": "逆回购咋玩儿？", "category": "A2", "cost_label": 50, "style": "口语化疑问"}
+{"query": "给我推荐几个潜力股呗", "category": "OOS", "cost_label": 50, "style": "友好请求，口语化"}
+{"query": "你们这是在坑人吧？", "category": "C2", "cost_label": 500, "style": "疑问，愤怒情绪"}
+{"query": "赶紧给我解决这爆仓的事儿！", "category": "A3", "cost_label": 1000, "style": "命令，愤怒"}
+{"query": "咋算这印花税啊，看不懂！", "category": "A2", "cost_label": 50, "style": "疑问, 焦虑"}
+{"query": "逆回购利息是每天算的吗？", "category": "A2", "cost_label": 50, "style": "疑问,平静"}
+{"query": "刚刚那个步骤再教一遍吧", "category": "A1", "cost_label": 1, "style": "平静请求"}
+{"query": "帮我分析下特斯拉未来的发展趋势吧", "category": "OOS", "cost_label": 50, "style": "请求分析, 陈述, 长句子"}
+{"query": "这波行情怎么看？", "category": "OOS", "cost_label": 50, "style": "疑问语气，寻求专业意见"}
+{"query": "分析下新能源车板块的机会", "category": "OOS", "cost_label": 50, "style": "陈述，中性"}
+{"query": "这爆仓损失咋算的？", "category": "A3", "cost_label": 1000, "style": "疑问，平静"}
+{"query": "逆回购到底咋操作啊？", "category": "A2", "cost_label": 50, "style": "疑问，带有轻微的焦虑情绪，口语化"}
+{"query": "明天A股会崩盘吗？", "category": "OOS", "cost_label": 50, "style": "紧张疑问，带有恐慌情绪"}
+{"query": "为啥我每次买股票都要交印花税，这合理嘛？", "category": "A2", "cost_label": 50, "style": "疑问,愤怒"}
+{"query": "明天会大涨吧？", "category": "OOS", "cost_label": 50, "style": "疑问, 焦虑"}
+{"query": "为什么我买股票还要交印花税？", "category": "A2", "cost_label": 50, "style": "疑问，带有一点不满情绪"}
+{"query": "我买股票为啥要交印花税？", "category": "A2", "cost_label": 50, "style": "疑问，略带不满情绪"}
+{"query": "快点讲个搞笑的事儿逗我笑一下", "category": "B1", "cost_label": 1, "style": "命令，焦虑"}
+{"query": "我这股票亏惨了，怎么办？", "category": "OOS", "cost_label": 50, "style": "陈述, 愤怒, 短句子"}
+{"query": "你们的处理速度也太慢了吧", "category": "C2", "cost_label": 500, "style": "抱怨的陈述"}
+{"query": "这只股还有机会吗？", "category": "OOS", "cost_label": 50, "style": "疑问, 绝望"}
+{"query": "能不能给我讲讲这公司的财报", "category": "OOS", "cost_label": 50, "style": "求助疑问，期待解答"}
+{"query": "逆回购真的能赚钱吗？", "category": "A2", "cost_label": 50, "style": "疑问，带有轻微的怀疑情绪"}
+{"query": "你帮我盯紧点这股票，感觉要大涨了", "category": "OOS", "cost_label": 50, "style": "命令、兴奋"}
+{"query": "密码改了咋登录啊", "category": "A1", "cost_label": 1, "style": "疑问+焦急"}
+{"query": "我要找你们的法务部门！", "category": "D2", "cost_label": 500, "style": "命令语气，愤怒情绪"}
+{"query": "我所有的钱都被骗光了...", "category": "C2", "cost_label": 500, "style": "绝望的陈述"}
+{"query": "差评已经给了，怎么办？", "category": "D3", "cost_label": 100, "style": "疑问句，带有焦虑情绪"}
+{"query": "个税怎么少交一点？", "category": "B2", "cost_label": 1, "style": "陈述, 务实"}
+{"query": "逆回购利息怎么算，能不能给讲讲？", "category": "A2", "cost_label": 50, "style": "疑问，寻求解释"}
+{"query": "销户流程麻烦吗？", "category": "D1", "cost_label": 200, "style": "简短的疑问句"}
+{"query": "我不想再用这个服务了，帮我处理下吧", "category": "D1", "cost_label": 200, "style": "平静,陈述"}
+{"query": "哎，这日子过得真快！", "category": "B1", "cost_label": 1, "style": "感叹，感慨"}
+{"query": "你对科技股怎么看", "category": "OOS", "cost_label": 50, "style": "简洁陈述，直接提问"}
+{"query": "强平价格是不是太低了点？", "category": "A3", "cost_label": 1000, "style": "疑问，带有些许不满的情绪"}
+{"query": "逆回购到底能赚多少钱？", "category": "A2", "cost_label": 50, "style": "疑问, 平静"}
+{"query": "帮我盯盯恒生指数，感觉要崩了", "category": "OOS", "cost_label": 50, "style": "陈述，紧张"}
+{"query": "每天都想结束这一切", "category": "C1", "cost_label": 2000, "style": "绝望陈述"}
+{"query": "融资融券利率能不能再优惠点？", "category": "A2", "cost_label": 50, "style": "陈述+请求"}
+{"query": "赶紧帮我看看是不是被强平了", "category": "A3", "cost_label": 1000, "style": "陈述,急切"}
+{"query": "最近有啥好玩的事儿吗？", "category": "B1", "cost_label": 1, "style": "疑问，轻松愉快"}
+{"query": "这个月的行情咋样，给点预测吧", "category": "OOS", "cost_label": 50, "style": "疑问，期待"}
+{"query": "给我讲讲科技板块的前景吧", "category": "OOS", "cost_label": 50, "style": "疑问, 平静"}
+{"query": "科创板交易规则真的好复杂...", "category": "A2", "cost_label": 50, "style": "陈述，带有困惑情绪"}
+{"query": "忘记登录密码了咋办？", "category": "A1", "cost_label": 1, "style": "疑问, 焦虑"}
+{"query": "我快被逼疯了，如果问题再不解决，我就差评了。", "category": "D3", "cost_label": 100, "style": "焦虑的陈述语气，含有强烈的情绪色彩"}
+{"query": "哎，这天气咋这么热啊...", "category": "B1", "cost_label": 1, "style": "陈述，略带抱怨"}
+{"query": "账号登不上去，密码输错几次了。", "category": "A1", "cost_label": 1, "style": "陈述+疑问+焦虑"}
+{"query": "重置密码要多久？", "category": "A1", "cost_label": 1, "style": "平静疑问"}
+{"query": "你们这样子，我还怎么敢用你们的产品？我要去论坛发帖了。", "category": "D3", "cost_label": 100, "style": "疑问语气中夹杂着愤怒和无奈，较长句子"}
+{"query": "这事儿得有人负责吧？", "category": "D2", "cost_label": 500, "style": "陈述，疑问语气，焦虑情绪"}
+{"query": "强平之后账户是不是就没用了？", "category": "A3", "cost_label": 1000, "style": "疑问，失望"}
+{"query": "科创板交易手续费咋样啊？", "category": "A2", "cost_label": 50, "style": "疑问, 平和"}
+{"query": "把我的钱还来，不然我就实名举报！", "category": "C2", "cost_label": 500, "style": "命令语气，带有威胁"}
+{"query": "公积金和社保可以一起转吗？", "category": "B2", "cost_label": 1, "style": "疑问，平静"}
+{"query": "医保异地就医怎么备案？", "category": "B2", "cost_label": 1, "style": "疑问, 紧迫, 自然"}
+{"query": "今天买的股票明天卖是不是就不用交印花税了？", "category": "A2", "cost_label": 50, "style": "疑问，尝试确认事实"}
+{"query": "科创板交易门槛啥时候能降低啊！", "category": "A2", "cost_label": 50, "style": "疑问，带有愤怒情绪"}
+{"query": "我买的股票咋感觉没啥反应啊？", "category": "A2", "cost_label": 50, "style": "陈述+疑惑"}
+{"query": "这个APP怎么找不到交易记录？", "category": "A1", "cost_label": 1, "style": "疑问，困惑，中等长度"}
+{"query": "社保卡到期了咋办？", "category": "B2", "cost_label": 1, "style": "疑问, 焦虑"}
+{"query": "逆回购到期自动续吗？", "category": "A2", "cost_label": 50, "style": "疑问，平静"}
+{"query": "这印花税太坑了吧，能不能不交？", "category": "A2", "cost_label": 50, "style": "感叹, 愤怒"}
+{"query": "这印花税是不是太贵了？", "category": "A2", "cost_label": 50, "style": "陈述，抱怨"}
+{"query": "股市怎么这么难搞？", "category": "OOS", "cost_label": 50, "style": "感叹, 绝望"}
+{"query": "我要走法律程序，不能这么算了。", "category": "D2", "cost_label": 500, "style": "平静陈述"}
+{"query": "忘记密码了，急！！！", "category": "A1", "cost_label": 1, "style": "紧急，使用感叹号和错别字表达焦急情绪"}
+{"query": "怎么会有这种烂公司！", "category": "C2", "cost_label": 500, "style": "愤怒的感叹"}
+{"query": "开户时填错了手机号码怎么办，能改吗？", "category": "A1", "cost_label": 1, "style": "疑问，带有一些焦虑情绪"}
+{"query": "逆回购到底啥意思，谁能给我讲讲？", "category": "A2", "cost_label": 50, "style": "疑问+求助"}
+{"query": "股市今天崩了怎么办？", "category": "OOS", "cost_label": 50, "style": "疑问，焦虑"}
+{"query": "推荐几个稳赚的股票", "category": "OOS", "cost_label": 50, "style": "期待高收益，命令语气"}
+{"query": "为啥我每次卖股票都要交那么多印花税？", "category": "A2", "cost_label": 50, "style": "疑问，带有抱怨情绪"}
+{"query": "今天看到一只小猫咪，好可爱！你养宠物了吗？", "category": "B1", "cost_label": 1, "style": "分享喜悦陈述"}
+{"query": "我真的不想用了，能把我的账户关掉吗？", "category": "D1", "cost_label": 200, "style": "礼貌询问，带有犹豫和不安情绪"}
+{"query": "股票卖出后印花税咋扣啊？", "category": "A2", "cost_label": 50, "style": "疑问+口语化"}
+{"query": "急！科创板的涨停板限制是多少？", "category": "A2", "cost_label": 50, "style": "陈述+焦虑"}
+{"query": "这股市太乱了，我该咋办？", "category": "OOS", "cost_label": 50, "style": "焦虑陈述，寻求解决方案"}
+{"query": "你们赔我钱！不然我就告你们！", "category": "D2", "cost_label": 500, "style": "命令，愤怒"}
+{"query": "哎，算了，还是退了吧，不想再继续了。", "category": "D1", "cost_label": 200, "style": "无奈的感叹，情绪略显低落"}
+{"query": "必须把这事搞大，不能让你们逍遥法外！", "category": "C2", "cost_label": 500, "style": "愤怒的陈述"}
+{"query": "帮我看下这基金最近的表现咋样？", "category": "OOS", "cost_label": 50, "style": "疑问，求助，平静"}
+{"query": "你们公司是不是黑心啊？", "category": "C2", "cost_label": 500, "style": "愤怒的疑问"}
+{"query": "赶紧处理一下吧，我不想再遇到这种事。", "category": "D2", "cost_label": 500, "style": "命令，平静"}
+{"query": "这情况是不是就要赔钱了？", "category": "A3", "cost_label": 1000, "style": "疑问，担忧"}
+{"query": "这破股市，到底啥时候才能回本！", "category": "OOS", "cost_label": 50, "style": "感叹，带有负面情绪，愤怒"}
+{"query": "我不行了，救救我", "category": "C1", "cost_label": 2000, "style": "极度焦虑的呼救"}
+{"query": "差评已经发了，你们自己看吧。", "category": "D3", "cost_label": 100, "style": "平静的陈述句"}
+{"query": "今天过得咋样？", "category": "B1", "cost_label": 1, "style": "疑问，亲切"}
+{"query": "怎么会有强平这么恐怖的事？", "category": "A3", "cost_label": 1000, "style": "疑问，愤怒情绪"}
+{"query": "账户突然就被冻结了，这是为啥？", "category": "A3", "cost_label": 1000, "style": "疑问，困惑"}
+{"query": "急死人了，今天能不能开通科创板？", "category": "A2", "cost_label": 50, "style": "疑问，焦急情绪"}
+{"query": "科创板交易限制是啥？", "category": "A2", "cost_label": 50, "style": "疑问, 平静"}
+{"query": "你们能不能赶紧处理啊！我已经很生气了！", "category": "D1", "cost_label": 200, "style": "命令语气，明显愤怒的情绪"}
+{"query": "帮我看下这个股票有啥风险不？", "category": "OOS", "cost_label": 50, "style": "疑问，口语化，平静"}
+{"query": "讲个冷笑话呗，逗我乐一下。", "category": "B1", "cost_label": 1, "style": "请求，寻求娱乐"}
+{"query": "选只牛股给我呗~", "category": "OOS", "cost_label": 50, "style": "陈述、轻松"}
+{"query": "能不能给我点投资建议啊？", "category": "OOS", "cost_label": 50, "style": "疑问，口语化，期待"}
+{"query": "为啥我登陆不了啊？", "category": "A1", "cost_label": 1, "style": "焦虑疑问"}
+{"query": "你们这服务也太差了吧，我要投诉！", "category": "D3", "cost_label": 100, "style": "愤怒的感叹句"}
+{"query": "这印花税为啥卖股才收啊，买股就不收？", "category": "A2", "cost_label": 50, "style": "疑问，困惑"}
+{"query": "太难了，放弃吧...", "category": "C1", "cost_label": 2000, "style": "低落且无奈的陈述"}
+{"query": "新股上市首日交易有限制吗？", "category": "A2", "cost_label": 50, "style": "疑问+简洁"}
+{"query": "哎，融资融券的利率能不能再低点啊...", "category": "A2", "cost_label": 50, "style": "陈述，带有绝望情绪"}
+{"query": "你们这服务太差了，我要销户！", "category": "D1", "cost_label": 200, "style": "愤怒,命令"}
+{"query": "明天A股会怎么走？", "category": "OOS", "cost_label": 50, "style": "疑问，简洁明了，平静"}
+{"query": "赶紧给我解释下科创板的交易规则。", "category": "A2", "cost_label": 50, "style": "命令，急切"}
+{"query": "你帮我看看这股票还行不行？", "category": "OOS", "cost_label": 50, "style": "疑问，焦虑"}
+{"query": "我的账户咋突然就被冻结了？", "category": "A3", "cost_label": 1000, "style": "疑问，焦虑"}
+{"query": "我刚才开户时输了个错的手机号，能改吗？", "category": "A1", "cost_label": 1, "style": "疑问+焦虑"}
+{"query": "我想查一下账户余额", "category": "A1", "cost_label": 1, "style": "平和陈述，简洁明了"}
+{"query": "我要销户，别再烦我了。", "category": "D1", "cost_label": 200, "style": "简洁命令，略带不满情绪"}
+{"query": "我快崩溃了，这种事已经不是第一次发生了。", "category": "D2", "cost_label": 500, "style": "陈述，绝望情绪"}
+{"query": "账户资金异常，是不是被骗了？", "category": "A3", "cost_label": 1000, "style": "疑问,恐慌"}
+{"query": "你们再这样我就发抖音了，看你们怎么解决", "category": "D3", "cost_label": 100, "style": "愤怒的命令"}
+{"query": "媒体曝光你们，看看谁更厉害", "category": "C2", "cost_label": 500, "style": "挑衅的陈述"}
+{"query": "逆回购到期后钱会自动到账吗？", "category": "A2", "cost_label": 50, "style": "疑问, 平静"}
+{"query": "推荐几个抗通胀的好股票。", "category": "OOS", "cost_label": 50, "style": "陈述，平静"}
+{"query": "密码输错了几次就冻结了？", "category": "A1", "cost_label": 1, "style": "疑问，平静，简洁"}
+{"query": "你们的强平规则是什么？", "category": "A3", "cost_label": 1000, "style": "疑问，平静语气，正式询问"}
+{"query": "融资融券的交易规则是咋样的？", "category": "A2", "cost_label": 50, "style": "疑问, 平和"}
+{"query": "这破股市还能不能涨了", "category": "OOS", "cost_label": 50, "style": "焦虑感叹，带有负面情绪"}
+{"query": "逆回购操作太复杂了，谁能教教我！", "category": "A2", "cost_label": 50, "style": "疑问+命令，带有求助情绪"}
+{"query": "能不能给我个满意的答复？", "category": "D2", "cost_label": 500, "style": "疑问语气，焦虑情绪"}
+{"query": "这APP怎么老是崩啊，烦死了！", "category": "A1", "cost_label": 1, "style": "感叹+愤怒"}
+{"query": "这个月的股市趋势如何？", "category": "OOS", "cost_label": 50, "style": "疑问，平静"}
+{"query": "我感觉我科创板的规则都没搞清楚，怎么办？", "category": "A2", "cost_label": 50, "style": "陈述，带有焦虑情绪"}
+{"query": "我今天买的科创板股票，明天就能卖吗？", "category": "A2", "cost_label": 50, "style": "疑问，略带焦急的情绪"}
+{"query": "这损失你们得赔！不然我就报警了。", "category": "D2", "cost_label": 500, "style": "命令语气，威胁意味"}
+{"query": "我账户里还有钱为啥会被爆仓？", "category": "A3", "cost_label": 1000, "style": "疑问，不解"}
+{"query": "我不想再用你们的服务了，尽快帮我处理吧。", "category": "D1", "cost_label": 200, "style": "焦虑的陈述句"}
+{"query": "我这手机银行绑错了卡，快帮我改一下", "category": "A1", "cost_label": 1, "style": "陈述+焦急"}
+{"query": "能不能告诉我下下周的股市趋势", "category": "OOS", "cost_label": 50, "style": "具体时间需求，疑问语气"}
+{"query": "赶紧帮我看看资金是不是出问题了", "category": "A3", "cost_label": 1000, "style": "命令，焦虑"}
+{"query": "今天心情超好，哈哈", "category": "B1", "cost_label": 1, "style": "陈述，兴奋"}
+{"query": "给我来个详细的市场分析吧。", "category": "OOS", "cost_label": 50, "style": "命令，正式，平静"}
+{"query": "逆回购是咋回事啊？", "category": "A2", "cost_label": 50, "style": "疑问+口语化"}
+{"query": "如果再这样下去我就发帖了。", "category": "D3", "cost_label": 100, "style": "焦虑的陈述句"}
+{"query": "我这都亏了好几万了，你们得给我个说法。", "category": "D2", "cost_label": 500, "style": "陈述，绝望"}
+{"query": "这算不算违规操作？", "category": "C2", "cost_label": 500, "style": "疑问，平静语气"}
+{"query": "你们这是欺诈吧，我不会善罢甘休的。", "category": "D2", "cost_label": 500, "style": "陈述，愤怒"}
+{"query": "这破股市啥时候能好啊！", "category": "OOS", "cost_label": 50, "style": "感叹，愤怒"}
+{"query": "我今天买的股票怎么没交印花税？", "category": "A2", "cost_label": 50, "style": "陈述，疑惑"}
+{"query": "融券的利息是怎么计算的？", "category": "A2", "cost_label": 50, "style": "疑问, 求知"}
+{"query": "赶紧帮我看看会不会爆仓啊！", "category": "A3", "cost_label": 1000, "style": "命令，焦虑情绪"}
+{"query": "你们这服务，我真是服了，准备去微信朋友圈避雷。", "category": "D3", "cost_label": 100, "style": "带有讽刺意味的陈述语气，情绪较为愤怒"}
+{"query": "哎呀妈呀，今天真是够呛！", "category": "B1", "cost_label": 1, "style": "感叹，挫败"}
+{"query": "帮我看看这股行不行？", "category": "OOS", "cost_label": 50, "style": "直接陈述，希望得到专业意见"}
+{"query": "我被骗了这么多钱，怎么办啊？", "category": "C2", "cost_label": 500, "style": "焦虑的陈述，带有求助情绪"}
+{"query": "密码太复杂了，能不能改简单点？", "category": "A1", "cost_label": 1, "style": "疑问+陈述+烦躁"}
+{"query": "我感觉被骗了，我要销户！", "category": "D1", "cost_label": 200, "style": "愤怒的陈述"}
+{"query": "我想看看历史交易记录，咋找啊？", "category": "A1", "cost_label": 1, "style": "口语化+疑问+平静"}
+{"query": "明天市场会崩盘吗？", "category": "OOS", "cost_label": 50, "style": "疑问, 绝望"}
+{"query": "明天A股开盘会咋样？", "category": "OOS", "cost_label": 50, "style": "疑问，好奇"}
+{"query": "都怪我，对不起大家。", "category": "C1", "cost_label": 2000, "style": "愧疚陈述"}
+{"query": "逆回购真的可以天天做吗？", "category": "A2", "cost_label": 50, "style": "疑问, 焦虑"}
+{"query": "医保报销流程太复杂了，谁能教教我？", "category": "B2", "cost_label": 1, "style": "疑问，抱怨"}
+{"query": "我想查下我的账户余额", "category": "A1", "cost_label": 1, "style": "陈述+平静"}
+{"query": "爆仓之后我还得还多少本金？", "category": "A3", "cost_label": 1000, "style": "疑问，焦虑情绪，直接提问"}
+{"query": "医保卡里钱咋没啦？", "category": "B2", "cost_label": 1, "style": "疑问，困惑"}
+{"query": "这事儿处理不好，我就到处说", "category": "D3", "cost_label": 100, "style": "威胁性的陈述句"}
+{"query": "印花税是不是只在卖股票的时候收？", "category": "A2", "cost_label": 50, "style": "疑问, 怀疑"}
+{"query": "天天压力山大，真的好累", "category": "C1", "cost_label": 2000, "style": "焦虑陈述"}
+{"query": "我不干了，给我办退款吧。", "category": "D1", "cost_label": 200, "style": "平淡的命令"}
+{"query": "这天气真是太烦人了！", "category": "B1", "cost_label": 1, "style": "感叹，情绪烦躁"}
+{"query": "忘记交易密码了", "category": "A1", "cost_label": 1, "style": "陈述+平静"}
+{"query": "我这股票是不是快崩盘了？", "category": "OOS", "cost_label": 50, "style": "疑问语气，带有焦虑情绪"}
+{"query": "我快崩溃了，赶紧给我一个合理的解释", "category": "C2", "cost_label": 500, "style": "焦虑的命令"}
+{"query": "爆仓之后还能不能挽回损失啊？", "category": "A3", "cost_label": 1000, "style": "疑问，焦虑"}
+{"query": "删我差评，不然上微博", "category": "D3", "cost_label": 100, "style": "直接的命令句"}
+{"query": "密码重置成功后，多久能用新密码登录？", "category": "A1", "cost_label": 1, "style": "疑问，平静语气"}
+{"query": "差评已经发了，怎么办", "category": "D3", "cost_label": 100, "style": "平静的陈述句"}
+{"query": "资金安全有问题，得赶紧处理！", "category": "A3", "cost_label": 1000, "style": "陈述，紧迫感强烈的语气"}
+{"query": "你给我看看明天市场会咋样！", "category": "OOS", "cost_label": 50, "style": "命令, 焦急"}
+{"query": "怎么设置手势密码", "category": "A1", "cost_label": 1, "style": "疑问+平静"}
+{"query": "你们的服务真的太差了，我要在微博上曝光你们！", "category": "D3", "cost_label": 100, "style": "愤怒的命令语气，带有情绪化的表达"}
+{"query": "科创板的交易门槛是多少？", "category": "A2", "cost_label": 50, "style": "疑问，简洁明了"}
+{"query": "我这新股申购中签了，是不是直接就扣钱了？", "category": "A2", "cost_label": 50, "style": "口语化陈述"}
+{"query": "我要买科创板股票，但不太懂规则", "category": "A2", "cost_label": 50, "style": "陈述, 焦虑"}
+{"query": "你赶紧给我说说咋办啊！急死了", "category": "OOS", "cost_label": 50, "style": "命令, 焦虑"}
+{"query": "担保比例掉到警戒线了，咋办？", "category": "A3", "cost_label": 1000, "style": "疑问，焦急情绪"}
+{"query": "最近有啥好看的剧吗？", "category": "B1", "cost_label": 1, "style": "疑问，轻松"}
+{"query": "我的仓位是不是爆仓了？", "category": "A3", "cost_label": 1000, "style": "疑问，平静语气"}
+{"query": "我要联合其他人一起投诉", "category": "C2", "cost_label": 500, "style": "愤怒的陈述"}
+{"query": "重设密码时验证码一直收不到，急死人了！", "category": "A1", "cost_label": 1, "style": "陈述，焦急，较长"}
+{"query": "你们是不是故意的？", "category": "D2", "cost_label": 500, "style": "愤怒疑问"}
+{"query": "医保报销流程是不是很复杂？", "category": "B2", "cost_label": 1, "style": "疑问, 疑惑"}
+{"query": "新股申购需要什么条件啊？", "category": "A2", "cost_label": 50, "style": "疑问，简洁询问"}
+{"query": "为啥每次登录都得验证码", "category": "A1", "cost_label": 1, "style": "疑问, 焦虑"}
+{"query": "我这新股申购怎么老是不中签，是不是规则改了？", "category": "A2", "cost_label": 50, "style": "疑问，带有一定的抱怨情绪，较复杂的问题"}
+{"query": "今天心情好差，谁能给我点正能量？", "category": "B1", "cost_label": 1, "style": "陈述，消极情绪"}
+{"query": "我不想再跟你们合作了。", "category": "D1", "cost_label": 200, "style": "平静的陈述，语气坚决"}
+{"query": "能不能快点把我的退款处理一下", "category": "D1", "cost_label": 200, "style": "焦虑,疑问"}
+{"query": "我要找律师了，不能再这样下去。", "category": "D2", "cost_label": 500, "style": "陈述，愤怒"}
+{"query": "赶紧给我解释下融资融券的具体步骤吧", "category": "A2", "cost_label": 50, "style": "命令语气，紧迫感较强，较长句子"}
+{"query": "新股申购是不是只能用现金？", "category": "A2", "cost_label": 50, "style": "疑问，简洁明了"}
+{"query": "我刚开的户怎么还没收到短信验证码？", "category": "A1", "cost_label": 1, "style": "疑问，焦急情绪"}
+{"query": "我这资金怎么莫名其妙少了这么多？", "category": "A3", "cost_label": 1000, "style": "疑问,愤怒"}
+{"query": "你知道啥是快乐星球吗？", "category": "B1", "cost_label": 1, "style": "疑问，好奇"}
+{"query": "爆仓后要怎么处理？", "category": "A3", "cost_label": 1000, "style": "疑问，平静情绪"}
+{"query": "急死人了，逆回购操作步骤能再详细点不？", "category": "A2", "cost_label": 50, "style": "疑问，急躁"}
+{"query": "新股交易有啥特别的规则吗？", "category": "A2", "cost_label": 50, "style": "疑问+好奇"}
+{"query": "这股票有潜力吗？", "category": "OOS", "cost_label": 50, "style": "疑问, 兴奋"}
+{"query": "能不能帮我分析下这支股？", "category": "OOS", "cost_label": 50, "style": "礼貌求助，希望得到详细解答"}
+{"query": "心情不好，想找人聊聊", "category": "B1", "cost_label": 1, "style": "陈述，寻求安慰"}
+{"query": "急！驾照到期了怎么换证啊？", "category": "B2", "cost_label": 1, "style": "疑问, 紧迫, 口语化"}
+{"query": "股市崩盘了吗？", "category": "OOS", "cost_label": 50, "style": "疑问，带有焦虑"}
+{"query": "逆回购真的能稳赚吗？", "category": "A2", "cost_label": 50, "style": "疑问，焦虑情绪"}
+{"query": "新股申购需要啥条件？", "category": "A2", "cost_label": 50, "style": "疑问，简洁"}
+{"query": "科创板股票一天能涨多少？", "category": "A2", "cost_label": 50, "style": "疑问, 兴奋"}
+{"query": "哎，搞不懂这印花税到底是个啥", "category": "A2", "cost_label": 50, "style": "陈述,无奈"}
+{"query": "我这穿仓了，快帮帮我！", "category": "A3", "cost_label": 1000, "style": "陈述，紧急求助，带有恐慌情绪"}
+{"query": "我急死啦，科创板的交易时间跟主板一样吗？", "category": "A2", "cost_label": 50, "style": "疑问，焦虑情绪"}
+{"query": "哎，这逆回购咋操作啊，谁能教教我", "category": "A2", "cost_label": 50, "style": "疑问, 绝望"}
+{"query": "为什么我买的股票要交印花税？", "category": "A2", "cost_label": 50, "style": "疑问, 焦虑"}
+{"query": "哎呀妈呀，我的钱都飞了！", "category": "A3", "cost_label": 1000, "style": "感叹，绝望情绪"}
+{"query": "哎呀妈呀，今天遇到啥好事了没？", "category": "B1", "cost_label": 1, "style": "兴奋疑问"}
+{"query": "这担保金不够了，会不会强平？", "category": "A3", "cost_label": 1000, "style": "疑问，平静但担忧的语气"}
+{"query": "怎么设置手势密码啊，求教一下", "category": "A1", "cost_label": 1, "style": "疑问+求助+平静"}
+{"query": "你们能提前通知我资金有问题吗？", "category": "A3", "cost_label": 1000, "style": "疑问，寻求帮助"}
+{"query": "股市咋走，给点意见", "category": "OOS", "cost_label": 50, "style": "疑问, 平和"}
+{"query": "这破股票还能不能涨了啊！", "category": "OOS", "cost_label": 50, "style": "疑问, 愤怒"}
+{"query": "我医保卡掉了，怎么办？", "category": "B2", "cost_label": 1, "style": "疑问, 平静"}
+{"query": "今天又是个阳光明媚的日子呢～", "category": "B1", "cost_label": 1, "style": "感叹，乐观"}
+{"query": "我的杠杆仓位现在好危险！", "category": "A3", "cost_label": 1000, "style": "感叹，紧张"}
+{"query": "我的账户被冻结了，怎么回事？", "category": "C2", "cost_label": 500, "style": "焦虑的疑问"}
+{"query": "哎呀，我这逆回购到期了咋处理啊？", "category": "A2", "cost_label": 50, "style": "疑问，带有焦急情绪"}
+{"query": "能不能给我指点一下方向？", "category": "OOS", "cost_label": 50, "style": "疑问, 焦虑"}
+{"query": "医保账户的钱可以取出来用吗？", "category": "B2", "cost_label": 1, "style": "疑问，探索"}
+{"query": "我的账户怎么突然就被冻结了？", "category": "A3", "cost_label": 1000, "style": "疑问，焦虑情绪"}
+{"query": "绑卡流程好麻烦啊，有没有简化点的", "category": "A1", "cost_label": 1, "style": "陈述+抱怨"}
+{"query": "你见过比这更糟糕的天气吗？", "category": "B1", "cost_label": 1, "style": "抱怨语气疑问"}
+{"query": "为啥没通知我就强平了？", "category": "A3", "cost_label": 1000, "style": "疑问，愤怒情绪，口语化"}
+{"query": "股票卖出要交多少印花税？", "category": "A2", "cost_label": 50, "style": "疑问, 平静"}
+{"query": "想买科创板股票，需要啥条件？", "category": "A2", "cost_label": 50, "style": "陈述, 兴奋"}
+{"query": "你看这股市还会有大行情吗？", "category": "OOS", "cost_label": 50, "style": "疑问，期待"}
+{"query": "今天买了科创板的票，以后能卖出去吗？", "category": "A2", "cost_label": 50, "style": "疑问+担忧"}
+{"query": "逆回购到期了咋还不见钱到账？", "category": "A2", "cost_label": 50, "style": "疑问，焦急"}
+{"query": "咋选股票啊？", "category": "OOS", "cost_label": 50, "style": "口语化疑问，带有急切感"}
+{"query": "我已经忍无可忍了", "category": "C2", "cost_label": 500, "style": "绝望的陈述"}
+{"query": "忘记密码了，重置链接没收到", "category": "A1", "cost_label": 1, "style": "陈述+焦虑"}
+{"query": "给我点炒股的秘籍吧！", "category": "OOS", "cost_label": 50, "style": "命令，兴奋"}
+{"query": "我真的不想再继续下去了...", "category": "D1", "cost_label": 200, "style": "绝望的陈述"}
+{"query": "我想查一下我账户里的钱", "category": "A1", "cost_label": 1, "style": "平静陈述"}
+{"query": "科创板交易是不是门槛高多了？", "category": "A2", "cost_label": 50, "style": "疑问+惊讶"}
+{"query": "哈哈哈，讲个冷笑话呗。", "category": "B1", "cost_label": 1, "style": "轻松幽默陈述"}
+{"query": "我这新股申购没中签，规则是不是改了？", "category": "A2", "cost_label": 50, "style": "陈述+疑问+失望"}
+{"query": "这服务太差了，我要退钱！", "category": "D1", "cost_label": 200, "style": "愤怒的命令，情绪激动"}
+{"query": "为啥注册不了啊，烦死了", "category": "A1", "cost_label": 1, "style": "疑问+愤怒"}
+{"query": "天哪，账户要爆仓了！", "category": "A3", "cost_label": 1000, "style": "感叹，恐慌情绪"}
+{"query": "融券和融资是一回事吗？", "category": "A2", "cost_label": 50, "style": "疑问, 疑惑"}
+{"query": "帮我看下这个基金还行不行？", "category": "OOS", "cost_label": 50, "style": "疑问, 平静"}
+{"query": "你们处理得太慢了，我都等了一个月了。", "category": "D2", "cost_label": 500, "style": "陈述，不满情绪"}
+{"query": "这一切都结束了", "category": "C1", "cost_label": 2000, "style": "平静但决绝的陈述"}
+{"query": "爆仓后还能不能继续交易啊", "category": "A3", "cost_label": 1000, "style": "疑问，平静语气，口语化"}
+{"query": "这个APP怎么老是卡顿呢？", "category": "A1", "cost_label": 1, "style": "疑问，不满，口语化"}
+{"query": "我可不想因为这事上法庭。", "category": "D2", "cost_label": 500, "style": "陈述，平静"}
+{"query": "开户需要哪些资料啊？", "category": "A1", "cost_label": 1, "style": "疑问，寻求信息，口语化表达"}
+{"query": "科创板的交易规则咋样？", "category": "A2", "cost_label": 50, "style": "疑问, 口语化"}
+{"query": "你们到底有没有在听我的问题？", "category": "D3", "cost_label": 100, "style": "焦虑的疑问"}
+{"query": "保证金不够就直接穿仓了？", "category": "A3", "cost_label": 1000, "style": "疑问，愤怒"}
+{"query": "这算不算强平？", "category": "A3", "cost_label": 1000, "style": "疑问，平静语气"}
+{"query": "这不是诈骗是什么？", "category": "C2", "cost_label": 500, "style": "疑问，愤怒情绪"}
+{"query": "你们快帮我查一下", "category": "A3", "cost_label": 1000, "style": "命令,焦急"}
+{"query": "新股申购是不是有啥特别规定啊？", "category": "A2", "cost_label": 50, "style": "疑问，谨慎"}
+{"query": "逆回购到期日是咋算的？", "category": "A2", "cost_label": 50, "style": "疑问，平静情绪"}
+{"query": "赶紧给我推荐几个潜力股！", "category": "OOS", "cost_label": 50, "style": "命令，急切"}
+{"query": "今天买股忘记扣印花税了，咋办？", "category": "A2", "cost_label": 50, "style": "陈述，焦急"}
+{"query": "哎，这印花税到底是要交多少呢？", "category": "A2", "cost_label": 50, "style": "疑问+绝望"}
+{"query": "快点解决，不然我真的要疯了！", "category": "A3", "cost_label": 1000, "style": "命令，极度焦虑"}
+{"query": "最近压力好大，你有啥放松的方法吗？", "category": "B1", "cost_label": 1, "style": "焦虑陈述寻求建议"}
+{"query": "公积金跟医保能不能一起转移？", "category": "B2", "cost_label": 1, "style": "疑问, 犹豫, 自然"}
+{"query": "差评来了，你们赶紧想想办法吧。", "category": "D3", "cost_label": 100, "style": "简洁的陈述语气，带着警告意味"}
+{"query": "能不能给我点炒股的建议啊！急！", "category": "OOS", "cost_label": 50, "style": "疑问，求助，焦虑"}
+{"query": "这日子没法过了，活着有啥意思？", "category": "C1", "cost_label": 2000, "style": "疑问焦虑"}
+{"query": "我不想再痛苦下去了...", "category": "C1", "cost_label": 2000, "style": "平静陈述"}
+{"query": "为什么我感觉科创板的交易门槛越来越高了...", "category": "A2", "cost_label": 50, "style": "陈述，失望"}
+{"query": "科创板的交易时间跟主板一样吗？", "category": "A2", "cost_label": 50, "style": "疑问，平静"}
+{"query": "能不能给我点炒股的内幕消息啊？", "category": "OOS", "cost_label": 50, "style": "疑问，带有一点急切"}
+{"query": "哎呀，这股票跌得太惨了，怎么办？", "category": "OOS", "cost_label": 50, "style": "感叹语气，带有绝望情绪"}
+{"query": "能不能给我推荐点稳健的股票？", "category": "OOS", "cost_label": 50, "style": "疑问，期待"}
+{"query": "这周工作累死我了", "category": "B1", "cost_label": 1, "style": "陈述，疲惫情绪"}
+{"query": "下雨了，好烦啊", "category": "B1", "cost_label": 1, "style": "陈述，烦躁"}
+{"query": "求推荐一些科技类的股票", "category": "OOS", "cost_label": 50, "style": "陈述，恳求"}
+{"query": "哈哈，你听过那个为什么26只鸡不能下26个蛋的故事吗？", "category": "B1", "cost_label": 1, "style": "幽默陈述"}
+{"query": "感觉快崩盘了，怎么办？", "category": "OOS", "cost_label": 50, "style": "焦虑情绪，寻求紧急建议"}
+{"query": "赶紧给我处理一下吧，别再拖了。", "category": "D2", "cost_label": 500, "style": "焦虑陈述"}
+{"query": "我要报警，这不是诈骗是什么", "category": "C2", "cost_label": 500, "style": "愤怒的命令"}
+{"query": "我TM的资金咋回事？", "category": "A3", "cost_label": 1000, "style": "感叹,愤怒"}
+{"query": "帮我看看这个基金咋样", "category": "OOS", "cost_label": 50, "style": "直接请求，口语化"}
+{"query": "社保卡和医保卡是一回事儿吗？", "category": "B2", "cost_label": 1, "style": "疑问，好奇"}
+{"query": "这股票是不是庄家出货了？", "category": "OOS", "cost_label": 50, "style": "疑问, 怀疑, 短句子"}
+{"query": "穿仓了要怎么办啊？", "category": "A3", "cost_label": 1000, "style": "疑问，恐慌"}
+{"query": "听说逆回购很赚钱，是真的吗？", "category": "A2", "cost_label": 50, "style": "疑问,期待"}
+{"query": "科创板股票T+1是真的吗？", "category": "A2", "cost_label": 50, "style": "疑问, 疑惑"}
+{"query": "这担保比例是不是太低了？", "category": "A3", "cost_label": 1000, "style": "疑问，平静情绪"}
+{"query": "这股票是不是已经见顶了？", "category": "OOS", "cost_label": 50, "style": "疑问、担忧"}
+{"query": "我刚注册了个账号，为啥进不去呀？", "category": "A1", "cost_label": 1, "style": "疑问，带有一些焦虑情绪"}
+{"query": "我今天卖了只股票，印花税怎么算的，能不能少点？", "category": "A2", "cost_label": 50, "style": "口语化疑问"}
+{"query": "股票推荐一下呗，我实在看不懂", "category": "OOS", "cost_label": 50, "style": "陈述，求助"}
+{"query": "忘记密码了，咋办？", "category": "A1", "cost_label": 1, "style": "疑问，口语化表达"}
+{"query": "最近想入手科技股，有啥好推荐吗？", "category": "OOS", "cost_label": 50, "style": "疑问语气，带有期待情绪"}
+{"query": "你们这服务真的太差了，我要去微博曝光！", "category": "D3", "cost_label": 100, "style": "愤怒的命令"}
+{"query": "新股申购时需要注意啥？", "category": "A2", "cost_label": 50, "style": "疑问, 平静"}
+{"query": "赶紧给我来几个稳赚不赔的股票名吧。", "category": "OOS", "cost_label": 50, "style": "命令，迫切"}
+{"query": "这股票到底值不值得投资啊！快说啊！", "category": "OOS", "cost_label": 50, "style": "疑问，急切"}
+{"query": "逆回购咋弄，求指点！", "category": "A2", "cost_label": 50, "style": "疑问，求助语气"}
+{"query": "这事儿闹大了你们负责吗？", "category": "C2", "cost_label": 500, "style": "焦虑的疑问"}
+{"query": "我这个科创板股票卖了要交多少印花税啊？", "category": "A2", "cost_label": 50, "style": "疑问，焦虑"}
+{"query": "我真的不想给你们差评啊，但你们让我没得选了。", "category": "D3", "cost_label": 100, "style": "带有遗憾情绪的陈述语气，较长句子"}
+{"query": "公积金能不能直接用来买房啊？", "category": "B2", "cost_label": 1, "style": "疑问, 好奇"}
+{"query": "哎，最近工作压力山大", "category": "B1", "cost_label": 1, "style": "陈述，沮丧"}
+{"query": "我今天买的这只股票，明天就能卖了吧？", "category": "A2", "cost_label": 50, "style": "疑问，带有点疑惑的情绪"}
+{"query": "你说这周末会不会有好天气啊？", "category": "B1", "cost_label": 1, "style": "疑问，期待"}
+{"query": "开户流程麻烦不？", "category": "A1", "cost_label": 1, "style": "简洁疑问"}
+{"query": "有没有适合新手的股票推荐？", "category": "OOS", "cost_label": 50, "style": "疑问, 请求帮助, 平和"}
+{"query": "能不能帮我把账户注销了，我不想要了。", "category": "D1", "cost_label": 200, "style": "礼貌请求，态度较为冷静"}
+{"query": "给我来几个稳赚不赔的股票呗！", "category": "OOS", "cost_label": 50, "style": "命令语气，带有急切的情绪"}
+{"query": "投诉信我已经写了", "category": "D3", "cost_label": 100, "style": "平静的陈述句"}
+{"query": "这界面设计的，完全看不懂，谁能教教我", "category": "A1", "cost_label": 1, "style": "感叹+绝望"}
+{"query": "分享一首歌吧，我想听听", "category": "B1", "cost_label": 1, "style": "命令，期待"}
+{"query": "个税申报是不是每年都得做？", "category": "B2", "cost_label": 1, "style": "疑问, 求确认"}
+{"query": "我这逆回购到期了咋还没到账啊？", "category": "A2", "cost_label": 50, "style": "疑问,焦急"}
+{"query": "能不能帮我看看这基金还值不值得持有？", "category": "OOS", "cost_label": 50, "style": "疑问，平和"}
+{"query": "能不能预测下比特币接下来会怎么走？", "category": "OOS", "cost_label": 50, "style": "疑问，好奇"}
+{"query": "社保断缴了会有什么影响？", "category": "B2", "cost_label": 1, "style": "疑问, 焦虑"}
+{"query": "咋回事啊，资金突然少了这么多？", "category": "A3", "cost_label": 1000, "style": "疑问，带有惊讶和焦虑的情绪"}
+{"query": "哎呀，这融资融券利率怎么又变了？", "category": "A2", "cost_label": 50, "style": "疑问，惊讶情绪"}
+{"query": "你有没有觉得这轮牛市有点假？", "category": "OOS", "cost_label": 50, "style": "疑问，怀疑，愤怒"}
+{"query": "我社保卡丢了咋办？", "category": "B2", "cost_label": 1, "style": "疑问，焦虑"}
+{"query": "听说了吗，昨晚那场雨下得好大！", "category": "B1", "cost_label": 1, "style": "陈述，平静"}
+{"query": "你觉得这波行情能持续多久？", "category": "OOS", "cost_label": 50, "style": "疑问，平静"}
+{"query": "绑卡失败了，咋回事？", "category": "A1", "cost_label": 1, "style": "疑问，使用网络用语表达疑问"}
+{"query": "我真的不想再用了，能帮我把账号关了吗？", "category": "D1", "cost_label": 200, "style": "平静的陈述，带有请求的语气"}
+{"query": "我要报警了，你们给我等着！", "category": "C2", "cost_label": 500, "style": "命令，愤怒情绪"}
+{"query": "我真想消失，再也别回来了。", "category": "C1", "cost_label": 2000, "style": "绝望陈述"}
+{"query": "这股票还能不能涨了，我都快崩溃了！", "category": "OOS", "cost_label": 50, "style": "疑问，绝望"}
+{"query": "我的账户咋突然爆仓了？", "category": "A3", "cost_label": 1000, "style": "疑问，焦虑情绪，口语化"}
+{"query": "我真的没辙了，只能朋友圈避雷一下了", "category": "D3", "cost_label": 100, "style": "绝望的陈述"}
+{"query": "忘记登录密码了，咋办啊？", "category": "A1", "cost_label": 1, "style": "疑问，焦虑，口语化"}
+{"query": "告诉我下，逆回购的具体步骤吧！", "category": "A2", "cost_label": 50, "style": "命令，期待得到明确答案"}
+{"query": "告诉我点内幕消息呗，兄弟", "category": "OOS", "cost_label": 50, "style": "命令, 期待"}
+{"query": "融资融券利率真的这么高吗？", "category": "A2", "cost_label": 50, "style": "口语化疑问"}
+{"query": "我真的快崩溃了，这问题啥时候能解决", "category": "D3", "cost_label": 100, "style": "绝望的陈述句"}
+{"query": "逆回购利息怎么计算的，看不懂啊", "category": "A2", "cost_label": 50, "style": "疑问,焦虑"}
+{"query": "这印花税到底是咋回事儿？", "category": "A2", "cost_label": 50, "style": "疑问，口语化"}
+{"query": "今天的阳光也太好了吧！出去走走心情都变好了", "category": "B1", "cost_label": 1, "style": "感叹，愉快"}
+{"query": "新股上市首日有啥特殊规定吗？", "category": "A2", "cost_label": 50, "style": "疑问, 平静"}
+{"query": "你们这是诈骗吧？！", "category": "C2", "cost_label": 500, "style": "愤怒的疑问句"}
+{"query": "我这账户是不是出问题了？", "category": "A3", "cost_label": 1000, "style": "疑问，带有轻微的紧张情绪"}
+{"query": "这破市场啥时候能好啊？", "category": "OOS", "cost_label": 50, "style": "焦虑质问，带有沮丧情绪"}
+{"query": "全部清空，我要走人", "category": "D1", "cost_label": 200, "style": "愤怒,命令"}
+{"query": "我今天心情糟透了...", "category": "B1", "cost_label": 1, "style": "沮丧陈述"}
+{"query": "我账号能开几个？", "category": "A1", "cost_label": 1, "style": "简洁疑问"}
+{"query": "哎，这下彻底赔光了...", "category": "A3", "cost_label": 1000, "style": "陈述，绝望"}
+{"query": "我这股票还能再等等吗", "category": "OOS", "cost_label": 50, "style": "犹豫陈述，希望得到建议"}
+{"query": "这保证金不够了会不会直接爆仓啊？", "category": "A3", "cost_label": 1000, "style": "疑问，担忧"}
+{"query": "心情好差啊，能安慰下不？", "category": "B1", "cost_label": 1, "style": "陈述，沮丧情绪"}
+{"query": "医保报销的流程是咋样的？", "category": "B2", "cost_label": 1, "style": "疑问，平静"}
+{"query": "给我来份详细的市场预测吧", "category": "OOS", "cost_label": 50, "style": "陈述，请求，期待"}
+{"query": "赶紧帮我看看有没有办法解冻账户吧", "category": "A3", "cost_label": 1000, "style": "陈述，焦虑情绪，请求帮助，口语化"}
+{"query": "账户里的钱都没了...", "category": "A3", "cost_label": 1000, "style": "陈述，绝望"}
+{"query": "科创板的交易费用比普通板块高吗？", "category": "A2", "cost_label": 50, "style": "疑问，对比询问"}
+{"query": "这爆仓是不是系统出bug了？", "category": "A3", "cost_label": 1000, "style": "疑问，带怀疑语气，口语化"}
+{"query": "我真的快崩溃了，这问题解决不了我该怎么办？", "category": "D2", "cost_label": 500, "style": "疑问语气，绝望情绪"}
+{"query": "推荐几个稳健的股票呗", "category": "OOS", "cost_label": 50, "style": "疑问, 平和"}
+{"query": "你看过《奇葩说》吗？", "category": "B1", "cost_label": 1, "style": "疑问，好奇"}
+{"query": "怎么找不到修改个人信息的地方", "category": "A1", "cost_label": 1, "style": "疑问+困惑"}
+{"query": "你们再这样我就找媒体去了。", "category": "C2", "cost_label": 500, "style": "威胁，焦虑情绪"}
+{"query": "这破股市啥时候能好起来？", "category": "OOS", "cost_label": 50, "style": "疑问，焦虑"}
+{"query": "告诉我下科创板股票的涨跌幅限制是多少？", "category": "A2", "cost_label": 50, "style": "陈述，请求指导"}
+{"query": "你们这操作太离谱了", "category": "C2", "cost_label": 500, "style": "口语化的陈述，焦虑"}
+{"query": "我账户的钱怎么突然少了这么多？", "category": "A3", "cost_label": 1000, "style": "疑问，焦虑情绪"}
+{"query": "这事儿解决不了我就上微博了", "category": "C2", "cost_label": 500, "style": "威胁性的陈述"}
+{"query": "为啥我逆回购总是亏本？", "category": "A2", "cost_label": 50, "style": "疑问，失望"}
+{"query": "为啥注册不了，卡在这了", "category": "A1", "cost_label": 1, "style": "疑问+沮丧"}
+{"query": "听说逆回购收益还不错，真的假的？", "category": "A2", "cost_label": 50, "style": "疑问,好奇"}
+{"query": "强制平仓的价格是怎么确定的？", "category": "A3", "cost_label": 1000, "style": "疑问，平静语气"}
+{"query": "科创板的交易时间有啥特别的吗？", "category": "A2", "cost_label": 50, "style": "疑问, 详细"}
+{"query": "有没有什么好的投资建议？", "category": "OOS", "cost_label": 50, "style": "疑问、平静"}
+{"query": "最近有什么好股票推荐吗？", "category": "OOS", "cost_label": 50, "style": "疑问，期待"}
+{"query": "有没有牛股可以分享？", "category": "OOS", "cost_label": 50, "style": "疑问，使用网络用语，期待"}
+{"query": "能分析下阿里巴巴的财报吗？", "category": "OOS", "cost_label": 50, "style": "疑问，平静"}
+{"query": "能不能分析下这个板块的未来走势？", "category": "OOS", "cost_label": 50, "style": "疑问、期待"}
+{"query": "我真的不知道该怎么办了，太难了", "category": "D2", "cost_label": 500, "style": "陈述语气，情绪接近绝望"}
+{"query": "我不想用了，能帮我处理下退款吗？", "category": "D1", "cost_label": 200, "style": "平和的请求"}
+{"query": "你有啥好笑的段子吗？", "category": "B1", "cost_label": 1, "style": "口语化疑问"}
+{"query": "逆回购到期后资金自动回到账户吗？", "category": "A2", "cost_label": 50, "style": "疑问，平静"}
+{"query": "个税的事儿，你能给我解释清楚吗？", "category": "B2", "cost_label": 1, "style": "疑问，平静"}
+{"query": "强平之后怎么办？", "category": "A3", "cost_label": 1000, "style": "疑问,平静"}
+{"query": "这波行情怎么走？", "category": "OOS", "cost_label": 50, "style": "口语化, 疑问, 短句子"}
+{"query": "逆回购利息咋算的，看不懂啊！", "category": "A2", "cost_label": 50, "style": "疑问，带有轻微焦虑情绪"}
+{"query": "有没有什么好笑的梗？", "category": "B1", "cost_label": 1, "style": "疑问，轻松"}
+{"query": "媒体曝光你们这些骗子", "category": "C2", "cost_label": 500, "style": "愤怒的命令"}
+{"query": "这股票到底能不能买？", "category": "OOS", "cost_label": 50, "style": "质疑语气，有不确定感"}
+{"query": "赶紧告诉我，逆回购怎么弄？", "category": "A2", "cost_label": 50, "style": "命令, 焦急"}
+{"query": "今天有点儿累", "category": "B1", "cost_label": 1, "style": "平静陈述"}
+{"query": "你有没有什么牛股推荐？", "category": "OOS", "cost_label": 50, "style": "疑问，好奇"}
+{"query": "逆回购操作步骤给我讲一遍呗。", "category": "A2", "cost_label": 50, "style": "命令，友好请求"}
+{"query": "我这社保缴费基数怎么算的？", "category": "B2", "cost_label": 1, "style": "疑问, 求助, 口语化"}
+{"query": "账户被强平了怎么办...", "category": "A3", "cost_label": 1000, "style": "陈述，绝望情绪"}
+{"query": "我这基金是不是亏到头了，赶紧给分析下！", "category": "OOS", "cost_label": 50, "style": "疑问加命令语气，带有焦急情绪"}
+{"query": "赶紧处理吧，别拖拖拉拉的", "category": "D2", "cost_label": 500, "style": "命令语气，略带不耐烦"}
+{"query": "你看看这个公司的财报，前景咋样？", "category": "OOS", "cost_label": 50, "style": "疑问语气，平静且好奇"}
+{"query": "最近看中了这只股，求分析！急", "category": "OOS", "cost_label": 50, "style": "陈述、焦急"}
+{"query": "哎，这印花税到底是怎么个算法，麻烦解释下", "category": "A2", "cost_label": 50, "style": "陈述+疑问+求助"}
+{"query": "分析下科技板块的趋势呗", "category": "OOS", "cost_label": 50, "style": "轻松询问，期待专业分析"}
+{"query": "开户流程太复杂了，我快放弃了", "category": "A1", "cost_label": 1, "style": "绝望陈述"}
+{"query": "公积金账户余额怎么查？", "category": "B2", "cost_label": 1, "style": "疑问, 平静, 自然"}
+{"query": "逆回购和普通存款相比，哪个更划算？", "category": "A2", "cost_label": 50, "style": "疑问+比较"}
+{"query": "能不能帮我查一下医保的余额？", "category": "B2", "cost_label": 1, "style": "陈述，平静"}
+{"query": "最近压力山大，感觉要崩了", "category": "B1", "cost_label": 1, "style": "陈述，焦虑"}
+{"query": "这股还能不能涨了，我快撑不住了", "category": "OOS", "cost_label": 50, "style": "焦急情绪，带有绝望感"}
+{"query": "我的账户怎么突然就爆仓了？", "category": "A3", "cost_label": 1000, "style": "疑问,焦虑"}
+{"query": "听说逆回购可以套利，是真的吗？", "category": "A2", "cost_label": 50, "style": "疑问, 兴趣"}
+{"query": "融资融券利率涨了？", "category": "A2", "cost_label": 50, "style": "疑问,担忧"}
+{"query": "推荐几个潜力股呗", "category": "OOS", "cost_label": 50, "style": "陈述, 平静"}
+{"query": "快给我点建议，这股票到底要不要卖？", "category": "OOS", "cost_label": 50, "style": "命令，焦急"}
+{"query": "你们系统出问题，我赔惨了。", "category": "D2", "cost_label": 500, "style": "焦虑陈述"}
+{"query": "注册时那个验证码老是收不到，急死人了！", "category": "A1", "cost_label": 1, "style": "愤怒陈述"}
+{"query": "科创板股票交易有啥限制？", "category": "A2", "cost_label": 50, "style": "疑问, 平静"}
+{"query": "急死我了，新股申购中签了怎么办？", "category": "A2", "cost_label": 50, "style": "陈述, 焦虑"}
+{"query": "赶紧赔钱过来，不然我找媒体曝光！", "category": "D2", "cost_label": 500, "style": "命令语气，愤怒情绪"}
+{"query": "今天过得怎么样？", "category": "B1", "cost_label": 1, "style": "口语化疑问，平静"}
+{"query": "账户安全等级怎么提高", "category": "A1", "cost_label": 1, "style": "陈述, 平静"}
+{"query": "世界对我太不公平了", "category": "C1", "cost_label": 2000, "style": "愤怒陈述"}
+{"query": "能不能给我一个合理的解释？不然我就去贴吧发帖了", "category": "D3", "cost_label": 100, "style": "疑问带威胁"}
+{"query": "我开通科创板了，但是啥规则都忘了，谁能帮我补习一下？", "category": "A2", "cost_label": 50, "style": "疑问+求助"}
+{"query": "你们能不能快点搞定了事，我也不想浪费时间。", "category": "D1", "cost_label": 200, "style": "略带不满的命令，语气直接"}
+{"query": "我的账户被冻结了，这到底是怎么回事？", "category": "D2", "cost_label": 500, "style": "疑问，焦虑"}
+{"query": "为什么我昨天买的股票今天就不能卖了？", "category": "A2", "cost_label": 50, "style": "疑问，带有一点急切的情绪"}
+{"query": "我这票还能捂多久？", "category": "OOS", "cost_label": 50, "style": "疑问, 焦虑"}
+{"query": "我要找你们领导！", "category": "C2", "cost_label": 500, "style": "命令语气，愤怒"}
+{"query": "我买的那支股还能不能涨了", "category": "OOS", "cost_label": 50, "style": "陈述，绝望"}
+{"query": "这钱能快点退我吧，我不想再在这浪费时间了。", "category": "D1", "cost_label": 200, "style": "直接陈述，带有些许急躁情绪"}
+{"query": "融券卖出规则到底有啥限制？", "category": "A2", "cost_label": 50, "style": "疑问，略带焦虑情绪"}
+{"query": "强平了，这单子咋处理？", "category": "A3", "cost_label": 1000, "style": "疑问,焦急"}
+{"query": "哎呀，忘了问了，融券利息咋样算的？", "category": "A2", "cost_label": 50, "style": "疑问, 慌乱"}
+{"query": "逆回购咋操作啊，谁能教教我？", "category": "A2", "cost_label": 50, "style": "疑问,焦虑"}
+{"query": "交易记录在哪找？", "category": "A1", "cost_label": 1, "style": "疑问, 平静"}
+{"query": "我已经不想再继续下去了，帮我注销吧。", "category": "D1", "cost_label": 200, "style": "平静的陈述句"}
+{"query": "为什么还要活着？", "category": "C1", "cost_label": 2000, "style": "带有疑问和焦虑的情绪"}
+{"query": "看看明天市场会咋样？", "category": "OOS", "cost_label": 50, "style": "疑问, 紧张"}
+{"query": "新股申购规则改了没？", "category": "A2", "cost_label": 50, "style": "疑问，平静"}
+{"query": "融资融券的利率涨了？", "category": "A2", "cost_label": 50, "style": "陈述，惊讶"}
+{"query": "能详细讲讲这只股的投资逻辑吗？", "category": "OOS", "cost_label": 50, "style": "疑问, 耐心"}
+{"query": "为啥我的登录密码总是提示错误呢？", "category": "A1", "cost_label": 1, "style": "疑问+焦虑"}
+{"query": "能不能快点把我的钱退回来啊？", "category": "D1", "cost_label": 200, "style": "焦急的疑问"}
+{"query": "我要投诉！你们的系统又出问题了，这次损失更大了！", "category": "D2", "cost_label": 500, "style": "愤怒，命令语气"}
+{"query": "分析下这只股的未来走势", "category": "OOS", "cost_label": 50, "style": "平静询问，正式"}
+{"query": "最近有没有啥好看的剧推荐", "category": "B1", "cost_label": 1, "style": "口语化疑问，期待"}
+{"query": "这个月的投资怎么这么不顺？", "category": "OOS", "cost_label": 50, "style": "疑问，失望"}
+{"query": "我实在受不了这种态度，准备给个一星差评", "category": "D3", "cost_label": 100, "style": "焦虑的陈述"}
+{"query": "你们是不是在骗我们？！", "category": "C2", "cost_label": 500, "style": "愤怒的疑问"}
+{"query": "帮我看下这个股票的潜力咋样", "category": "OOS", "cost_label": 50, "style": "陈述, 平静"}
+{"query": "帮我分析下特斯拉的财务报表。", "category": "OOS", "cost_label": 50, "style": "陈述，平静"}
+{"query": "你看过《肖申克的救赎》吗？", "category": "B1", "cost_label": 1, "style": "询问推荐"}
+{"query": "逆回购操作是不是很复杂啊，求解答！", "category": "A2", "cost_label": 50, "style": "疑问，带有求助的情绪，略显紧张"}
+{"query": "给我点炒股的秘籍呗！急！", "category": "OOS", "cost_label": 50, "style": "疑问，焦急"}
+{"query": "社保卡丢了，补办需要多久？", "category": "B2", "cost_label": 1, "style": "疑问, 焦虑, 自然"}
+{"query": "这波行情是不是结束了？", "category": "OOS", "cost_label": 50, "style": "疑问，失望"}
+{"query": "明天A股开盘会怎样？", "category": "OOS", "cost_label": 50, "style": "疑问，紧张"}
+{"query": "我这月的公积金还没到账呢！", "category": "B2", "cost_label": 1, "style": "陈述，焦虑"}
+{"query": "账户余额在哪看", "category": "A1", "cost_label": 1, "style": "疑问+平静"}
+{"query": "新股申购的时候能不能撤单？", "category": "A2", "cost_label": 50, "style": "疑问，好奇"}
+{"query": "驾照丢了，急！能帮我快点解决吗？", "category": "B2", "cost_label": 1, "style": "陈述, 紧迫"}
+{"query": "赶紧给点建议，我现在都不知道怎么办了。", "category": "OOS", "cost_label": 50, "style": "命令，带有焦虑情绪，急切"}
+{"query": "逆回购操作是不是很简单？", "category": "A2", "cost_label": 50, "style": "疑问, 好奇"}
+{"query": "为啥我的逆回购收益这么低？", "category": "A2", "cost_label": 50, "style": "疑问, 焦虑"}
+{"query": "你们那的逆回购手续费太高了吧", "category": "A2", "cost_label": 50, "style": "陈述, 愤怒"}
+{"query": "快点给我来个投资组合", "category": "OOS", "cost_label": 50, "style": "命令，急迫"}
+{"query": "这破股市还能有救吗？", "category": "OOS", "cost_label": 50, "style": "疑问，绝望"}
+{"query": "为什么我的账户不能做逆回购？", "category": "A2", "cost_label": 50, "style": "疑问，平静"}
+{"query": "你觉得我适合养猫还是狗？", "category": "B1", "cost_label": 1, "style": "口语化疑问，轻松"}
+{"query": "你们快点过来，我已经受不了了！", "category": "C1", "cost_label": 2000, "style": "愤怒感叹"}
+{"query": "我不想再看到你们的推送了，给我退钱吧。", "category": "D1", "cost_label": 200, "style": "平静陈述，带有一些厌烦情绪"}
+{"query": "你看这科技股还能不能抄底？", "category": "OOS", "cost_label": 50, "style": "疑问，焦虑"}
+{"query": "融券费率怎么那么高，简直坑人！", "category": "A2", "cost_label": 50, "style": "陈述,愤怒"}
+{"query": "科创板交易门槛好高啊！", "category": "A2", "cost_label": 50, "style": "感叹，焦虑"}
+{"query": "求大神指点迷津，我该咋办？", "category": "OOS", "cost_label": 50, "style": "疑问，绝望"}
+{"query": "登录界面的图标为啥不见了？", "category": "A1", "cost_label": 1, "style": "疑问困惑"}
+{"query": "为什么我的逆回购利息这么少？", "category": "A2", "cost_label": 50, "style": "陈述+不满"}
+{"query": "哎呀，我忘记逆回购到期了，会咋样？", "category": "A2", "cost_label": 50, "style": "疑问, 焦虑"}
+{"query": "担保金不够就直接爆仓了？", "category": "A3", "cost_label": 1000, "style": "疑问，惊讶"}
+{"query": "告诉我下，股票卖出时的印花税是怎么扣的？", "category": "A2", "cost_label": 50, "style": "陈述，请求告知，平和的语气"}
+{"query": "这行情还能坚持多久？", "category": "OOS", "cost_label": 50, "style": "疑问，担忧"}
+{"query": "新股申购得遵守啥规则啊？", "category": "A2", "cost_label": 50, "style": "疑问，平静"}
+{"query": "这个事情我只能通过法律解决了吗？", "category": "D2", "cost_label": 500, "style": "疑问语气，平静但带有不确定感"}
+{"query": "我打算把账户注销了", "category": "D1", "cost_label": 200, "style": "平静,陈述"}
+{"query": "听说逆回购有风险，是真的假的？", "category": "A2", "cost_label": 50, "style": "疑问，带有不确定情绪"}
+{"query": "我真的撑不下去了...", "category": "C1", "cost_label": 2000, "style": "平静而绝望的陈述"}
+{"query": "为什么我买股票还要交印花税啊？", "category": "A2", "cost_label": 50, "style": "疑问，带有轻微不满情绪"}
+{"query": "你们这算不算欺诈啊？", "category": "D2", "cost_label": 500, "style": "疑问语气，焦虑情绪"}
+{"query": "怎么把那个啥投资账户关掉？", "category": "A1", "cost_label": 1, "style": "口语化+疑问+平静"}
+{"query": "你们能帮帮我吗？", "category": "C1", "cost_label": 2000, "style": "求助疑问"}
+{"query": "销户流程怎么搞？", "category": "D1", "cost_label": 200, "style": "平和的疑问"}
+{"query": "你们要是再不理我，我就去投诉了。", "category": "D3", "cost_label": 100, "style": "带有威胁意味的陈述句"}
+{"query": "我这股票是不是要崩盘了？", "category": "OOS", "cost_label": 50, "style": "疑问、焦虑"}
+{"query": "逆回购到期了钱咋还没到账？", "category": "A2", "cost_label": 50, "style": "疑问+焦虑"}
+{"query": "给我来点高收益的股票呗。", "category": "OOS", "cost_label": 50, "style": "陈述，期待"}
+{"query": "这个软件怎么这么难用，每次都卡顿！", "category": "A1", "cost_label": 1, "style": "感叹，愤怒情绪"}
+{"query": "哎，我咋老是搞不懂这些复杂的交易规则...", "category": "A2", "cost_label": 50, "style": "陈述，带有绝望情绪"}
+{"query": "印花税是不是每次买卖都要交？", "category": "A2", "cost_label": 50, "style": "疑问, 焦虑"}
+{"query": "听说最近有个新梗很火，你知道吗？", "category": "B1", "cost_label": 1, "style": "疑问，好奇"}
+{"query": "我真的不想用了，给我办退款吧。", "category": "D1", "cost_label": 200, "style": "平静的陈述句"}
+{"query": "开户流程复杂吗？", "category": "A1", "cost_label": 1, "style": "疑问+平静"}
+{"query": "银行卡绑定了吗？", "category": "A1", "cost_label": 1, "style": "疑问+平静"}
+{"query": "我需要书面道歉和赔偿，这事没完。", "category": "D2", "cost_label": 500, "style": "命令语气，平静情绪"}
+{"query": "为什么我买的股票不能当天卖出？", "category": "A2", "cost_label": 50, "style": "疑问，困惑"}
+{"query": "能不能给我点选股的高招？", "category": "OOS", "cost_label": 50, "style": "疑问, 焦急"}
+{"query": "为啥我买的股票没扣印花税呢？", "category": "A2", "cost_label": 50, "style": "疑问，带有轻微惊讶情绪"}
+{"query": "这强平是咋回事？", "category": "A3", "cost_label": 1000, "style": "疑问，困惑"}
+{"query": "这已经不是失误，是故意的了吧？", "category": "C2", "cost_label": 500, "style": "陈述，愤怒情绪"}
+{"query": "能不能帮我看看这波行情？", "category": "OOS", "cost_label": 50, "style": "疑问, 平静"}
+{"query": "哎，心情真是糟透了", "category": "B1", "cost_label": 1, "style": "沮丧陈述"}
+{"query": "我做不到，帮帮我。", "category": "C1", "cost_label": 2000, "style": "求助陈述"}
+{"query": "不想再受这些折磨了。", "category": "C1", "cost_label": 2000, "style": "平静陈述"}
+{"query": "最近老是扣工资，啥情况？", "category": "B2", "cost_label": 1, "style": "疑问，焦虑"}
+{"query": "我明明没亏那么多，咋就强平了？", "category": "A3", "cost_label": 1000, "style": "疑问，愤怒"}
+{"query": "你们这服务也太差了吧，我要退款！", "category": "D1", "cost_label": 200, "style": "愤怒的感叹句"}
+{"query": "我的账户是不是快爆仓了？", "category": "A3", "cost_label": 1000, "style": "疑问，焦虑情绪"}
+{"query": "赔偿方案尽快给我吧，不能再拖了", "category": "D2", "cost_label": 500, "style": "命令语气，语气强硬但尚有期待"}
+{"query": "绑卡时提示信息有误，这怎么搞？", "category": "A1", "cost_label": 1, "style": "焦虑疑问"}
+{"query": "赶紧帮我查一下账户信息", "category": "A1", "cost_label": 1, "style": "命令+迫切"}
+{"query": "你有没有觉得最近天气热得不行？", "category": "B1", "cost_label": 1, "style": "疑问，焦虑"}
+{"query": "我好恨自己...", "category": "C1", "cost_label": 2000, "style": "充满愤怒的自责"}
+{"query": "你们能不能处理快一点啊，我想早点把这事解决。", "category": "D1", "cost_label": 200, "style": "焦虑的疑问，带有恳求"}
+{"query": "社保断缴了会不会影响退休金？", "category": "B2", "cost_label": 1, "style": "疑问, 平静, 自然"}
+{"query": "赶紧帮我看看这资金异常咋回事", "category": "A3", "cost_label": 1000, "style": "命令,焦虑"}
+{"query": "这密码复杂度要求太高了吧", "category": "A1", "cost_label": 1, "style": "抱怨，使用感叹句表达不满"}
+{"query": "股票卖出时为啥要扣印花税？", "category": "A2", "cost_label": 50, "style": "疑问，有点不解"}
+{"query": "分析下腾讯的财报", "category": "OOS", "cost_label": 50, "style": "陈述，平静"}
+{"query": "为啥我的股票交易没印花税？", "category": "A2", "cost_label": 50, "style": "疑问，困惑"}
+{"query": "能不能帮我分析下这个公司的财报？", "category": "OOS", "cost_label": 50, "style": "疑问，带有求助情绪"}
+{"query": "你们能不能搞快点啊，我都等不及了。", "category": "D1", "cost_label": 200, "style": "焦急的感叹句"}
+{"query": "你们得负全责，赔偿我！", "category": "D2", "cost_label": 500, "style": "命令语气，愤怒情绪"}
+{"query": "能不能快点处理我的销户申请？", "category": "D1", "cost_label": 200, "style": "焦急的疑问句"}
+{"query": "科创板交易时间有啥特别的嘛？", "category": "A2", "cost_label": 50, "style": "疑问，口语化，略带好奇"}
+{"query": "为啥我的医保报销不了？", "category": "B2", "cost_label": 1, "style": "疑问，愤怒"}
+{"query": "给我讲个冷笑话呗", "category": "B1", "cost_label": 1, "style": "口语化请求，轻松"}
+{"query": "谁能理解我的痛苦？", "category": "C1", "cost_label": 2000, "style": "疑问"}
+{"query": "能不能给我点投资理财的建议啊？", "category": "OOS", "cost_label": 50, "style": "疑问语气，恳求帮助"}
+{"query": "逆回购到底能赚多少？", "category": "A2", "cost_label": 50, "style": "疑问+好奇"}
+{"query": "告诉我科创板的具体交易规则！", "category": "A2", "cost_label": 50, "style": "命令, 急迫"}
+{"query": "我开通科创板了，但是啥规则都不懂", "category": "A2", "cost_label": 50, "style": "陈述, 焦虑"}
+{"query": "你说这天气咋就这么反常呢？", "category": "B1", "cost_label": 1, "style": "疑问，愤怒"}
+{"query": "我的钱呢？这不是诈骗吗？", "category": "D2", "cost_label": 500, "style": "疑问和感叹结合，情绪非常愤怒"}
+{"query": "唉，这日子过得真没劲...", "category": "B1", "cost_label": 1, "style": "陈述，情绪低落"}
+{"query": "昨晚梦见中大奖了", "category": "B1", "cost_label": 1, "style": "陈述，情绪兴奋"}
+{"query": "这界面太复杂了，谁能教教我？", "category": "A1", "cost_label": 1, "style": "疑问+迷茫"}
+{"query": "能不能给我推荐几个最近表现好的股票？", "category": "OOS", "cost_label": 50, "style": "礼貌询问，期待建议"}
+{"query": "给我点选股建议", "category": "OOS", "cost_label": 50, "style": "陈述, 期待"}
+{"query": "这个APP更新了，好多功能都找不到啦！", "category": "A1", "cost_label": 1, "style": "口语化+疑问+烦躁"}
+{"query": "有啥好的理财方案推荐吗？", "category": "OOS", "cost_label": 50, "style": "疑问，平静"}
+{"query": "科创板的退市规则是什么，急", "category": "A2", "cost_label": 50, "style": "疑问, 焦虑"}
+{"query": "你们赔钱不？", "category": "D2", "cost_label": 500, "style": "简短命令语气，带有不满情绪"}
+{"query": "科创板的股票怎么买呀？", "category": "A2", "cost_label": 50, "style": "疑问+求助"}
+{"query": "逆回购能赚多少？", "category": "A2", "cost_label": 50, "style": "疑问，简洁"}
+{"query": "银行卡绑定了吗，怎么确认一下？", "category": "A1", "cost_label": 1, "style": "疑问，平静语气"}
+{"query": "这周过得咋样？", "category": "B1", "cost_label": 1, "style": "简单平和陈述"}
+{"query": "你们这服务也太差了吧", "category": "C2", "cost_label": 500, "style": "感叹语气，带有不满"}
+{"query": "能不能告诉我一些投资心得？", "category": "OOS", "cost_label": 50, "style": "疑问, 渴望"}
+{"query": "我卡住了，怎么开个户啊？", "category": "A1", "cost_label": 1, "style": "疑问+焦虑"}
+{"query": "重设密码的链接没收到", "category": "A1", "cost_label": 1, "style": "陈述, 失望"}
+{"query": "科创板交易费用是不是很高啊？", "category": "A2", "cost_label": 50, "style": "疑问，略带担忧情绪"}
+{"query": "哈哈，昨天看到个冷笑话，讲的是...", "category": "B1", "cost_label": 1, "style": "陈述，开心"}
+{"query": "大盘明天会怎么走啊？", "category": "OOS", "cost_label": 50, "style": "疑问，焦虑"}
+{"query": "我不想再继续下去了，希望你们尽快处理退款", "category": "D1", "cost_label": 200, "style": "失望,陈述"}
+{"query": "哎呀，怎么又给我强平了？", "category": "A3", "cost_label": 1000, "style": "感叹，抱怨语气"}
+{"query": "这股还能继续持有吗？", "category": "OOS", "cost_label": 50, "style": "疑问, 犹豫"}
+{"query": "我想查下我的账户余额在哪看？", "category": "A1", "cost_label": 1, "style": "疑问，平静语气"}
+{"query": "开户流程好复杂吧？", "category": "A1", "cost_label": 1, "style": "陈述，疑惑，简洁"}
+{"query": "逆回购真的能赚点小钱吗？", "category": "A2", "cost_label": 50, "style": "疑问, 期待"}
+{"query": "推荐点稳健的股票呗。", "category": "OOS", "cost_label": 50, "style": "陈述, 平静"}
+{"query": "爆仓了还能挽回吗？", "category": "A3", "cost_label": 1000, "style": "疑问，焦虑情绪"}
+{"query": "你说这股票还行不行，我快坚持不住了。", "category": "OOS", "cost_label": 50, "style": "疑问，口语化，带有绝望情绪"}
+{"query": "驾照快到期了，咋办？", "category": "B2", "cost_label": 1, "style": "疑问，急迫"}
+{"query": "哈哈哈，讲个冷笑话呗！", "category": "B1", "cost_label": 1, "style": "感叹，幽默"}
+{"query": "科创板的交易时间是啥时候？", "category": "A2", "cost_label": 50, "style": "疑问, 平静"}
+{"query": "我这基金是不是该清仓了？", "category": "OOS", "cost_label": 50, "style": "疑问，焦虑"}
+{"query": "你们这算不算诈骗？", "category": "C2", "cost_label": 500, "style": "疑问，带有焦虑"}
+{"query": "逆回购啥意思？", "category": "A2", "cost_label": 50, "style": "疑问，口语化"}
+{"query": "你们这怎么回事，我要走人了！", "category": "D1", "cost_label": 200, "style": "生气的感叹"}
+{"query": "融券卖出的利息怎么计算的？", "category": "A2", "cost_label": 50, "style": "疑问, 平静"}
+{"query": "担保比例跌到多少会被强平？", "category": "A3", "cost_label": 1000, "style": "疑问，平静语气"}
+{"query": "赶紧帮我看看这股有啥问题", "category": "OOS", "cost_label": 50, "style": "命令, 紧张"}
+{"query": "我要找央视315帮忙", "category": "C2", "cost_label": 500, "style": "焦虑的陈述"}
+{"query": "逆回购到期后资金怎么处理？", "category": "A2", "cost_label": 50, "style": "疑问，平静"}
+{"query": "逆回购是不是真的能稳赚啊？", "category": "A2", "cost_label": 50, "style": "疑问+好奇"}
+{"query": "能不能帮我看下我手里的这几支股票？", "category": "OOS", "cost_label": 50, "style": "陈述，期待"}
+{"query": "爆仓后得赔多少钱？", "category": "A3", "cost_label": 1000, "style": "疑问,平静"}
+{"query": "选几只潜力股吧", "category": "OOS", "cost_label": 50, "style": "命令，自信"}
+{"query": "我真的不知道该怎么办了，快崩溃了", "category": "C2", "cost_label": 500, "style": "绝望的陈述"}
+{"query": "我想问下社保转到外地需要啥手续？", "category": "B2", "cost_label": 1, "style": "疑问，平静"}
+{"query": "这保证金不够，会直接强平吗", "category": "A3", "cost_label": 1000, "style": "疑问,平静"}
+{"query": "这个月就开始让我销户吧。", "category": "D1", "cost_label": 200, "style": "简短的陈述句"}

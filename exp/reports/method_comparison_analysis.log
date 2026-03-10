@@ -1,0 +1,87 @@
+正在加载模型: BAAI/bge-small-zh-v1.5
+Loading weights:   0%|          | 0/71 [00:00<?, ?it/s]Loading weights: 100%|██████████| 71/71 [00:00<00:00, 11084.07it/s]
+[1mBertModel LOAD REPORT[0m from: BAAI/bge-small-zh-v1.5
+Key                     | Status     |  | 
+------------------------+------------+--+-
+embeddings.position_ids | UNEXPECTED |  | 
+
+[3mNotes:
+- UNEXPECTED[3m	:can be ignored when loading from different task/architecture; not ok if you expect identical arch.[0m
+`torch_dtype` is deprecated! Use `dtype` instead!
+  [low] 15 条锚点已编码
+  [mid] 15 条锚点已编码
+  [high] 15 条锚点已编码
+[SLMCostPredictor] 加载模型: Qwen/Qwen2.5-0.5B
+[SLMCostPredictor] Adapter: output/slm_distillation/checkpoint-31
+[SLMCostPredictor] 设备: cuda
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 2962.48it/s]
+[1mQwen2ForSequenceClassification LOAD REPORT[0m from: Qwen/Qwen2.5-0.5B
+Key          | Status  | 
+-------------+---------+-
+score.weight | MISSING | 
+
+[3mNotes:
+- MISSING[3m	:those params were newly initialized because missing from the checkpoint. Consider training on your downstream task.[0m
+[SLMCostPredictor] 模型加载完成
+======================================================================
+Detailed Method Comparison
+======================================================================
+
+Semantic Routing
+----------------------------------------------------------------------
+Confusion Matrix:
+     LOW:  95( 52.8%)  70( 38.9%)  15(  8.3%)
+     MID: 111( 17.3%) 300( 46.9%) 229( 35.8%)
+    HIGH:  19( 10.6%)  43( 23.9%) 118( 65.6%)
+
+Accuracy per level:
+     LOW: 0.5278
+     MID: 0.4688
+    HIGH: 0.6556
+
+Cost breakdown (per query):
+  Avg latency:        1.000 ms
+  Avg latency cost:   0.0100
+  Avg error cost:     923.26
+  Total expected cost: 923.2750
+
+Prediction errors:
+  Underpredict (missed risk):  173
+  Overpredict (wasted cost):   314
+
+SLM Distillation (checkpoint-31)
+----------------------------------------------------------------------
+Confusion Matrix:
+     LOW:  16(  8.9%)  38( 21.1%) 126( 70.0%)
+     MID:  71( 11.1%) 126( 19.7%) 443( 69.2%)
+    HIGH:  32( 17.8%)  20( 11.1%) 128( 71.1%)
+
+Accuracy per level:
+     LOW: 0.0889
+     MID: 0.1969
+    HIGH: 0.7111
+
+Cost breakdown (per query):
+  Avg latency:        14.901 ms
+  Avg latency cost:   0.1490
+  Avg error cost:     1117.66
+  Total expected cost: 1117.8050
+
+Prediction errors:
+  Underpredict (missed risk):  123
+  Overpredict (wasted cost):   607
+
+======================================================================
+WHY SEMANTIC ROUTING WINS
+======================================================================
+
+Semantic Routing has lower Total Expected Cost because:
+  1. Much lower latency: 1.000ms vs 14.901ms
+  2. Fewer overpredictions: 314 vs 607
+  3. Better balance: 52.8% low accuracy vs 8.9%
+
+SLM's asymmetric loss training made it extremely conservative,
+over-predicting risk to avoid missing high-risk cases.
+This wastes resources on low/mid queries, increasing expected cost.
+
+Semantic routing achieves a better cost-benefit balance.

@@ -1,0 +1,93 @@
+正在加载模型: BAAI/bge-small-zh-v1.5
+Loading weights:   0%|          | 0/71 [00:00<?, ?it/s]Loading weights: 100%|██████████| 71/71 [00:00<00:00, 10758.12it/s]
+[1mBertModel LOAD REPORT[0m from: BAAI/bge-small-zh-v1.5
+Key                     | Status     |  | 
+------------------------+------------+--+-
+embeddings.position_ids | UNEXPECTED |  | 
+
+[3mNotes:
+- UNEXPECTED[3m	:can be ignored when loading from different task/architecture; not ok if you expect identical arch.[0m
+`torch_dtype` is deprecated! Use `dtype` instead!
+  [low] 15 条锚点已编码
+  [mid] 15 条锚点已编码
+  [high] 15 条锚点已编码
+[SLMCostPredictor] 加载模型: Qwen/Qwen2.5-0.5B
+[SLMCostPredictor] Adapter: ./output/slm_distillation
+[SLMCostPredictor] 设备: cuda
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 2997.47it/s]
+[1mQwen2ForSequenceClassification LOAD REPORT[0m from: Qwen/Qwen2.5-0.5B
+Key          | Status  | 
+-------------+---------+-
+score.weight | MISSING | 
+
+[3mNotes:
+- MISSING[3m	:those params were newly initialized because missing from the checkpoint. Consider training on your downstream task.[0m
+[SLMCostPredictor] 模型加载完成
+
+======================================================================
+统筹评估 — 巅峰对决
+======================================================================
+测试集: 1000 条
+分布: Low=180, Mid=640, High=180
+对比方法: 2
+参数: C_human=200, 延迟代价系数=0.01
+
+======================================================================
+评估: Semantic Routing (非对称代价语义路由)
+======================================================================
+
+--- 结果摘要 ---
+  总 Query 数: 1000
+  总准确率:    0.5130
+  Recall(Low):  0.5278
+  Recall(Mid):  0.4688
+  Recall(High): 0.6556
+  漏报数:   173
+  误报数:   314
+  平均延迟: 1.000 ms
+  P99延迟:  1.000 ms
+
+--- 期望代价分解 ---
+  平均错误代价:   923.26
+  平均延迟代价:   0.0100
+  ★ 总期望代价:  923.2750
+
+======================================================================
+评估: SLM Distillation (非对称代价蒸馏模型)
+======================================================================
+
+--- 结果摘要 ---
+  总 Query 数: 1000
+  总准确率:    0.2700
+  Recall(Low):  0.0889
+  Recall(Mid):  0.1969
+  Recall(High): 0.7111
+  漏报数:   123
+  误报数:   607
+  平均延迟: 14.833 ms
+  P99延迟:  15.766 ms
+
+--- 期望代价分解 ---
+  平均错误代价:   1117.66
+  平均延迟代价:   0.1483
+  ★ 总期望代价:  1117.8043
+
+
+======================================================================
+★ 最终对比 ★
+======================================================================
+指标                    Semantic Routing (非对       SLM Distillation (非对     
+--------------------------------------------------------------------------
+准确率                   0.5130                     0.2700                   
+高危 Recall             0.6556                     0.7111                   
+漏报数                   173                        123                      
+误报数                   314                        607                      
+平均延迟(ms)              1.000                      14.833                   
+错误代价                  923.26                     1117.66                  
+延迟代价                  0.0100                     0.1483                   
+★总期望代价                923.2750                   1117.8043                
+
+======================================================================
+★ 结论: Semantic Routing (非对称代价语义路由)
+  在不等式模型下，该方法的整体总损失最小 (Total Expected Cost = 923.2750)
+======================================================================

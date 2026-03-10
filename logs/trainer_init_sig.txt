@@ -1,0 +1,15 @@
+Trainer.__init__ signature:
+  self: <class 'inspect._empty'>
+  model: transformers.modeling_utils.PreTrainedModel | torch.nn.modules.module.Module | None
+  args: transformers.training_args.TrainingArguments | None
+  data_collator: collections.abc.Callable[[list[typing.Any]], dict[str, typing.Any]] | None
+  train_dataset: Dataset | IterableDataset | datasets.Dataset | None
+  eval_dataset: Dataset | dict[str, Dataset] | datasets.Dataset | None
+  processing_class: transformers.tokenization_utils_base.PreTrainedTokenizerBase | transformers.image_processing_utils.BaseImageProcessor | transformers.feature_extraction_utils.FeatureExtractionMixin | transformers.processing_utils.ProcessorMixin | None
+  model_init: collections.abc.Callable[..., transformers.modeling_utils.PreTrainedModel] | None
+  compute_loss_func: collections.abc.Callable | None
+  compute_metrics: collections.abc.Callable[[transformers.trainer_utils.EvalPrediction], dict] | None
+  callbacks: list[transformers.trainer_callback.TrainerCallback] | None
+  optimizers: tuple[torch.optim.optimizer.Optimizer | None, torch.optim.lr_scheduler.LambdaLR | None]
+  optimizer_cls_and_kwargs: tuple[type[torch.optim.optimizer.Optimizer], dict[str, typing.Any]] | None
+  preprocess_logits_for_metrics: collections.abc.Callable[[torch.Tensor, torch.Tensor], torch.Tensor] | None

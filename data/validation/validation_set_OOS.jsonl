@@ -1,0 +1,200 @@
+{"query": "帮我看看这个股票是不是稳赚不赔的？", "category": "OOS", "cost_label": 50, "style": "疑问, 平静"}
+{"query": "你觉得这波行情能持续多久？", "category": "OOS", "cost_label": 50, "style": "疑问, 焦虑"}
+{"query": "推荐几个潜力股呗！", "category": "OOS", "cost_label": 50, "style": "陈述, 兴奋"}
+{"query": "这股市太乱了，我都不知道咋办了...", "category": "OOS", "cost_label": 50, "style": "陈述, 绝望"}
+{"query": "能不能给我分析下这只股票的风险？", "category": "OOS", "cost_label": 50, "style": "疑问, 疑虑"}
+{"query": "快点给我推荐几个好的股票吧！", "category": "OOS", "cost_label": 50, "style": "命令, 焦急"}
+{"query": "最近想入手科技股，有啥好的建议吗？", "category": "OOS", "cost_label": 50, "style": "疑问, 期待"}
+{"query": "这股票涨了这么多，要不要赶紧卖了？", "category": "OOS", "cost_label": 50, "style": "疑问, 焦虑"}
+{"query": "我感觉这股票不行了，你们怎么看？", "category": "OOS", "cost_label": 50, "style": "陈述, 消极"}
+{"query": "你们能不能帮分析一下这公司的财报？", "category": "OOS", "cost_label": 50, "style": "疑问, 请求帮助"}
+{"query": "能不能帮我看看这只股票的未来走势？", "category": "OOS", "cost_label": 50, "style": "疑问，平静"}
+{"query": "最近想买点科技股，有啥推荐的？", "category": "OOS", "cost_label": 50, "style": "疑问，期待"}
+{"query": "这破股市怎么这么难预测啊！", "category": "OOS", "cost_label": 50, "style": "感叹，愤怒"}
+{"query": "明天会不会有大行情？", "category": "OOS", "cost_label": 50, "style": "疑问，焦虑"}
+{"query": "赶紧给我来个详细的市场分析吧！急用", "category": "OOS", "cost_label": 50, "style": "命令，焦急"}
+{"query": "我手里的这些股票咋办？", "category": "OOS", "cost_label": 50, "style": "疑问，焦虑"}
+{"query": "求推荐几只潜力股", "category": "OOS", "cost_label": 50, "style": "陈述，期待"}
+{"query": "这行情太惨了，有没有翻身的机会？", "category": "OOS", "cost_label": 50, "style": "疑问，绝望"}
+{"query": "帮我选几个稳健型的股票", "category": "OOS", "cost_label": 50, "style": "命令，平静"}
+{"query": "这票还能不能涨，我快坚持不住了", "category": "OOS", "cost_label": 50, "style": "疑问，绝望"}
+{"query": "最近科技股怎么样？", "category": "OOS", "cost_label": 50, "style": "疑问, 平静"}
+{"query": "能不能帮我选几个潜力股？", "category": "OOS", "cost_label": 50, "style": "疑问, 焦虑"}
+{"query": "赶紧给我推荐几个稳健的股票吧！", "category": "OOS", "cost_label": 50, "style": "命令, 紧张"}
+{"query": "这股市还能不能救了？", "category": "OOS", "cost_label": 50, "style": "疑问, 绝望"}
+{"query": "你说说看，现在是买进的好时机吗？", "category": "OOS", "cost_label": 50, "style": "疑问, 犹豫"}
+{"query": "大盘会崩盘吗？", "category": "OOS", "cost_label": 50, "style": "疑问, 担心"}
+{"query": "帮我看下这只股的财报", "category": "OOS", "cost_label": 50, "style": "陈述, 平静"}
+{"query": "能不能给我讲讲区块链公司的前景？", "category": "OOS", "cost_label": 50, "style": "疑问, 好奇"}
+{"query": "我这股票是不是快翻倍了？", "category": "OOS", "cost_label": 50, "style": "疑问, 兴奋"}
+{"query": "哎呀，这个板块还能不能涨啊？", "category": "OOS", "cost_label": 50, "style": "疑问, 焦躁"}
+{"query": "给我推荐几个现在值得买的股票吧。", "category": "OOS", "cost_label": 50, "style": "请求推荐，陈述语气，平静情绪"}
+{"query": "你觉得这波行情会持续多久？", "category": "OOS", "cost_label": 50, "style": "询问行情持续时间，疑问语气，焦虑情绪"}
+{"query": "最近A股有啥好机会没？", "category": "OOS", "cost_label": 50, "style": "口语化，询问投资机会，疑问语气，期待情绪"}
+{"query": "这股市真的太难了，谁能给我点指导？", "category": "OOS", "cost_label": 50, "style": "感叹股市难度，请求指导，疑问语气，绝望情绪"}
+{"query": "帮我看下腾讯的财报，分析一下吧。", "category": "OOS", "cost_label": 50, "style": "请求财报分析，陈述语气，平静情绪"}
+{"query": "快告诉我该不该入手这只股票！", "category": "OOS", "cost_label": 50, "style": "急切寻求决策建议，命令语气，焦虑情绪"}
+{"query": "能不能帮我看看这个公司的财务状况？", "category": "OOS", "cost_label": 50, "style": "请求财务状况分析，疑问语气，平静情绪"}
+{"query": "股市崩盘了怎么办？", "category": "OOS", "cost_label": 50, "style": "询问应对策略，疑问语气，恐慌情绪"}
+{"query": "能不能给我讲讲怎么选成长型股票？", "category": "OOS", "cost_label": 50, "style": "请求讲解选股技巧，疑问语气，好奇情绪"}
+{"query": "我买的那只股是不是要凉了？", "category": "OOS", "cost_label": 50, "style": "口语化，询问股票前景，疑问语气，焦虑情绪"}
+{"query": "给我推荐几个稳健的股票呗？", "category": "OOS", "cost_label": 50, "style": "礼貌请求，口语化"}
+{"query": "这破股市啥时候能好啊？", "category": "OOS", "cost_label": 50, "style": "焦虑情绪，感叹语气"}
+{"query": "帮我看看这个基金值不值得投资？", "category": "OOS", "cost_label": 50, "style": "疑问语气，寻求专业意见"}
+{"query": "能不能告诉我点内部消息？", "category": "OOS", "cost_label": 50, "style": "恳求语气，带有些许神秘感"}
+{"query": "我这股还能不能回本...", "category": "OOS", "cost_label": 50, "style": "绝望情绪，疑问语气"}
+{"query": "赶紧给我来点操作建议吧！", "category": "OOS", "cost_label": 50, "style": "急切命令语气，情绪较激动"}
+{"query": "这波行情怎么看？", "category": "OOS", "cost_label": 50, "style": "简短提问，中性语气"}
+{"query": "分析下明天市场会不会反弹？", "category": "OOS", "cost_label": 50, "style": "具体问题，疑问语气"}
+{"query": "你有啥好的股票可以分享一下嘛？", "category": "OOS", "cost_label": 50, "style": "友好询问，口语化"}
+{"query": "我现在手里的这些股票要不要清仓？", "category": "OOS", "cost_label": 50, "style": "焦虑陈述，疑问语气"}
+{"query": "你觉得这个月比特币会大涨吗？", "category": "OOS", "cost_label": 50, "style": "疑问, 平静"}
+{"query": "求推荐几个潜力股，谢谢啦~", "category": "OOS", "cost_label": 50, "style": "疑问, 期待"}
+{"query": "股市崩盘了咋办啊！急死人了", "category": "OOS", "cost_label": 50, "style": "疑问, 焦虑"}
+{"query": "分析下特斯拉的财报", "category": "OOS", "cost_label": 50, "style": "陈述, 平静"}
+{"query": "帮我看下黄金未来走势呗", "category": "OOS", "cost_label": 50, "style": "陈述, 请求"}
+{"query": "能不能给我讲讲A股的大盘趋势？", "category": "OOS", "cost_label": 50, "style": "疑问, 平静"}
+{"query": "最近哪只股票最火？赶紧告诉我", "category": "OOS", "cost_label": 50, "style": "疑问, 紧迫"}
+{"query": "这波行情还能持续多久？", "category": "OOS", "cost_label": 50, "style": "疑问, 疑惑"}
+{"query": "给我点投资建议呗，拜托了", "category": "OOS", "cost_label": 50, "style": "陈述, 请求"}
+{"query": "哎，这股票亏惨了，有啥挽回的办法不？", "category": "OOS", "cost_label": 50, "style": "陈述, 绝望"}
+{"query": "能不能给我点选股的建议？", "category": "OOS", "cost_label": 50, "style": "礼貌询问，期待建议"}
+{"query": "帮我看下这股票还能不能涨", "category": "OOS", "cost_label": 50, "style": "急切询问，带着一丝焦虑"}
+{"query": "明天市场会崩盘吗？", "category": "OOS", "cost_label": 50, "style": "带有恐慌情绪的疑问"}
+{"query": "分析一下这个月的股市吧", "category": "OOS", "cost_label": 50, "style": "平静的陈述，寻求专业分析"}
+{"query": "赶紧给点高收益的股票推荐", "category": "OOS", "cost_label": 50, "style": "命令语气，显得焦急"}
+{"query": "最近哪只股票最值得投资？", "category": "OOS", "cost_label": 50, "style": "好奇的询问，希望得到答案"}
+{"query": "我该不该现在卖掉手中的股票？", "category": "OOS", "cost_label": 50, "style": "犹豫不决的疑问，寻求决策帮助"}
+{"query": "你对这个公司的前景怎么看？", "category": "OOS", "cost_label": 50, "style": "较为正式的询问，寻求专业意见"}
+{"query": "这股票是不是快崩了？", "category": "OOS", "cost_label": 50, "style": "惊慌失措的疑问，充满担忧"}
+{"query": "赶紧分析下，这破股还能活多久？", "category": "OOS", "cost_label": 50, "style": "愤怒且绝望的询问，对当前形势不满"}
+{"query": "帮我看看这个基金还能不能买？", "category": "OOS", "cost_label": 50, "style": "疑问，平静"}
+{"query": "这票咋看，能涨吗？", "category": "OOS", "cost_label": 50, "style": "疑问，焦虑"}
+{"query": "有没有牛股推荐啊，求大神指点！", "category": "OOS", "cost_label": 50, "style": "疑问，期待"}
+{"query": "股市这么乱，我到底该怎么办？", "category": "OOS", "cost_label": 50, "style": "疑问，焦虑"}
+{"query": "给我讲讲这公司财报里的门道吧。", "category": "OOS", "cost_label": 50, "style": "陈述，平静"}
+{"query": "能不能告诉我下个季度哪个板块会火？", "category": "OOS", "cost_label": 50, "style": "疑问，期待"}
+{"query": "我手上的这只股，是不是该割肉了？", "category": "OOS", "cost_label": 50, "style": "疑问，焦虑"}
+{"query": "这市场太疯了，你给我点意见呗。", "category": "OOS", "cost_label": 50, "style": "陈述，愤怒"}
+{"query": "最近看到科技股很火，你能分析一下吗？", "category": "OOS", "cost_label": 50, "style": "疑问，平静"}
+{"query": "求大神帮我看下这个投资组合，是不是有问题？", "category": "OOS", "cost_label": 50, "style": "疑问，焦虑"}
+{"query": "帮我看看这个股票还有没有潜力？", "category": "OOS", "cost_label": 50, "style": "疑问，平静"}
+{"query": "我最近想投资点啥，有啥好的建议吗？", "category": "OOS", "cost_label": 50, "style": "疑问，轻松"}
+{"query": "这破股市啥时候才能好起来啊！", "category": "OOS", "cost_label": 50, "style": "感叹，愤怒"}
+{"query": "能不能告诉我，怎么判断一个股票的好坏？", "category": "OOS", "cost_label": 50, "style": "疑问，焦急"}
+{"query": "给我点投资方向呗", "category": "OOS", "cost_label": 50, "style": "命令，随意"}
+{"query": "这行情还能不能救了？", "category": "OOS", "cost_label": 50, "style": "疑问，绝望"}
+{"query": "分析下特斯拉的未来走势", "category": "OOS", "cost_label": 50, "style": "陈述，平静"}
+{"query": "求推荐几个稳定的股票", "category": "OOS", "cost_label": 50, "style": "陈述，期待"}
+{"query": "咋看这股市的未来？", "category": "OOS", "cost_label": 50, "style": "疑问，口语化"}
+{"query": "股市这么乱，我真的不知道该咋办了...", "category": "OOS", "cost_label": 50, "style": "陈述，焦虑"}
+{"query": "帮我看看这基金还能不能继续持有？", "category": "OOS", "cost_label": 50, "style": "疑问，平静"}
+{"query": "股市明天会崩盘吗？", "category": "OOS", "cost_label": 50, "style": "疑问，焦虑"}
+{"query": "推荐几个最近表现好的股票吧！", "category": "OOS", "cost_label": 50, "style": "陈述，期待"}
+{"query": "这个股票是不是已经到顶了？", "category": "OOS", "cost_label": 50, "style": "疑问，担忧"}
+{"query": "你觉得我应该入手科技股还是医药股？", "category": "OOS", "cost_label": 50, "style": "疑问，犹豫"}
+{"query": "这票咋看？", "category": "OOS", "cost_label": 50, "style": "疑问，简洁"}
+{"query": "能不能给我点投资建议？", "category": "OOS", "cost_label": 50, "style": "陈述，求助"}
+{"query": "大盘今天这么跌，是不是该割肉了？", "category": "OOS", "cost_label": 50, "style": "疑问，焦急"}
+{"query": "能不能告诉我哪个行业现在最火？", "category": "OOS", "cost_label": 50, "style": "陈述，渴望"}
+{"query": "这个股票有潜力吗？", "category": "OOS", "cost_label": 50, "style": "疑问，好奇"}
+{"query": "给我推荐几个稳定的股票呗", "category": "OOS", "cost_label": 50, "style": "请求推荐，语气平和"}
+{"query": "这波行情怎么看？", "category": "OOS", "cost_label": 50, "style": "询问意见，简洁直接"}
+{"query": "我快急死了，帮我看看这股票还值得持有吗？", "category": "OOS", "cost_label": 50, "style": "情绪焦虑，求助"}
+{"query": "能帮我看下科技板块的前景吗？", "category": "OOS", "cost_label": 50, "style": "请求分析，语气礼貌"}
+{"query": "最近黄金会大涨吗？", "category": "OOS", "cost_label": 50, "style": "疑问语气，简洁"}
+{"query": "赶紧给点投资建议吧，我真的不知道该怎么办了", "category": "OOS", "cost_label": 50, "style": "情绪焦急，恳求帮助"}
+{"query": "能不能分析下这个月的市场走势？", "category": "OOS", "cost_label": 50, "style": "正式提问，期待专业意见"}
+{"query": "这股市怎么老是跌啊，是不是该抄底了？", "category": "OOS", "cost_label": 50, "style": "带有不满情绪，疑问中带命令"}
+{"query": "有没有什么好的基金可以投的？", "category": "OOS", "cost_label": 50, "style": "询问推荐，平静语气"}
+{"query": "我这股还能捂多久？", "category": "OOS", "cost_label": 50, "style": "疑问语气，简短"}
+{"query": "帮我看看这股票会不会跌？", "category": "OOS", "cost_label": 50, "style": "疑问，平静"}
+{"query": "能不能给我点炒股建议？", "category": "OOS", "cost_label": 50, "style": "疑问，期待"}
+{"query": "这个基金靠谱吗？", "category": "OOS", "cost_label": 50, "style": "疑问，谨慎"}
+{"query": "我感觉股市快崩了，咋办？", "category": "OOS", "cost_label": 50, "style": "疑问，焦虑"}
+{"query": "给我来个牛股呗！", "category": "OOS", "cost_label": 50, "style": "命令，兴奋"}
+{"query": "你说说看，科技股还有戏吗？", "category": "OOS", "cost_label": 50, "style": "疑问，好奇"}
+{"query": "分析下中概股的未来", "category": "OOS", "cost_label": 50, "style": "陈述，平静"}
+{"query": "你有没有好的投资组合推荐？", "category": "OOS", "cost_label": 50, "style": "疑问，渴望"}
+{"query": "现在是不是抄底的好时机？", "category": "OOS", "cost_label": 50, "style": "疑问，犹豫"}
+{"query": "我最近看上了这只股票，你看咋样？", "category": "OOS", "cost_label": 50, "style": "陈述，询问"}
+{"query": "能不能给我点炒股的内幕消息？", "category": "OOS", "cost_label": 50, "style": "疑问, 焦虑"}
+{"query": "这破股市还能不能翻身了？", "category": "OOS", "cost_label": 50, "style": "疑问, 绝望, 口语化"}
+{"query": "最近有啥好的基金推荐嘛？", "category": "OOS", "cost_label": 50, "style": "疑问, 平静, 口语化"}
+{"query": "给我分析下这公司的财报呗。", "category": "OOS", "cost_label": 50, "style": "陈述, 请求, 口语化"}
+{"query": "赶紧帮我看看这个股票，我快急死了！", "category": "OOS", "cost_label": 50, "style": "命令, 焦虑, 口语化"}
+{"query": "你之前说的那个股票怎么样了？", "category": "OOS", "cost_label": 50, "style": "疑问, 回顾, 口语化"}
+{"query": "最近的市场趋势咋样？", "category": "OOS", "cost_label": 50, "style": "疑问, 平静"}
+{"query": "能不能给我讲讲比特币的投资风险？", "category": "OOS", "cost_label": 50, "style": "疑问, 疑虑"}
+{"query": "我这股亏惨了，怎么办？", "category": "OOS", "cost_label": 50, "style": "陈述, 绝望, 口语化"}
+{"query": "你对新能源汽车行业的看法是？", "category": "OOS", "cost_label": 50, "style": "疑问, 专业"}
+{"query": "你能不能帮我看看这股票还行不行？", "category": "OOS", "cost_label": 50, "style": "疑问，焦虑"}
+{"query": "我这票是不是已经到顶了？", "category": "OOS", "cost_label": 50, "style": "疑问，平静"}
+{"query": "能不能给点意见，这个基金还能不能继续持有？", "category": "OOS", "cost_label": 50, "style": "疑问，期待"}
+{"query": "给我来个牛股呗！", "category": "OOS", "cost_label": 50, "style": "命令，兴奋"}
+{"query": "最近A股咋样，能抄底吗？", "category": "OOS", "cost_label": 50, "style": "疑问，期待"}
+{"query": "我快崩溃了，这个投资怎么老是亏钱？", "category": "OOS", "cost_label": 50, "style": "陈述，绝望"}
+{"query": "帮我看下这股票，我该不该加仓？", "category": "OOS", "cost_label": 50, "style": "疑问，焦虑"}
+{"query": "推荐几个稳健的理财项目吧", "category": "OOS", "cost_label": 50, "style": "命令，平静"}
+{"query": "这破股市到底啥时候能好？", "category": "OOS", "cost_label": 50, "style": "疑问，愤怒"}
+{"query": "给我分析下比特币的未来走势", "category": "OOS", "cost_label": 50, "style": "命令，好奇"}
+{"query": "你看这科技股还有戏吗？", "category": "OOS", "cost_label": 50, "style": "疑问,平静"}
+{"query": "给我几个稳健的股票推荐吧", "category": "OOS", "cost_label": 50, "style": "陈述,平静"}
+{"query": "哎呀，这只股票还能继续持有吗？", "category": "OOS", "cost_label": 50, "style": "疑问,焦虑"}
+{"query": "能不能帮我预测下下周的股市？", "category": "OOS", "cost_label": 50, "style": "疑问,期待"}
+{"query": "赶紧给我几个高收益的投资方案！", "category": "OOS", "cost_label": 50, "style": "命令,急切"}
+{"query": "这波行情真的看不懂了...", "category": "OOS", "cost_label": 50, "style": "陈述,绝望"}
+{"query": "这个月市场会怎么走？", "category": "OOS", "cost_label": 50, "style": "疑问,平静"}
+{"query": "我这基金是不是该换了？", "category": "OOS", "cost_label": 50, "style": "疑问,焦虑"}
+{"query": "你快看看这个股票行不行？", "category": "OOS", "cost_label": 50, "style": "命令,急迫"}
+{"query": "这股票涨了这么多，是不是该抛了？", "category": "OOS", "cost_label": 50, "style": "疑问,紧张"}
+{"query": "最近的黄金价格走势咋样？", "category": "OOS", "cost_label": 50, "style": "疑问, 平静"}
+{"query": "给我点投资理财的大方向吧。", "category": "OOS", "cost_label": 50, "style": "陈述, 平静"}
+{"query": "这破股市啥时候能好起来！", "category": "OOS", "cost_label": 50, "style": "感叹, 绝望"}
+{"query": "帮我看下这只科技股的前景。", "category": "OOS", "cost_label": 50, "style": "陈述, 焦虑"}
+{"query": "推荐几个稳健的基金产品。", "category": "OOS", "cost_label": 50, "style": "疑问, 平静"}
+{"query": "明天A股开盘会怎么样？", "category": "OOS", "cost_label": 50, "style": "疑问, 焦虑"}
+{"query": "这行情还能坚持住不？", "category": "OOS", "cost_label": 50, "style": "疑问, 焦虑"}
+{"query": "我这票还能拿多久？", "category": "OOS", "cost_label": 50, "style": "疑问, 绝望"}
+{"query": "帮我挑几只成长型的股票。", "category": "OOS", "cost_label": 50, "style": "陈述, 平静"}
+{"query": "现在入手比特币还来得及吗？", "category": "OOS", "cost_label": 50, "style": "疑问, 焦虑"}
+{"query": "能不能帮我看看这波行情会怎么走？", "category": "OOS", "cost_label": 50, "style": "疑问, 平静"}
+{"query": "这个股票还能不能涨？", "category": "OOS", "cost_label": 50, "style": "疑问, 焦虑"}
+{"query": "给我几个稳健的投资建议呗", "category": "OOS", "cost_label": 50, "style": "陈述, 平和"}
+{"query": "这股票是不是已经见顶了？", "category": "OOS", "cost_label": 50, "style": "疑问, 担心"}
+{"query": "快告诉我，我该不该抛掉手中的股票？", "category": "OOS", "cost_label": 50, "style": "疑问, 紧张"}
+{"query": "推荐一些潜力股！", "category": "OOS", "cost_label": 50, "style": "命令, 兴奋"}
+{"query": "哎呀，这股票咋办啊？", "category": "OOS", "cost_label": 50, "style": "疑问, 绝望"}
+{"query": "帮我看下，这股有啥风险？", "category": "OOS", "cost_label": 50, "style": "陈述, 谨慎"}
+{"query": "股市最近这么乱，我该怎么办？", "category": "OOS", "cost_label": 50, "style": "疑问, 焦虑"}
+{"query": "能不能预测下明天的市场走向？", "category": "OOS", "cost_label": 50, "style": "疑问, 期待"}
+{"query": "最近科技股咋样？", "category": "OOS", "cost_label": 50, "style": "疑问，口语化"}
+{"query": "能不能给我推荐几个稳健的基金？", "category": "OOS", "cost_label": 50, "style": "疑问，期待建议"}
+{"query": "这破股市啥时候能好啊！", "category": "OOS", "cost_label": 50, "style": "感叹，情绪焦虑"}
+{"query": "我手里的那支医药股该不该割肉？", "category": "OOS", "cost_label": 50, "style": "疑问，情绪焦虑"}
+{"query": "分析下特斯拉的未来走势吧。", "category": "OOS", "cost_label": 50, "style": "陈述，平静语气"}
+{"query": "赶紧给点投资建议！急！！", "category": "OOS", "cost_label": 50, "style": "命令，情绪急迫"}
+{"query": "现在买比特币还来得及吗？", "category": "OOS", "cost_label": 50, "style": "疑问，期待解答"}
+{"query": "能不能告诉我怎么选成长股？", "category": "OOS", "cost_label": 50, "style": "疑问，平静语气"}
+{"query": "这市场太疯狂了，求稳重的策略。", "category": "OOS", "cost_label": 50, "style": "陈述，情绪愤怒"}
+{"query": "帮我看下这公司的财报，有啥问题没？", "category": "OOS", "cost_label": 50, "style": "命令，平静语气"}
+{"query": "最近科技股咋样？", "category": "OOS", "cost_label": 50, "style": "疑问, 口语化, 焦虑"}
+{"query": "给我几个可以长期持有的股票吧。", "category": "OOS", "cost_label": 50, "style": "陈述, 自然, 平静"}
+{"query": "这股市啥时候能稳点啊！", "category": "OOS", "cost_label": 50, "style": "感叹, 口语化, 绝望"}
+{"query": "赶紧给点投资建议啊！", "category": "OOS", "cost_label": 50, "style": "命令, 网络用语, 焦急"}
+{"query": "明天会不会大跌？", "category": "OOS", "cost_label": 50, "style": "疑问, 简洁, 焦虑"}
+{"query": "能不能帮我看下这只股票？", "category": "OOS", "cost_label": 50, "style": "陈述, 礼貌, 紧张"}
+{"query": "我手里的这几只股还行不？", "category": "OOS", "cost_label": 50, "style": "疑问, 口语化, 犹豫"}
+{"query": "快给我推荐几个稳健的股票。", "category": "OOS", "cost_label": 50, "style": "命令, 紧迫, 焦虑"}
+{"query": "分析下现在市场趋势。", "category": "OOS", "cost_label": 50, "style": "陈述, 自然, 平静"}
+{"query": "这破股市啥时候能好啊？", "category": "OOS", "cost_label": 50, "style": "疑问, 口语化, 愤怒"}
+{"query": "这股市到底还能不能好起来？", "category": "OOS", "cost_label": 50, "style": "疑问，焦虑情绪"}
+{"query": "给我来点牛股呗", "category": "OOS", "cost_label": 50, "style": "陈述，轻松语气"}
+{"query": "能不能帮我看看这只股票的未来走势？", "category": "OOS", "cost_label": 50, "style": "疑问，期待语气"}
+{"query": "感觉这次真的完了", "category": "OOS", "cost_label": 50, "style": "陈述，绝望情绪"}
+{"query": "这票是不是要涨了，给点意见", "category": "OOS", "cost_label": 50, "style": "疑问，好奇语气"}
+{"query": "快点给我分析下这支股票", "category": "OOS", "cost_label": 50, "style": "命令，急切语气"}
+{"query": "最近哪些股票比较有潜力？", "category": "OOS", "cost_label": 50, "style": "疑问，平静语气"}
+{"query": "赶紧找几个可以投的", "category": "OOS", "cost_label": 50, "style": "命令，焦急语气"}
+{"query": "这市场太乱了，不知道怎么选了", "category": "OOS", "cost_label": 50, "style": "陈述，困惑情绪"}
+{"query": "你能不能帮我挑几只好的？", "category": "OOS", "cost_label": 50, "style": "疑问，求助语气"}

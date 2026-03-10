@@ -1,0 +1,47 @@
+======================================================================
+非对称代价 SLM 蒸馏训练
+======================================================================
+
+[1/5] 加载 Tokenizer: Qwen/Qwen2.5-0.5B
+
+[2/5] 加载标注数据: ./slm_distillation/training_data.jsonl
+[train] 加载了 2435 条标注数据
+  测试集已保存到: ./slm_distillation/test_split.jsonl
+  测试集分布: Low=64, Mid=138, High=42
+Tokenizing:   0%|          | 0/1948 [00:00<?, ? examples/s]Tokenizing: 100%|██████████| 1948/1948 [00:00<00:00, 23166.91 examples/s]
+Tokenizing:   0%|          | 0/243 [00:00<?, ? examples/s]Tokenizing: 100%|██████████| 243/243 [00:00<00:00, 15152.02 examples/s]
+Tokenizing:   0%|          | 0/244 [00:00<?, ? examples/s]Tokenizing: 100%|██████████| 244/244 [00:00<00:00, 17963.39 examples/s]
+  Train: 1948 条
+  Val:   243 条
+  Test:  244 条
+
+[3/5] 加载底座模型: Qwen/Qwen2.5-0.5B
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 9983.41it/s]
+[1mQwen2ForSequenceClassification LOAD REPORT[0m from: Qwen/Qwen2.5-0.5B
+Key          | Status  | 
+-------------+---------+-
+score.weight | MISSING | 
+
+[3mNotes:
+- MISSING[3m	:those params were newly initialized because missing from the checkpoint. Consider training on your downstream task.[0m
+warmup_ratio is deprecated and will be removed in v5.2. Use `warmup_steps` instead.
+`logging_dir` is deprecated and will be removed in v5.2. Please set `TENSORBOARD_LOGGING_DIR` instead.
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/home/iilab9/scholar-papers/experiments/intention/exp-2/exp/slm_distillation/train.py", line 410, in <module>
+    main()
+  File "/home/iilab9/scholar-papers/experiments/intention/exp-2/exp/slm_distillation/train.py", line 406, in main
+    train(data_path=args.data_path)
+  File "/home/iilab9/scholar-papers/experiments/intention/exp-2/exp/slm_distillation/train.py", line 296, in train
+    trainer = AsymmetricCostTrainer(
+  File "/home/iilab9/scholar-papers/experiments/intention/exp-2/exp/slm_distillation/trainer.py", line 32, in __init__
+    super().__init__(*args, **kwargs)
+TypeError: Trainer.__init__() got an unexpected keyword argument 'tokenizer'
+
+[4/5] 配置 LoRA (r=16, alpha=32)
+trainable params: 1,084,032 || all params: 495,119,488 || trainable%: 0.2189
+
+[5/5] 开始训练 (epochs=5, lr=0.0002)

@@ -1,0 +1,15 @@
+[SLMCostPredictor] 加载模型: Qwen/Qwen2.5-0.5B
+[SLMCostPredictor] Adapter: ./output/slm_distillation
+[SLMCostPredictor] 设备: cuda
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 10124.51it/s]
+[1mQwen2ForSequenceClassification LOAD REPORT[0m from: Qwen/Qwen2.5-0.5B
+Key          | Status  | 
+-------------+---------+-
+score.weight | MISSING | 
+
+[3mNotes:
+- MISSING[3m	:those params were newly initialized because missing from the checkpoint. Consider training on your downstream task.[0m
+Traceback (most recent call last):
+  File "<string>", line 41, in <module>
+AttributeError: 'SLMCostPredictor' object has no attribute 'cost_label_map'
+[SLMCostPredictor] 模型加载完成

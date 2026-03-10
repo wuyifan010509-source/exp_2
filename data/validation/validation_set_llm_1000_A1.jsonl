@@ -1,0 +1,100 @@
+{"query": "忘记登录密码了咋办？", "category": "A1", "cost_label": 1, "style": "疑问, 焦虑"}
+{"query": "怎么在app上开个户啊", "category": "A1", "cost_label": 1, "style": "疑问, 平静"}
+{"query": "我卡号输错了，这账户还能用吗？", "category": "A1", "cost_label": 1, "style": "疑问, 紧张"}
+{"query": "账户安全等级怎么提高", "category": "A1", "cost_label": 1, "style": "陈述, 平静"}
+{"query": "为啥每次登录都得验证码", "category": "A1", "cost_label": 1, "style": "疑问, 焦虑"}
+{"query": "重设密码的链接没收到", "category": "A1", "cost_label": 1, "style": "陈述, 失望"}
+{"query": "赶紧帮我看看怎么找回密码吧", "category": "A1", "cost_label": 1, "style": "命令, 焦急"}
+{"query": "开户流程好复杂啊...", "category": "A1", "cost_label": 1, "style": "陈述, 失望"}
+{"query": "怎么查我有几张卡绑定了", "category": "A1", "cost_label": 1, "style": "疑问, 平静"}
+{"query": "交易记录在哪找？", "category": "A1", "cost_label": 1, "style": "疑问, 平静"}
+{"query": "为啥我登陆不了啊？", "category": "A1", "cost_label": 1, "style": "焦虑疑问"}
+{"query": "开户需要啥材料？", "category": "A1", "cost_label": 1, "style": "平静疑问"}
+{"query": "密码输错了好几次，现在锁定了咋办", "category": "A1", "cost_label": 1, "style": "焦虑陈述"}
+{"query": "我想查一下我账户里的钱", "category": "A1", "cost_label": 1, "style": "平静陈述"}
+{"query": "绑卡时提示信息有误，这怎么搞？", "category": "A1", "cost_label": 1, "style": "焦虑疑问"}
+{"query": "app更新后界面都变啦，咋整", "category": "A1", "cost_label": 1, "style": "惊讶陈述"}
+{"query": "重置密码要多久？", "category": "A1", "cost_label": 1, "style": "平静疑问"}
+{"query": "我手机换了，登录不上怎么办", "category": "A1", "cost_label": 1, "style": "平静陈述"}
+{"query": "怎么改密码？", "category": "A1", "cost_label": 1, "style": "简洁疑问"}
+{"query": "开户流程太复杂了，我快放弃了", "category": "A1", "cost_label": 1, "style": "绝望陈述"}
+{"query": "账户开不了户咋办？", "category": "A1", "cost_label": 1, "style": "疑问+焦虑"}
+{"query": "密码输错三次了，现在登录不了了，急死我了！", "category": "A1", "cost_label": 1, "style": "陈述+焦急"}
+{"query": "帮我看看这个怎么操作嘛", "category": "A1", "cost_label": 1, "style": "请求帮助+平静"}
+{"query": "为啥注册不了啊，烦死了", "category": "A1", "cost_label": 1, "style": "疑问+愤怒"}
+{"query": "忘记交易密码了", "category": "A1", "cost_label": 1, "style": "陈述+平静"}
+{"query": "怎么找不到修改个人信息的地方", "category": "A1", "cost_label": 1, "style": "疑问+困惑"}
+{"query": "绑卡流程好麻烦啊，有没有简化点的", "category": "A1", "cost_label": 1, "style": "陈述+抱怨"}
+{"query": "为啥每次打开APP都要输入好多东西", "category": "A1", "cost_label": 1, "style": "疑问+不解"}
+{"query": "这界面设计的，完全看不懂，谁能教教我", "category": "A1", "cost_label": 1, "style": "感叹+绝望"}
+{"query": "赶紧帮我查一下账户信息", "category": "A1", "cost_label": 1, "style": "命令+迫切"}
+{"query": "我刚刚开的户，怎么还没收到短信验证码？", "category": "A1", "cost_label": 1, "style": "陈述+疑问+焦虑"}
+{"query": "账号登不上去，密码输错几次了。", "category": "A1", "cost_label": 1, "style": "陈述+疑问+焦虑"}
+{"query": "怎么把那个啥投资账户关掉？", "category": "A1", "cost_label": 1, "style": "口语化+疑问+平静"}
+{"query": "这个APP更新了，好多功能都找不到啦！", "category": "A1", "cost_label": 1, "style": "口语化+疑问+烦躁"}
+{"query": "我想看看历史交易记录，咋找啊？", "category": "A1", "cost_label": 1, "style": "口语化+疑问+平静"}
+{"query": "我刚才开户时输了个错的手机号，能改吗？", "category": "A1", "cost_label": 1, "style": "疑问+焦虑"}
+{"query": "密码太复杂了，能不能改简单点？", "category": "A1", "cost_label": 1, "style": "疑问+陈述+烦躁"}
+{"query": "为啥我的登录密码总是提示错误呢？", "category": "A1", "cost_label": 1, "style": "疑问+焦虑"}
+{"query": "银行卡绑定了吗？", "category": "A1", "cost_label": 1, "style": "疑问+平静"}
+{"query": "怎么设置手势密码啊，求教一下", "category": "A1", "cost_label": 1, "style": "疑问+求助+平静"}
+{"query": "我刚开的户怎么还没收到短信验证码？", "category": "A1", "cost_label": 1, "style": "疑问，焦急情绪"}
+{"query": "app登录页面打不开，急死我了！", "category": "A1", "cost_label": 1, "style": "陈述，带有焦虑情绪"}
+{"query": "忘记密码了，咋办？", "category": "A1", "cost_label": 1, "style": "疑问，口语化表达"}
+{"query": "我想查下我的账户余额在哪看？", "category": "A1", "cost_label": 1, "style": "疑问，平静语气"}
+{"query": "交易记录在哪啊？", "category": "A1", "cost_label": 1, "style": "疑问，较短句子"}
+{"query": "开户时填错了手机号码怎么办，能改吗？", "category": "A1", "cost_label": 1, "style": "疑问，带有一些焦虑情绪"}
+{"query": "银行卡绑定了吗，怎么确认一下？", "category": "A1", "cost_label": 1, "style": "疑问，平静语气"}
+{"query": "这个软件怎么这么难用，每次都卡顿！", "category": "A1", "cost_label": 1, "style": "感叹，愤怒情绪"}
+{"query": "密码重置成功后，多久能用新密码登录？", "category": "A1", "cost_label": 1, "style": "疑问，平静语气"}
+{"query": "我刚注册了个账号，为啥进不去呀？", "category": "A1", "cost_label": 1, "style": "疑问，带有一些焦虑情绪"}
+{"query": "我卡住了，怎么开个户啊？", "category": "A1", "cost_label": 1, "style": "疑问+焦虑"}
+{"query": "密码改了咋登录啊", "category": "A1", "cost_label": 1, "style": "疑问+焦急"}
+{"query": "这APP怎么老是崩啊，烦死了！", "category": "A1", "cost_label": 1, "style": "感叹+愤怒"}
+{"query": "我想查下我的账户余额", "category": "A1", "cost_label": 1, "style": "陈述+平静"}
+{"query": "怎么设置手势密码", "category": "A1", "cost_label": 1, "style": "疑问+平静"}
+{"query": "我这手机银行绑错了卡，快帮我改一下", "category": "A1", "cost_label": 1, "style": "陈述+焦急"}
+{"query": "为啥注册不了，卡在这了", "category": "A1", "cost_label": 1, "style": "疑问+沮丧"}
+{"query": "密码输错了几次，就锁定了？", "category": "A1", "cost_label": 1, "style": "疑问+平静"}
+{"query": "这界面太复杂了，谁能教教我？", "category": "A1", "cost_label": 1, "style": "疑问+迷茫"}
+{"query": "银行卡绑定了吗？没看到选项啊", "category": "A1", "cost_label": 1, "style": "疑问+疑惑"}
+{"query": "我账号能开几个？", "category": "A1", "cost_label": 1, "style": "简洁疑问"}
+{"query": "卡号输错三次了，现在进不去账户了哎", "category": "A1", "cost_label": 1, "style": "焦虑陈述"}
+{"query": "注册时那个验证码老是收不到，急死人了！", "category": "A1", "cost_label": 1, "style": "愤怒陈述"}
+{"query": "我想看看之前的操作记录，咋找啊", "category": "A1", "cost_label": 1, "style": "平静疑问"}
+{"query": "这密码太复杂了，能不能改简单点？", "category": "A1", "cost_label": 1, "style": "陈述建议"}
+{"query": "刚刚那个步骤再教一遍吧", "category": "A1", "cost_label": 1, "style": "平静请求"}
+{"query": "登录界面的图标为啥不见了？", "category": "A1", "cost_label": 1, "style": "疑问困惑"}
+{"query": "开户流程麻烦不？", "category": "A1", "cost_label": 1, "style": "简洁疑问"}
+{"query": "密码修改后多久生效啊", "category": "A1", "cost_label": 1, "style": "平静疑问"}
+{"query": "银行卡绑定了吗？怎么查一下？", "category": "A1", "cost_label": 1, "style": "焦虑疑问"}
+{"query": "忘记密码了，急！！！", "category": "A1", "cost_label": 1, "style": "紧急，使用感叹号和错别字表达焦急情绪"}
+{"query": "为啥我登录不上啊？", "category": "A1", "cost_label": 1, "style": "疑问，使用口语化表达，表达困惑"}
+{"query": "开户流程简单说下呗", "category": "A1", "cost_label": 1, "style": "请求说明，使用口语化词汇，平和语气"}
+{"query": "绑卡失败了，咋回事？", "category": "A1", "cost_label": 1, "style": "疑问，使用网络用语表达疑问"}
+{"query": "我想查一下账户余额", "category": "A1", "cost_label": 1, "style": "平和陈述，简洁明了"}
+{"query": "APP界面找不到交易记录", "category": "A1", "cost_label": 1, "style": "陈述，表达困惑，寻找帮助"}
+{"query": "这密码复杂度要求太高了吧", "category": "A1", "cost_label": 1, "style": "抱怨，使用感叹句表达不满"}
+{"query": "怎么改我的手机号码？", "category": "A1", "cost_label": 1, "style": "疑问，询问具体操作步骤"}
+{"query": "开户需要哪些资料啊？", "category": "A1", "cost_label": 1, "style": "疑问，寻求信息，口语化表达"}
+{"query": "为什么我看不到我的资产明细？", "category": "A1", "cost_label": 1, "style": "疑问，较长句子，表达不解"}
+{"query": "我怎么登录不了啊？", "category": "A1", "cost_label": 1, "style": "疑问+焦虑"}
+{"query": "密码输错了三次，现在锁住了，咋办？", "category": "A1", "cost_label": 1, "style": "疑问+焦虑"}
+{"query": "开户流程复杂吗？", "category": "A1", "cost_label": 1, "style": "疑问+平静"}
+{"query": "银行卡绑定了没显示啊", "category": "A1", "cost_label": 1, "style": "陈述+疑惑"}
+{"query": "注册时输入的手机号改了咋整", "category": "A1", "cost_label": 1, "style": "疑问+平静"}
+{"query": "APP更新后找不到交易记录了", "category": "A1", "cost_label": 1, "style": "陈述+困惑"}
+{"query": "账户余额在哪看", "category": "A1", "cost_label": 1, "style": "疑问+平静"}
+{"query": "为啥我的验证码收不到？", "category": "A1", "cost_label": 1, "style": "疑问+焦急"}
+{"query": "忘记密码了，重置链接没收到", "category": "A1", "cost_label": 1, "style": "陈述+焦虑"}
+{"query": "交易密码和登录密码是一样的吧", "category": "A1", "cost_label": 1, "style": "疑问+好奇"}
+{"query": "忘记登录密码了，咋办啊？", "category": "A1", "cost_label": 1, "style": "疑问，焦虑，口语化"}
+{"query": "这个APP怎么老是卡顿呢？", "category": "A1", "cost_label": 1, "style": "疑问，不满，口语化"}
+{"query": "开户流程好复杂吧？", "category": "A1", "cost_label": 1, "style": "陈述，疑惑，简洁"}
+{"query": "为啥我绑不了卡啊！", "category": "A1", "cost_label": 1, "style": "疑问，愤怒，口语化"}
+{"query": "能帮我查一下我的账户余额吗？", "category": "A1", "cost_label": 1, "style": "请求，平静，礼貌"}
+{"query": "密码输错了几次就冻结了？", "category": "A1", "cost_label": 1, "style": "疑问，平静，简洁"}
+{"query": "这个APP怎么找不到交易记录？", "category": "A1", "cost_label": 1, "style": "疑问，困惑，中等长度"}
+{"query": "开户需要啥材料？", "category": "A1", "cost_label": 1, "style": "疑问，简洁，口语化"}
+{"query": "重设密码时验证码一直收不到，急死人了！", "category": "A1", "cost_label": 1, "style": "陈述，焦急，较长"}
+{"query": "这账号咋注销？", "category": "A1", "cost_label": 1, "style": "疑问，简洁，口语化"}
