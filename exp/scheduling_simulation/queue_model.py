@@ -116,6 +116,10 @@ class MMcQueue:
         
         return total_jobs / effective_service_rate if effective_service_rate > 0 else float('inf')
     
+    def is_empty(self) -> bool:
+        """检查队列是否为空（兼容优先级队列）"""
+        return len(self.queue) == 0
+    
     def get_queue_state(self) -> Dict:
         """获取当前队列状态"""
         busy_count = sum(1 for s in self.servers if s.busy)

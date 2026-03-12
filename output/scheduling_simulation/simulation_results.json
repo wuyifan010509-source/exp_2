@@ -2,12 +2,12 @@
   {
     "router_name": "LLM-Only",
     "total_requests": 300,
-    "total_error_cost": 17750.0,
-    "total_latency_cost": 23.99999999999984,
+    "total_error_cost": 44365.30999999996,
+    "total_latency_cost": 4.800000000000003,
     "total_human_cost": 0.0,
-    "expected_total_cost": 17774.0,
-    "catastrophic_error_count": 16,
-    "catastrophic_error_rate": 0.05333333333333334,
+    "expected_total_cost": 44370.109999999964,
+    "catastrophic_error_count": 40.799999999999976,
+    "catastrophic_error_rate": 0.13599999999999993,
     "avg_queueing_delay": 0.0,
     "max_queueing_delay": 0.0,
     "sla_violation_rate": 0.0,
@@ -33,46 +33,46 @@
   {
     "router_name": "Vanilla L2D (threshold=0.2)",
     "total_requests": 300,
-    "total_error_cost": 1350.0,
-    "total_latency_cost": 442205.14579057274,
-    "total_human_cost": 1350.0,
-    "expected_total_cost": 444905.14579057274,
+    "total_error_cost": 5.309999999999997,
+    "total_latency_cost": 96300.46791615878,
+    "total_human_cost": 6100.0,
+    "expected_total_cost": 102405.77791615878,
     "catastrophic_error_count": 0,
     "catastrophic_error_rate": 0.0,
-    "avg_queueing_delay": 1637723.9473724917,
-    "max_queueing_delay": 3630368.9481791058,
-    "sla_violation_rate": 0.9444444444444444,
+    "avg_queueing_delay": 883482.3111574202,
+    "max_queueing_delay": 1878065.787136273,
+    "sla_violation_rate": 0.8888888888888888,
     "server_utilization": 0.0,
-    "llm_count": 246,
-    "human_count": 54,
-    "deferral_rate": 0.18,
+    "llm_count": 56,
+    "human_count": 109,
+    "deferral_rate": 0.36333333333333334,
     "risk_distribution": {
-      "mid": {
-        "llm": 190,
-        "human": 0
-      },
       "low": {
         "llm": 56,
         "human": 0
       },
       "high": {
-        "llm": 0,
-        "human": 54
+        "llm": 36,
+        "human": 18
+      },
+      "mid": {
+        "llm": 99,
+        "human": 91
       }
     }
   },
   {
     "router_name": "Static Cost-Sensitive (C_human=100.0)",
     "total_requests": 300,
-    "total_error_cost": 1500.0,
-    "total_latency_cost": 383838.4001660911,
+    "total_error_cost": 3565.3100000000004,
+    "total_latency_cost": 37845.32464317342,
     "total_human_cost": 1350.0,
-    "expected_total_cost": 386688.4001660911,
+    "expected_total_cost": 42760.63464317342,
     "catastrophic_error_count": 0,
     "catastrophic_error_rate": 0.0,
-    "avg_queueing_delay": 1421550.8154299671,
-    "max_queueing_delay": 2856265.946749633,
-    "sla_violation_rate": 0.9259259259259259,
+    "avg_queueing_delay": 700766.4563550634,
+    "max_queueing_delay": 1440798.1220960463,
+    "sla_violation_rate": 0.8703703703703703,
     "server_utilization": 0.0,
     "llm_count": 246,
     "human_count": 54,
@@ -95,19 +95,19 @@
   {
     "router_name": "Dynamic Queue-Aware (Ours)",
     "total_requests": 300,
-    "total_error_cost": 12550.0,
-    "total_latency_cost": 23.759999999999845,
-    "total_human_cost": 75.0,
-    "expected_total_cost": 12648.76,
-    "catastrophic_error_count": 11,
-    "catastrophic_error_rate": 0.03666666666666667,
-    "avg_queueing_delay": 0.0,
-    "max_queueing_delay": 0.0,
-    "sla_violation_rate": 0.0,
+    "total_error_cost": 18445.310000000005,
+    "total_latency_cost": 10493.81486712228,
+    "total_human_cost": 850.0,
+    "expected_total_cost": 29789.124867122286,
+    "catastrophic_error_count": 14.880000000000006,
+    "catastrophic_error_rate": 0.04960000000000002,
+    "avg_queueing_delay": 308516.43726830237,
+    "max_queueing_delay": 647412.7097021792,
+    "sla_violation_rate": 0.8235294117647058,
     "server_utilization": 0.0,
-    "llm_count": 297,
-    "human_count": 3,
-    "deferral_rate": 0.01,
+    "llm_count": 266,
+    "human_count": 34,
+    "deferral_rate": 0.11333333333333333,
     "risk_distribution": {
       "mid": {
         "llm": 190,
@@ -118,8 +118,8 @@
         "human": 0
       },
       "high": {
-        "llm": 51,
-        "human": 3
+        "llm": 20,
+        "human": 34
       }
     }
   }

@@ -70,34 +70,33 @@ def estimate_llm_error_probability(query: str, true_level: str, use_model: bool 
     """
     估计 LLM 错误概率 P(LLM错)
     
-    策略：
-    1. 使用预训练的置信度估计模型（如果use_model=True）
-    2. 基于风险等级的启发式估计
+    修正后：
+    - 高风险：错误概率0.8（只有20%答对，高危问题LLM容易答错）
+    - 中风险：错误概率0.4（60%答对）
+    - 低风险：错误概率0.1（90%答对，简单问题LLM擅长）
     """
     if use_model:
         # TODO: 接入实际的SLM模型
-        # 这里可以调用 exp.slm_distillation.inference.SLMCostPredictor
         pass
     
-    # 启发式估计
-    # High风险：问题复杂，LLM容易答错
-    # Mid风险：一般业务问题
-    # Low风险：简单问题，LLM很擅长
+    # 修正后的启发式估计
+    # 高风险：高危复杂问题，LLM很容易答错（80%错误率）
+    # 中风险：一般业务问题，LLM有时会错（40%错误率）
+    # 低风险：简单常见问题，LLM很擅长（10%错误率）
     if true_level == "high":
-        # High风险：30%概率答错（实际取决于具体SLM性能）
-        base_error = 0.30
+        error_prob = 0.80  # 80%错误率，只有20%答对
     elif true_level == "mid":
-        base_error = 0.15
+        error_prob = 0.40  # 40%错误率，60%答对
     else:
-        base_error = 0.05
+        error_prob = 0.10  # 10%错误率，90%答对
     
-    # 根据查询长度调整（短查询可能更明确）
+    # 根据查询长度微调
     if len(query) < 10:
-        base_error *= 0.9
+        error_prob *= 0.9  # 短查询更容易，错误率降低
     elif len(query) > 50:
-        base_error *= 1.1
+        error_prob *= 1.05  # 长查询更难，错误率略增
     
-    return min(base_error, 0.95)  # 上限95%
+    return min(error_prob, 0.95)  # 上限95%
 
 
 def run_single_experiment(
