@@ -160,8 +160,22 @@ class MMcQueue:
         server.busy = True
         server.current_request = request
         
-        # 指数分布服务时间
-        service_time = np.random.exponential(1.0 / self.service_rate)
+        # 基于请求ID生成固定的服务时间（控制变量）
+        # 使用截断正态分布，服务时间集中在120秒附近（60-180秒）
+        np.random.seed(request.id + 42)  # +42确保与仿真随机种子不冲突
+        
+        # 均值120秒，标准差20秒，范围60-180秒
+        mean_service_time = 120.0
+        std_service_time = 20.0
+        min_service_time = 60.0
+        max_service_time = 180.0
+        
+        # 生成截断正态分布
+        service_time = np.random.normal(mean_service_time, std_service_time)
+        service_time = np.clip(service_time, min_service_time, max_service_time)
+        
+        np.random.seed()  # 重置随机种子
+        
         server.service_completion_time = current_time + service_time
         
         request.start_service_time = current_time
@@ -171,6 +185,7 @@ class MMcQueue:
             request.waiting_time = current_time - request.arrival_time
             self.stats["total_waiting_time"] += request.waiting_time
             self.stats["waiting_time_history"].append(request.waiting_time)
+            # print(request.waiting_time,",",self.stats["total_waiting_time"])
         
         self.stats["total_service_time"] += service_time
     
@@ -206,6 +221,7 @@ class MMcQueue:
         """平均等待时间"""
         if self.stats["total_completions"] == 0:
             return 0.0
+        print(self.stats["total_waiting_time"])
         return self.stats["total_waiting_time"] / self.stats["total_completions"]
     
     def get_server_utilization(self) -> float:

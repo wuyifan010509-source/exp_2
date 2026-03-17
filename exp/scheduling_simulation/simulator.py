@@ -338,7 +338,7 @@ class SchedulingSimulator:
             # 注意：lambda 单位是 req/min，需要转换为 req/s 用于指数分布
             # 0-30min: 早盘高峰，30-120min: 平时，120-150min: 午盘高峰，150-240min: 平时
             phases = [
-                (18000, 10.0/60),   # 0-30min: 10 req/min = 0.167 req/s (早盘高峰)
+                (18000, 300.0/60),   # 0-30min: 10 req/min = 0.167 req/s (早盘高峰)
                 (5400, 6.0/60),    # 30-120min: 2 req/min = 0.033 req/s (平时)
                 (1800, 18.0/60),    # 120-150min: 6 req/min = 0.1 req/s (午盘高峰)
                 (5400, 6.0/60),    # 150-240min: 2 req/min = 0.033 req/s (平时)
@@ -665,9 +665,12 @@ class SchedulingSimulator:
                 total_error_cost += expected_error_cost
                 total_latency_cost += latency_cost
                 
-                # 灾难性错误期望：所有High风险（无论P(error)多大）
+                # 灾难性错误期望：所有High风险（使用固定平均概率，避免个体差异影响）
                 if r.true_risk_level == "high":
-                    catastrophic_errors += r.llm_error_prob  # 期望错误数（小数）
+                    # 使用High风险的平均错误概率（0.75），而非个体概率
+                    # 这样CER计算更稳定，不受个别样本概率波动影响
+                    HIGH_AVG_ERROR_PROB = 0.75
+                    catastrophic_errors += HIGH_AVG_ERROR_PROB
             else:
                 # 人类处理：固定成本 + 延迟代价
                 total_human_cost += COST_CONFIG["human_fixed_cost"]

@@ -1,0 +1,157 @@
+[
+  {
+    "router_name": "LLM-Only",
+    "total_requests": 34,
+    "total_error_cost": 28943.979999999996,
+    "total_latency_cost": 0.5440000000000004,
+    "total_human_cost": 0.0,
+    "expected_total_cost": 28944.523999999998,
+    "catastrophic_error_count": 9.0,
+    "catastrophic_error_rate": 0.2647058823529412,
+    "avg_queueing_delay": 0.0,
+    "max_queueing_delay": 0.0,
+    "sla_violation_rate": 0.0,
+    "server_utilization": 0.0,
+    "llm_count": 34,
+    "human_count": 0,
+    "deferral_rate": 0.0,
+    "risk_distribution": {
+      "high": {
+        "llm": 12,
+        "human": 0
+      },
+      "mid": {
+        "llm": 14,
+        "human": 0
+      },
+      "low": {
+        "llm": 8,
+        "human": 0
+      }
+    }
+  },
+  {
+    "router_name": "Vanilla L2D (threshold=0.5)",
+    "total_requests": 34,
+    "total_error_cost": 1583.6999999999998,
+    "total_latency_cost": 1180.5683114170838,
+    "total_human_cost": 1500.0,
+    "expected_total_cost": 4264.268311417083,
+    "catastrophic_error_count": 0.75,
+    "catastrophic_error_rate": 0.022058823529411766,
+    "avg_queueing_delay": 78684.28742780558,
+    "max_queueing_delay": 184394.1776224009,
+    "sla_violation_rate": 0.2727272727272727,
+    "server_utilization": 0.0,
+    "llm_count": 19,
+    "human_count": 15,
+    "deferral_rate": 0.4411764705882353,
+    "risk_distribution": {
+      "high": {
+        "llm": 1,
+        "human": 11
+      },
+      "mid": {
+        "llm": 12,
+        "human": 2
+      },
+      "low": {
+        "llm": 6,
+        "human": 2
+      }
+    }
+  },
+  {
+    "router_name": "Static Cost-Sensitive (C_human=50.0)",
+    "total_requests": 34,
+    "total_error_cost": 293.97999999999996,
+    "total_latency_cost": 646.4879866498493,
+    "total_human_cost": 1200.0,
+    "expected_total_cost": 2140.467986649849,
+    "catastrophic_error_count": 0,
+    "catastrophic_error_rate": 0.0,
+    "avg_queueing_delay": 53844.665554154104,
+    "max_queueing_delay": 179800.04224178795,
+    "sla_violation_rate": 0.5,
+    "server_utilization": 0.0,
+    "llm_count": 22,
+    "human_count": 12,
+    "deferral_rate": 0.35294117647058826,
+    "risk_distribution": {
+      "mid": {
+        "llm": 14,
+        "human": 0
+      },
+      "high": {
+        "llm": 0,
+        "human": 12
+      },
+      "low": {
+        "llm": 8,
+        "human": 0
+      }
+    }
+  },
+  {
+    "router_name": "Dynamic Queue-Aware (Ours)",
+    "total_requests": 34,
+    "total_error_cost": 293.97999999999996,
+    "total_latency_cost": 267.1861213238184,
+    "total_human_cost": 1200.0,
+    "expected_total_cost": 1761.1661213238183,
+    "catastrophic_error_count": 0,
+    "catastrophic_error_rate": 0.0,
+    "avg_queueing_delay": 22236.176776984863,
+    "max_queueing_delay": 95241.41395964425,
+    "sla_violation_rate": 0.3333333333333333,
+    "server_utilization": 0.0,
+    "llm_count": 22,
+    "human_count": 12,
+    "deferral_rate": 0.35294117647058826,
+    "risk_distribution": {
+      "high": {
+        "llm": 0,
+        "human": 12
+      },
+      "mid": {
+        "llm": 14,
+        "human": 0
+      },
+      "low": {
+        "llm": 8,
+        "human": 0
+      }
+    }
+  },
+  {
+    "router_name": "Dynamic Priority Queue (Ours+)",
+    "total_requests": 34,
+    "total_error_cost": 293.97999999999996,
+    "total_latency_cost": 506.972674677321,
+    "total_human_cost": 1200.0,
+    "expected_total_cost": 2000.9526746773208,
+    "catastrophic_error_count": 0,
+    "catastrophic_error_rate": 0.0,
+    "avg_queueing_delay": 42218.38955644341,
+    "max_queueing_delay": 118863.90792591333,
+    "sla_violation_rate": 0.4166666666666667,
+    "server_utilization": 0.0,
+    "llm_count": 22,
+    "human_count": 12,
+    "deferral_rate": 0.35294117647058826,
+    "risk_distribution": {
+      "high": {
+        "llm": 0,
+        "human": 12
+      },
+      "mid": {
+        "llm": 14,
+        "human": 0
+      },
+      "low": {
+        "llm": 8,
+        "human": 0
+      }
+    }
+  }
+]
