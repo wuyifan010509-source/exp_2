@@ -338,7 +338,7 @@ class SchedulingSimulator:
             # 注意：lambda 单位是 req/min，需要转换为 req/s 用于指数分布
             # 0-30min: 早盘高峰，30-120min: 平时，120-150min: 午盘高峰，150-240min: 平时
             phases = [
-                (18000, 300.0/60),   # 0-30min: 10 req/min = 0.167 req/s (早盘高峰)
+                (180000, 6.0/60),   # 0-30min: 10 req/min = 0.167 req/s (早盘高峰)
                 (5400, 6.0/60),    # 30-120min: 2 req/min = 0.033 req/s (平时)
                 (1800, 18.0/60),    # 120-150min: 6 req/min = 0.1 req/s (午盘高峰)
                 (5400, 6.0/60),    # 150-240min: 2 req/min = 0.033 req/s (平时)

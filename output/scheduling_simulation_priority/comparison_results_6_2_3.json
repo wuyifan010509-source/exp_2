@@ -3,9 +3,9 @@
     "router_name": "LLM-Only",
     "total_requests": 300,
     "total_error_cost": 79133.00100000006,
-    "total_latency_cost": 1.4399999999999964,
+    "total_latency_cost": 2.879999999999993,
     "total_human_cost": 0.0,
-    "expected_total_cost": 79134.44100000006,
+    "expected_total_cost": 79135.88100000007,
     "catastrophic_error_count": 40.5,
     "catastrophic_error_rate": 0.135,
     "avg_queueing_delay": 0.0,
@@ -34,9 +34,9 @@
     "router_name": "Vanilla L2D (threshold=0.55)",
     "total_requests": 300,
     "total_error_cost": 9569.481000000003,
-    "total_latency_cost": 9455.431023702833,
-    "total_human_cost": 2040.0,
-    "expected_total_cost": 21064.912023702836,
+    "total_latency_cost": 18910.862047405666,
+    "total_human_cost": 4080.0,
+    "expected_total_cost": 32560.34304740567,
     "catastrophic_error_count": 11.25,
     "catastrophic_error_rate": 0.0375,
     "avg_queueing_delay": 463446.93253445264,
@@ -65,9 +65,9 @@
     "router_name": "Static Cost-Sensitive (C_human=50.0)",
     "total_requests": 300,
     "total_error_cost": 5365.560999999998,
-    "total_latency_cost": 8728.515041233539,
-    "total_human_cost": 2010.0,
-    "expected_total_cost": 16104.076041233537,
+    "total_latency_cost": 17457.030082467078,
+    "total_human_cost": 4020.0,
+    "expected_total_cost": 26842.591082467075,
     "catastrophic_error_count": 0,
     "catastrophic_error_rate": 0.0,
     "avg_queueing_delay": 434198.8378723154,
@@ -95,31 +95,31 @@
   {
     "router_name": "Dynamic Queue-Aware (Ours)",
     "total_requests": 300,
-    "total_error_cost": 6232.200999999998,
-    "total_latency_cost": 5210.802573589457,
-    "total_human_cost": 1680.0,
-    "expected_total_cost": 13123.003573589456,
-    "catastrophic_error_count": 0.75,
-    "catastrophic_error_rate": 0.0025,
-    "avg_queueing_delay": 310097.105570801,
-    "max_queueing_delay": 683411.5284320067,
-    "sla_violation_rate": 0.9622641509433962,
+    "total_error_cost": 7421.0009999999975,
+    "total_latency_cost": 7252.214519052745,
+    "total_human_cost": 2940.0,
+    "expected_total_cost": 17613.21551905274,
+    "catastrophic_error_count": 3.75,
+    "catastrophic_error_rate": 0.0125,
+    "avg_queueing_delay": 246592.00404941305,
+    "max_queueing_delay": 548765.7070864826,
+    "sla_violation_rate": 0.8979591836734694,
     "server_utilization": 0.0,
-    "llm_count": 244,
-    "human_count": 56,
-    "deferral_rate": 0.18666666666666668,
+    "llm_count": 251,
+    "human_count": 49,
+    "deferral_rate": 0.16333333333333333,
     "risk_distribution": {
       "mid": {
-        "llm": 187,
-        "human": 3
+        "llm": 190,
+        "human": 0
       },
       "low": {
         "llm": 56,
         "human": 0
       },
       "high": {
-        "llm": 1,
-        "human": 53
+        "llm": 5,
+        "human": 49
       }
     }
   }

@@ -177,8 +177,8 @@ def main():
     
     # 加载数据（使用带固定错误概率的数据集）
     test_data = load_test_data(
-        # "./data/validation/validation_set_1000_eval_with_prob.jsonl",
-        "./data/validation/risk_dataset.jsonl",
+        "./data/validation/validation_set_1000_eval_with_prob.jsonl",
+        # "./data/validation/risk_dataset.jsonl",
         num_requests=300
     )
     
@@ -206,7 +206,8 @@ def main():
         ("Vanilla L2D", VanillaL2DRouter(threshold=0.55
         ), "default"),
         ("Static Cost", StaticCostRouter(human_cost_threshold=50.0), "default"),
-        ("Dynamic (原版)", DynamicQueueAwareRouter(), "default"),
+        # ("Dynamic (原版)", DynamicQueueAwareRouter(), "default"),
+        ("Dynamic (原版)", DynamicQueueAwareRouter(delay_cost_mode="saturating",saturating_alpha=36.0,saturating_beta=0.025), "default"),
         # ("Dynamic Priority (优先级队列)", DynamicPriorityQueueRouter(), "priority"),
     ]
     
@@ -263,7 +264,7 @@ def main():
     output_dir = Path("./output/scheduling_simulation_priority")
     output_dir.mkdir(parents=True, exist_ok=True)
     
-    save_results_to_json(results, str(output_dir / "comparison_results.json"))
+    save_results_to_json(results, str(output_dir / "comparison_results_6_2_2.json"))
     
     print(f"\n{'='*80}")
     print("实验完成！")

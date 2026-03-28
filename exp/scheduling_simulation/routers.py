@@ -161,7 +161,8 @@ class StaticCostRouter(BaseRouter):
         delay_cost = expected_wait * 1000 * COST_CONFIG["latency_cost_per_ms"]
         cost_human = COST_CONFIG["human_fixed_cost"] + delay_cost
         
-        if cost_llm > self.human_cost_threshold:
+        if cost_llm > 50:
+            print("阈值",self.human_cost_threshold)
             assign_to = "human"
             reason = f"R_LLM={cost_llm:.2f} > 阈值{self.human_cost_threshold}，转人工"
         else:
@@ -194,17 +195,36 @@ class DynamicQueueAwareRouter(BaseRouter):
     P(LLM错) * C_error  vs  E[实时排队延迟] * C_delay + C_human_fixed
     
     当 LLM期望损失 > 人类期望损失 时，转人工
+    
+    支持两种延迟成本模式：
+    - linear: 线性增长（默认，与原代码兼容）
+    - saturating: 饱和递增函数 C_delay(t) = α(1 - e^(-βt))
     """
     
     def __init__(
         self,
         latency_cost_per_ms: float = None,
-        human_fixed_cost: float = None
+        human_fixed_cost: float = None,
+        delay_cost_mode: str = "linear",
+        saturating_alpha: float = 36.0,  # 饱和成本上限（约120秒*0.3元/秒）
+        saturating_beta: float = 0.025   # 增长速率，使60秒时约60%饱和
     ):
-        super().__init__("Dynamic Queue-Aware (Ours)")
+        """
+        Args:
+            latency_cost_per_ms: 每毫秒延迟成本（仅linear模式使用）
+            human_fixed_cost: 人工固定成本
+            delay_cost_mode: "linear" 或 "saturating"
+            saturating_alpha: 饱和函数最大成本（元）
+            saturating_beta: 饱和函数增长速率（1/秒）
+        """
+        mode_suffix = " (Saturating)" if delay_cost_mode == "saturating" else ""
+        super().__init__(f"Dynamic Queue-Aware{mode_suffix} (Ours)")
         
         self.latency_cost_per_ms = latency_cost_per_ms or COST_CONFIG["latency_cost_per_ms"]
         self.human_fixed_cost = human_fixed_cost or COST_CONFIG["human_fixed_cost"]
+        self.delay_cost_mode = delay_cost_mode
+        self.saturating_alpha = saturating_alpha
+        self.saturating_beta = saturating_beta
         
         # 决策统计
         self.stats = {
@@ -212,6 +232,26 @@ class DynamicQueueAwareRouter(BaseRouter):
             "human_decisions": 0,
             "avg_queue_wait_when_deferred": [],
         }
+    
+    def _compute_delay_cost(self, wait_seconds: float) -> float:
+        """
+        计算延迟成本
+        
+        Args:
+            wait_seconds: 预计等待时间（秒）
+            
+        Returns:
+            延迟成本（元）
+        """
+        if self.delay_cost_mode == "saturating":
+            # 饱和递增函数: C(t) = α(1 - e^(-βt))
+            # 参数设计：α=36元（约120秒线性成本），β=0.025
+            # 在典型等待时间（0-120秒）内与线性成本（0.3元/秒）相近
+            return self.saturating_alpha * (1 - np.exp(-self.saturating_beta * wait_seconds))
+        else:
+            # 线性增长（默认）
+            wait_ms = wait_seconds * 1000
+            return wait_ms * self.latency_cost_per_ms
     
     def route(self, request: Request, queue: MMcQueue, current_time: float) -> RoutingDecision:
         """
@@ -226,10 +266,9 @@ class DynamicQueueAwareRouter(BaseRouter):
         # 获取当前队列状态
         queue_state = queue.get_queue_state()
         expected_wait_seconds = queue_state["expected_wait"]
-        expected_wait_ms = expected_wait_seconds * 1000
         
-        # 延迟代价
-        delay_cost = expected_wait_ms * self.latency_cost_per_ms
+        # 延迟代价（根据模式选择计算方式）
+        delay_cost = self._compute_delay_cost(expected_wait_seconds)
         # 总人类成本
         cost_human_total = self.human_fixed_cost + delay_cost
         
